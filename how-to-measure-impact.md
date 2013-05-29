@@ -7,7 +7,9 @@
 Why measure the impact of research data?
 ========================================
 
-Explanation of what impact is, and why it is the *mot du jour* amongst policy makers.
+A key measure of the worth of research is the impact it has, both within the academic community and beyond.
+
+(Explanation of what impact is, and why it is the *mot du jour* amongst policy makers. Pathways to impact (EPSRC, AHRC), Impact statements for REF.)
 
 For researchers in short term: getting credit for full range of research outputs. Link to REF 2020 (and any other research QA schemes internationally that do/might count datasets)? By monitoring usage, get to know which forms of data preparation and data publication work the best.
 
