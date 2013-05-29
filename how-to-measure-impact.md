@@ -2,6 +2,8 @@
 % Alex Ball; Monica Duke
 % DRAFT: \today
 
+> This guide will help you to measure the impact of research data, whether your own or that of your department/institution. It provides ... This guide should interest researchers and principal investigators working on data-led research and administrators working with research quality assessment submissions.
+
 Why measure the impact of research data?
 ========================================
 
