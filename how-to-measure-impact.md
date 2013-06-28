@@ -32,17 +32,44 @@ Microattribution, ?nanopublication.
 Introduction to measures of impact other than citations: page views, download rates, tweets and retweets, trackbacks (from blogs, etc.), tagging, social bookmarking.
 
 Impact measurement services
+===========================
 
-* Thompson Reuters Data Citation Index
-* ImpactStory
-* ReaderMeter
-* ScienceCard
-* PloS Impact Explorer
-* PaperCritic
-* Crowdometer
-* ResearchGate Score
-* Google Scholar
-* Microsoft Academic Search
+Thomson Reuters Data Citation Index
+------------------------------------
+
+In October 2012, Thomson Reuters launched the Data Citation Index (DCI) as part of its Web of Knowledge service [@herther2012trt]. It provides records at four levels of granularity: nanopublication, dataset, data study (a research activity producing one or more data sets) and repository. The records can be searched and filtered in various ways, in the same way as (and indeed in combination with) the other indices in Web of Knowledge. The records are linked so that, for example, from a repository record one can view records for the data studies and data sets held by that repository. Sample citations are also provided.
+
+On each record, the DCI displays the number of times the entity has been cited in Web of Knowledge. Recognising the variety of ways in which data sets and repositories can be cited, the DCI counts not only entires in the reference list but also less formal citations that occur elsewhere in scholarly papers (for example, in the abstract or acknowledgements).
+
+Selection for inclusion in the DCI is at the level of whole repositories rather than individual data sets or studies. The criteria used for selecting repositories include longevity, sustainability, activity (in terms of new data being deposited), metadata held for the data (ideally in English, with links to associated literature, funding information, and so on), and quality assurance procedures [@tr2012res].
+
+ImpactStory
+-----------
+
+ReaderMeter
+-----------
+
+ScienceCard
+-----------
+
+PloS Impact Explorer
+--------------------
+
+PaperCritic
+-----------
+
+Crowdometer
+-----------
+
+ResearchGate Score
+------------------
+
+Google Scholar
+--------------
+
+Microsoft Academic Search
+-------------------------
+
 
 
 Tips for raising research data impact
