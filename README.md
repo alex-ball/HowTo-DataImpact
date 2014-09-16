@@ -11,7 +11,7 @@ Branching policy
 
 There are two main branches in use:
 
-* **master** currently contains the initial outline proposal for the document. It will contain review version (tags r1, r2...) and released versions (tags v1, v2...).
+* **master** currently contains the initial outline proposal for the document. It will contain versions for review and QA (tags r1, r2...) and released versions (tags v1, v2...).
 * **draft** is the working branch where the document is actually written and edited.
 
 
@@ -26,7 +26,7 @@ The references are generated from the bibliographic information in the `impact.b
 Compiling the document
 ----------------------
 
-If you have Pandoc installed you can generate more presentable versions of the document. For HTML:
+If you have Pandoc and pandoc-citeproc installed you can generate more presentable versions of the document. For HTML:
 
 ~~~~
 pandoc -s -S --biblio impact.bib --csl apa.csl how-to-measure-impact.md -o how-to-measure-impact.html
@@ -44,3 +44,34 @@ For PDF, you will need to have a TeX distribution installed. The command to pass
 pandoc -s -S --latex-engine=lualatex --biblio impact.bib --csl apa.csl -V fontsize=11pt -V papersize=a4paper -V lang=british -V geometry:hmargin=3cm -V geometry:vmargin=2.5cm -V mainfont="Charis SIL" -V monofont="DejaVu Sans Mono" how-to-measure-impact.md -o how-to-measure-impact-preview.pdf
 ~~~~
 
+If you have the Make utility and the fonts Charis SIL and DejaVu Sans Mono installed you can take advantage of the Makefile. To generate both HTML and a preview PDF, simply run this command:
+
+~~~~
+make
+~~~~
+
+For just the HTML:
+
+~~~~
+make html
+~~~~
+
+For just the PDF:
+
+~~~~
+make pdf
+~~~~
+
+To clean up the auxiliary files:
+
+~~~~
+make clean
+~~~~
+
+To remove all generated files:
+
+~~~~
+make distclean
+~~~~
+
+For a camera-ready PDF, there is an additional target `dtp`, but as that requires a lot of nasty dependencies it is not that useful to most people.

@@ -1,0 +1,211 @@
+\PassOptionsToPackage{draft}{hyperref}
+% Class options. As well as the usual Memoir options, you can also use:
+% * morefloats=number (increase the number to avoid 'Too many unprocessed
+%   floats' errors).
+% * mark=style (where style is 'draft' or 'rc', to mark the document as
+%   a draft or release candidate).
+% * unpacked (anything within \ifPackingmargins ... \fi is ignored).
+% * press (outputs a PDF suitable for professional printing).
+% * twocolumn (uses the original two-column layout)
+% * numbers (adds page numbers to the footer)
+%
+\documentclass[twocolumn,numbers]{dcchowto}%
+%
+% To add an additional partner name to the title page (may be repeated):
+% 
+%\partner{name}
+
+%
+% For adding a partner logo to the title page (may be repeated),
+% where 'offset' represents shift relative to DCC logo -- use key=value
+% syntax with 'drop=<length>' shifting down and 'left=<length>' shifting
+% left:
+% 
+\partnerlogo{drop=2cm}{jisc}
+
+%
+% This class uses Biblatex for citations. Specify the .bib file here:
+% 
+$if(biblio-files)$
+\bibliography{$biblio-files$}
+$endif$
+\renewcommand*{\bibfont}{\small}
+
+%
+% When the last page only contains the Further Information section, set the
+% height of the coloured masthead with this command:
+% 
+%\lastheadheight{200pt}
+
+%
+% Add your own macros, package requirements, etc. here.
+%
+
+\usepackage{balance,fixfixltx2e}
+\ifDraft
+	\usepackage{embedfile}
+	\embedfile[desc={Source code for this document}]{\jobname.tex}
+	$if(biblio-files)$
+	\embedfile[desc={Biblatex database for this document}]{$biblio-files$}
+	$endif$
+\fi
+
+\newlength{\overspill}
+\setlength{\overspill}{1em + 1.2pt}
+\usepackage[framemethod=tikz]{mdframed}
+\mdfsetup{
+  usetwoside=false,
+  roundcorner=2pt,
+  middlelinewidth=1.2pt,
+  middlelinecolor=dccmaroon,
+  innerleftmargin=1em,
+  innerrightmargin=1em,
+  innertopmargin=1em,
+  innerbottommargin=1em,
+  skipabove={1em plus .5em minus .2em},
+  skipbelow={0pt minus 1em},
+  leftmargin=-\overspill,
+  rightmargin=-\overspill,
+  fontcolor=dccblue,
+%  font=\raggedyright,
+  }
+
+\DeclareUrlCommand\txturl{\urlstyle{sf}}
+
+% bugfix for memoir 3.6j- with hyperref 6.82i+
+% \makeatletter
+%   \def\@footnotemark{%
+%     \leavevmode
+%     \ifhmode\edef\@x@sf{\the\spacefactor}\m@mmf@check\nobreak\fi
+%     \stepcounter{Hfootnote}%
+%     \global\let\Hy@saved@currentHref\@currentHref
+%     \hyper@makecurrent{Hfootnote}%
+%     \global\let\Hy@footnote@currentHref\@currentHref
+%     \global\let\@currentHref\Hy@saved@currentHref
+%     \hyper@linkstart{link}{\Hy@footnote@currentHref}%
+%     \@makefnmark
+%     \m@mmf@prepare
+%     \hyper@linkend
+%     \ifhmode\spacefactor\@x@sf\fi
+%     \relax
+%   }%
+% \addtoiargdef{\footref}{}{\m@mmf@prepare}
+% \makeatother
+% end of bugfix
+
+\newcommand{\itemc}{\item[\textcolor{dccblue}{\textbullet}]}
+\newcommand{\itemph}[1]{\item[\textcolor{dccblue}{#1}]}
+\setlength{\textfloatsep}{1em}
+\setlength{\intextsep}{1em}
+\setlength{\floatsep}{1em}
+\postcaption{\vspace*{-.5em}}
+
+%
+% Document metadata
+% 
+$if(title)$
+\title{$title$}
+$endif$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+\displayauthor{Alex Ball {\lightseries(DCC) and} Monica Duke {\lightseries(DCC)}}
+\date{$date$}
+
+%
+% Hack for abstract
+% 
+\usepackage{environ}
+
+\let\oldquote=\quote
+\let\endoldquote=\endquote
+\let\quote\relax
+\let\endquote\relax
+
+\NewEnviron{quote}%
+  {\global\let\tmp\BODY\aftergroup\docoverandabstract}
+
+\def\docoverandabstract{%
+  \let\quote=\oldquote
+  \let\endquote=\endoldquote
+  \makehowtotitle{\tmp}}
+
+\begin{document}
+%
+% Commands for use in body text
+% -----------------------------
+% 
+% \datagrid[height] = produces a block of ones and zeroes approximately height
+%   high and as wide as the containing line.
+%
+% \marginnote{text} = inserts text into the margin (without using footnote
+%   numbers).
+%   
+% \marginquote{quoted text}{citation} = inserts a quotation in the margin.
+% 
+% \ifPackingMargins ... \else ... \fi = switch for including material only when
+%   gaps in the margin need to be filled for aesthetic reasons.
+%
+% \begin{margitem} ... \end{margitem} = replacement itemize environment
+%   suitable for use in marginal material.
+%
+% \begin{fullwidth} ... \end{fullwidth} = environment for making content span
+%   the full width of the page; starred version is more reliable but does not
+%   break across pages.
+%
+% \begin{marginfigure} ... \end{marginfigure} = use as figure environment;
+%   figure is placed in the margin.
+%
+% \begin{margintable} ... \end{margintable} = use as table environment;
+%   table is placed in the margin.
+%
+% \begin{figure*} ... \end{figure*} = use as figure environment; figure is set
+%   to the full width of the page.
+%
+% \begin{table*} ... \end{table*} = use as table environment; table is set to
+%   the full width of the page.
+%
+% \setsidecappos{t}, \setsidecappos{b} = use in figure/table/* environments to
+%   override the default placement of the caption (top or bottom).
+
+$for(include-before)$
+$include-before$
+
+$endfor$
+$body$
+
+% To include the Further Information section on the same page as the last page
+% of main text, add a star to the name of the following environment. If using
+% a two-column layout, you will also need to mark out the text above that will
+% appear on the last page, with the onlastpage environment.
+% You can adjust the width of the separator line:
+%\setlength{\seprulethickness}{1em}%
+%\begin{furtherinfo*}
+\nonzeroparskip
+\section{Further information}
+\setlength{\parindent}{0pt}%
+\small\color{dccblue}%
+Two other DCC guides cover this topic:
+
+\textbf{Awareness Level:} \emph{\href{http://www.dcc.ac.uk/resources/briefing-papers/introduction-curation/data-citation-and-linking}{Introduction to Curation: Data Citation and Linking}} (2011) by Alex Ball and Monica Duke
+
+\textbf{Awareness Level:} \emph{\href{http://www.dcc.ac.uk/resources/briefing-papers/introduction-curation/persistent-identifiers}{Introduction to Curation: Persistent Identifiers}} (2006) by Joy Davidson
+
+\normalcolor
+\printbibliography[category=notcited]
+
+%\vspace{0pt plus 2\onelineskip}%
+
+\textbf{Please cite as:} Ball, A. \& Duke, M. (2012). ‘\thetitle’. \emph{DCC How-to Guides}. Edinburgh: Digital Curation Centre. Available online: \url{http://www.dcc.ac.uk/resources/how-guides}
+
+\vfill
+\noindent\bfseries\begingroup\color{dccblue}
+Follow the DCC on Twitter: \href{http://twitter.com/#!/digitalcuration}{@digitalcuration}, \href{http://twapperkeeper.com/hashtag/ukdcc}{\#ukdcc}
+
+\vfill
+\raggedleft\mdseries\footnotesize Revised: \ifx\undefined\thedate\today\else\thedate\fi\par
+\endgroup
+$for(include-after)$
+$include-after$
+
+$endfor$
+%\end{furtherinfo*}
+\end{document}
