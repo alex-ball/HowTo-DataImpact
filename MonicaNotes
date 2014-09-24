@@ -1,37 +1,93 @@
 ########### This file contains notes of possible resources that may be related
-########### to the data metrics guide e.g. webinars.  These still need to be
-########### checked to see if they are useful.  If useful they can be 
-########### referred to in the text, and a reference added in bibtex.
+########### to the data metrics guide e.g. webinars.  These are added here, 
+########### checked to see if they are useful.  If found useful they can be 
+########### referred to in the text, and a reference added in impact.bib
+########### Each entry is marked with a status:
+############# Needs to be checked for relevance i.e. has not been checked yet (or)
+############# Checked and found not relevant (or)
+############# Checked and found relevant (and)
+############### added to bib file (and)
+############### referred to from the text
 
+############# Needs to be checked for relevance i.e. has not been checked yet
 Research assessment should take data sharing into account
-Workshop finds that data sharing should be rewarded and universities and funders have an important role to play in this process. Metrics are not yet sufficiently developed as a measure to be used in assessment.
- 
-Data sharing should be considered normal research practice, in fact not sharing should be considered malpractice. Research funders and universities should support and encourage data sharing. There are a number of important aspects to consider when making data count in research and evaluation procedures. Metrics are a necessary tool in monitoring the sharing of data sets. However, data metrics are at present not very well developed and there is not yet enough experience in what these metrics actually mean. It is important to implement the culture of sharing through codes of conducts in the scientific communities.
- 
-These are some of the key findings from the workshop ‘Making Data Count – research data availability and research assessment’ which took place 11 and 12 April 2013 in Berlin. The event brought together researchers, research funders, publishers, infrastructure providers, policy makers and technical experts to discuss whether data sharing could be incorporated in research assessment. At the workshop the study ‘The Value of Research Data – Metrics for datasets from a cultural and technical point of view’ was presented and discussed.
-At present there is insufficient experience with alternative metrics and therefore it is hard to judge their value. More experiments are needed in this regard. Alternative metrics are not (at present) considered suitable as a measure of scientific quality. Peer review (both before or after publication) still has an important role to play. However, alternative metrics can be useful in showing the broader attention paid to research data. The citation of datasets should become standard behaviour among researchers.
-Funders should incorporate the sharing of research data sets more strongly when judging project proposals and should offer funds to make sharing possible. Institutions should provide training, support and awareness raising not only among junior but also senior researchers. Learned societies and research communities can encourage data sharing by establishing codes of conduct. And finally the underlying infrastructures (e.g. the use of  identifiers) must be in place and easy to use.
- 
-The report of the workshop is now available online and can be found at: http://www.knowledge-exchange.info/Default.aspx?ID=576
-Here you will also find links to the video recordings of the presentations, the slides and photographs taken at the event.
-############### 
-Sharing this audio talk because it's awesome and how timely. An inaugral lecture by Roger Burrows at Goldsmiths on 'Living by numbers? Metrics, algorithms and the Sociology of Everyday life'.
+Workshop finds that data sharing should be rewarded and universities and
+funders have an important role to play in this process. Metrics are not
+yet sufficiently developed as a measure to be used in assessment.
 
-He starts of by talking about social classes in space, geodemographics codifications, of course big data, using algorithms to classify, and finally on living by numbers in academia - academic metrics that are supposed to mimic market processes (quantified control).
+ 
+Data sharing should be considered normal research practice, in fact not
+sharing should be considered malpractice. Research funders and universities
+should support and encourage data sharing. There are a number of important
+aspects to consider when making data count in research and evaluation
+procedures. Metrics are a necessary tool in monitoring the sharing of
+data sets. However, data metrics are at present not very well developed
+and there is not yet enough experience in what these metrics actually mean.
+It is important to implement the culture of sharing through codes of
+conducts in the scientific communities.
+ 
+These are some of the key findings from the workshop ‘Making Data Count –
+research data availability and research assessment’ which took place 11 
+and 12 April 2013 in Berlin. The event brought together researchers, research 
+funders, publishers, infrastructure providers, policy makers and technical 
+experts to discuss whether data sharing could be incorporated in research 
+assessment. At the workshop the study ‘The Value of Research Data – Metrics 
+for datasets from a cultural and technical point of view’ was presented 
+and discussed.
+
+At present there is insufficient experience with alternative metrics and 
+therefore it is hard to judge their value. More experiments are needed in 
+this regard. Alternative metrics are not (at present) considered suitable 
+as a measure of scientific quality. Peer review (both before or after 
+publication) still has an important role to play. However, alternative 
+metrics can be useful in showing the broader attention paid to research 
+data. The citation of datasets should become standard behaviour among researchers.
+Funders should incorporate the sharing of research data sets more strongly 
+when judging project proposals and should offer funds to make sharing possible. 
+Institutions should provide training, support and awareness raising not only 
+among junior but also senior researchers. Learned societies and research 
+communities can encourage data sharing by establishing codes of conduct. 
+And finally the underlying infrastructures (e.g. the use of  identifiers) 
+must be in place and easy to use.
+ 
+The report of the workshop is now available online and can be found at: 
+http://www.knowledge-exchange.info/Default.aspx?ID=576
+Here you will also find links to the video recordings of the presentations, 
+the slides and photographs taken at the event.
+
+############# Checked and found relevant (and)
+TODO ############### added to bib file (and)
+TODO ############### referred to from the text
+
+Sharing this audio talk because it's awesome and how timely. An inaugral 
+lecture by Roger Burrows at Goldsmiths on 'Living by numbers? Metrics, 
+algorithms and the Sociology of Everyday life'.
+
+He starts of by talking about social classes in space, geodemographics 
+codifications, of course big data, using algorithms to classify, and finally 
+on living by numbers in academia - academic metrics that are supposed to 
+mimic market processes (quantified control).
 
 Anyway, great talk.
 
 Link: http://thinkingculture.wordpress.com/2013/05/01/living-by-numbers-metrics-algorithms-and-the-sociology-of-everyday-life-an-audio-of-a-talk-by-roger-burrows/
 
-Monica's comments: this researcher expresses some scepticism about metrics and the principle of measuring everything; using metrics to drive competition; people are being more intensely monitored and surveyed when metrics are introduced
+Monica's comments: this researcher expresses some scepticism about metrics 
+and the principle of measuring everything; using metrics to drive competition; 
+people are being more intensely monitored and surveyed when metrics are introduced
 Slide 28 - 'moment of metrics'
 Slide 29 - mentions data items
 Slide 33/34 mentions H-Index
 most relevant part of talk starts at 20.34 talking about academic metrics. 
-#######################
+
+############# Needs to be checked for relevance i.e. has not been checked yet
        Impact metrics for repositories – December 12th, 11am (GMT)
  
-In this free RSP webinar, Mark MacGillivray, PhD candidate at the University of Edinburgh and founder of the Cottage Labs, will present why repositories’ metrics are useful and which type of metrics can be collected. Mark will give a brief introduction on the technical developments on repositories’ metrics and will present some examples from his current work.
+In this free RSP webinar, Mark MacGillivray, PhD candidate at the University 
+of Edinburgh and founder of the Cottage Labs, will present why repositories’ 
+metrics are useful and which type of metrics can be collected. Mark will give 
+a brief introduction on the technical developments on repositories’ metrics 
+and will present some examples from his current work.
  
 This webinar may be of interest to librarians and repository managers.
  
@@ -76,23 +132,45 @@ Register now and gain access to the recorded archive for one year.
 Visit the event webpage to register and for more information:
 http://www.niso.org/news/events/2012/nisowebinars/alternative_metrics/ 
 
+############# Needs to be checked for relevance i.e. has not been checked yet
+Piwowar's talk looks most relevant
+
 1. Tech Talk   --  Thurs, 13 Sept, 12.30-1.30 AEST [=2.30am BST]
 Register: https://www4.gotomeeting.com/register/776628951
-Stuart Hungerford from ANDS will discuss the elements essential to building good citations for research data, including -- Digital Object Identifiers (DOIs) and the ANDS Cite My Data service; -- RIF-CS and Data Citation; and -- metadata elements for Data Citation. Discussion and open questions after the presentation.  Please send 'burning issues" questions to Stuart.hungerford@ands.org.au<mailto:Stuart.hungerford@ands.org.au> prior to the webinar.
+Stuart Hungerford from ANDS will discuss the elements essential to building 
+good citations for research data, including -- Digital Object Identifiers 
+(DOIs) and the ANDS Cite My Data service; -- RIF-CS and Data Citation; 
+and -- metadata elements for Data Citation. Discussion and open questions 
+after the presentation.  Please send 'burning issues" questions to 
+Stuart.hungerford@ands.org.au<mailto:Stuart.hungerford@ands.org.au> prior to the webinar.
 
 2. Ryan Scherle: Dryad and Data Citation  --  Wed, 26 September, 10.00 – 11.00 AEST [=1.00am BST]
 Register: https://www4.gotomeeting.com/register/697103751
-Ryan Scherle is the Data Repository Architect for Dryad Digital Repository (http://datadryad.org). Ryan will discuss Dryad's data citation practices and then lead a discussion aimed at developing more standard practices for citation worldwide.
+Ryan Scherle is the Data Repository Architect for Dryad Digital Repository 
+(http://datadryad.org). Ryan will discuss Dryad's data citation practices 
+and then lead a discussion aimed at developing more standard practices for citation worldwide.
 
 3. Citation Counts! with Heather Piwowar  --  Thurs, 18 October, 12:00 – 12:50 AEST [should be AEDT = 2.00am BST]
 Register: https://www4.gotomeeting.com/register/142371327
-Heather is currently at the University of British Columbia and has built a formidable following in the world of data metrics. Her research focuses on studying the patterns, prevalence and impact of data sharing and reuse behaviour of “small science” post-publication datasets. She is one of the founders of total-impact, a web application that reveals traditional and non-traditional impact metrics of scholarly articles, datasets, software, slides, and blog posts.
+Heather is currently at the University of British Columbia and has built 
+a formidable following in the world of data metrics. Her research focuses 
+on studying the patterns, prevalence and impact of data sharing and reuse 
+behaviour of “small science” post-publication datasets. She is one of the 
+founders of total-impact, a web application that reveals traditional and 
+non-traditional impact metrics of scholarly articles, datasets, software, 
+slides, and blog posts.
 
-*   Data Citation Webinars Series#1 June 2012:      ands.org.au/training/data-citation.html<http://ands.org.au/training/data-citation.html>
+*   Data Citation Webinars Series#1 June 2012:      
+ands.org.au/training/data-citation.html<http://ands.org.au/training/data-citation.html>
 
-Riding the wave report (KE) recommends developing metrics as one of top priorities (see blog posts which extracts relevant sections) http://blogs.ukoln.ac.uk/sagecite/2011/11/04/eu-riding-the-wave-report/
+############# Needs to be checked for relevance i.e. has not been checked yet
+Riding the wave report (KE) recommends developing metrics as one of top 
+priorities (see blog posts which extracts relevant sections) 
+http://blogs.ukoln.ac.uk/sagecite/2011/11/04/eu-riding-the-wave-report/
 
-Is there anything on data metrics and impact in this report?
+############# Needs to be checked for relevance i.e. has not been checked yet
 http://www.exeter.ac.uk/research/inspiring/impact/
 
-The DESCRIBE project was funded by Jisc to look at how we provide definitions and capture the evidence of research impact and provide the recommendations for universities, research funders and those who enable research.
+The DESCRIBE project was funded by Jisc to look at how we provide definitions 
+and capture the evidence of research impact and provide the recommendations 
+for universities, research funders and those who enable research.
