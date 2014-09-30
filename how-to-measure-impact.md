@@ -98,4 +98,12 @@ Relationship between alt metrics and traditional citation-based metrics: measuri
 Possibilities (or otherwise) for gaming the system. Ethical behaviour.
 
 Wider acceptance of alt metrics.
+(acceptance by whom? Funders? Institutions? Academics?)
 
+
+At least *some* academics have reservations about the culture of metrics and the use of measures
+to enforce competition. Audits, monitoring and data collection are considered to be a force that shapes academia, 
+in a manner that is too dominating.  Scepticism is expressed that value can be captured through metrics, particularly for research outputs. 
+The influence of metrics on decision-making e.g. choosing to publish in a journal with a high impact factor, is questioned. 
+In this light, the inclusion of data metrics is seen as an example of the increasing obsession with measurement, 
+and is not necessarily viewed as a positive development [@burrows2013lwn].  
