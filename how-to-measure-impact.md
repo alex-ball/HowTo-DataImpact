@@ -107,3 +107,10 @@ in a manner that is too dominating.  Scepticism is expressed that value can be c
 The influence of metrics on decision-making e.g. choosing to publish in a journal with a high impact factor, is questioned. 
 In this light, the inclusion of data metrics is seen as an example of the increasing obsession with measurement, 
 and is not necessarily viewed as a positive development [@burrows2013lwn].  
+
+David Colquhoun, in his submission to HEFCE on the role of metrics in research assessment, cautions against conflating certain metrics 
+with quality.  In particular he singles out some altmetrics such as Tweets for criticism, suggesting that popularity of retweeting may
+reflect trendiness, rather than quality.  In the examples given, he suspects that the content of the title determines what becomes
+popular, and not the article itself, which may not even have been read.  This limits the impact that the article has had on the 
+general public, let alone other academics [@colquhoun2014sub]. He expresses concern that the glamourising of articles leads to 
+inaccuracies, and to overlooking of the detail of the article and its quality. He strongly recommends against the use of altmetrics [@colquhoun2014wos].
