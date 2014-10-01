@@ -31,6 +31,8 @@ Microattribution, ?nanopublication.
 
 Introduction to measures of impact other than citations: page views, download rates, tweets and retweets, trackbacks (from blogs, etc.), tagging, social bookmarking.
 
+Impact in different communities - e.g. researcher use, public engagement, policy and practice
+
 Impact measurement services
 ===========================
 
@@ -70,7 +72,29 @@ Google Scholar
 Microsoft Academic Search
 -------------------------
 
+Plum Analytics
+---------------
+Acquired by EBSCO at the start of 2014 [@harris2014acq], Plum Analytics was founded in 2012 and developed its product
+with the University of Pittsburgh as a partner. Plum X, its main product, aims to illustrate a more comprehensive
+picture of research impact beyond (but including) citations. Amongst its customers it counts universities, 
+corporations, publishers and funders, and reports rapid growth since the acquisition.
 
+PlumX aggregates information about the use of research outputs, including "non-traditional"
+types, from external sources. It displays the information in various ways and provides different methods of interacting with the
+aggregated output.  The information sources that are aggregated include Dryad for information about datasets, Amazon for 
+books and YouTube for videos.  It aims to highlight impact from the previous eighteen months, to fill the gap created by 
+the publication lag, alongside citation data.
+
+The metrics gathered by Plum X are grouped into five categories: usage (clicks, downloads, views), captures (bookmarks, favourites),
+mentions (comments, reviews), social media (likes, shares, tweets) and citations. These categories are then displayed in dashboard views
+that can be controlled to present the data in different ways.  For example a university can view data by level,
+(e.g. school and programme), and drill down through the levels to individual researcher information, or to individual artefact (e.g. a 
+specific article).
+
+A 'plum print' summary is available for embedding into other sites, such as the institutional repository.  The information shown in the 
+embedded widget is customisable and links to the original source are made available. Researchers can help seed the information available 
+by making the link with their profiles in other systems (e.g. by entering a Slideshare ID).  An example of aggregated information
+is that for books, which takes in Amazon, GoodReads and Wikipedia presence [@michalek2014plu].
 
 Tips for raising research data impact
 =====================================
