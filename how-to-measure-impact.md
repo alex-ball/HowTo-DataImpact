@@ -14,8 +14,18 @@ Since 1997, the NSF has judged the merit of research proposals on their intellec
 At the other end of the research lifecycle, the 2014 Research Excellence Framework in the UK will include impact as an explicit element alongside outputs and environment [@ref2011dar].
 
 (Explanation of what impact is, and why it is the *mot du jour* amongst policy makers.)
+Impact goes beyond evaluating the intrinsic academic quality and value of research to consider how it has met wider societal needs, 
+for example by influencing practice or policy, addressing pressing (societal) questions or problems, 
+generating wealth, driving industrial innovations, taking on board community priorities (e.g. 
+inclusion of patient perspectives in medical research).
+  
+In 2014-2015 the Higher Education Funding Council For England (HEFCE) was undertaking a review of the role of metrics in research 
+assessment, to consider how metrics can be used to assess the quality and broader impact of scientific and scholarly 
+research [@hefce2014irm].  
 
 For researchers in short term: getting credit for full range of research outputs. Link to REF 2020 (and any other research QA schemes internationally that do/might count datasets)? By monitoring usage, get to know which forms of data preparation and data publication work the best.
+May lead to collaboration with peers who are using the data, or to knowledge of communities who were not the original intended audience
+(e.g. the public).
 
 Longer term: increased acceptance of data as research output will drive up data sharing, improving the quality of science and opening up opportunities for more forms of research.
 
@@ -100,6 +110,8 @@ Tips for raising research data impact
 =====================================
 
 (Need to search literature for evidence, examples and case studies.)
+(possible examples of how altmetrics help monitor use perhaps in Cameron PLOS Opens Blog post 
+Altmetrics: What are they good for?)
 
 Provide citation/discovery metadata. Use of identifers.
 
