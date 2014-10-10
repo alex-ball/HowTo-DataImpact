@@ -1,6 +1,10 @@
-% How to Measure the Impact of Research Data
-% Alex Ball; Monica Duke
-% DRAFT: \today
+---
+title: How to Measure the Impact of Research Data
+author:
+-   Alex Ball (DCC)
+-   Monica Duke (DCC)
+date: 'DRAFT: \today'
+...
 
 > This guide will help you to measure the impact of research data, whether your own or that of your department/institution. It provides ... This guide should interest researchers and principal investigators working on data-led research and administrators working with research quality assessment submissions.
 
@@ -150,3 +154,20 @@ reflect trendiness, rather than quality.  In the examples given, he suspects tha
 popular, and not the article itself, which may not even have been read.  This limits the impact that the article has had on the 
 general public, let alone other academics [@colquhoun2014sub]. He expresses concern that the glamourising of articles leads to 
 inaccuracies, and to overlooking of the detail of the article and its quality. He strongly recommends against the use of altmetrics [@colquhoun2014wos].
+
+
+Acknowledgements
+================
+
+Any acknowledgements will go here.
+
+
+Further information
+===================
+
+\setlength{\parindent}{0pt}\nonzeroparskip\color{dccblue}\small
+A list of related DCC resources goes here.
+
+\normalcolor
+A list of non-DCC resources and publications goes here.
+

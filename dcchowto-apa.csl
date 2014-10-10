@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="never">
   <!-- This style was edited with the Visual CSL Editor (http://steveridout.com/csl/visualEditor/) -->
   <info>
     <title>American Psychological Association 6th Edition</title>
@@ -24,11 +24,15 @@
     <contributor>
       <name>Sebastian Karcher</name>
     </contributor>
+    <contributor>
+      <name>Alex Ball</name>
+      <email>a.ball@ukoln.ac.uk</email>
+    </contributor>
     <category citation-format="author-date"/>
     <category field="psychology"/>
     <category field="generic-base"/>
     <updated>2013-02-26T04:33:40+00:00</updated>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <rights license="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International Licence</rights>
   </info>
   <locale xml:lang="en">
     <terms>
@@ -405,23 +409,10 @@
       </else>
     </choose>
   </macro>
-  <citation et-al-min="6" et-al-use-first="1" et-al-subsequent-min="3" et-al-subsequent-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name">
+  <citation et-al-min="8" et-al-use-first="6" et-al-use-last="true" entry-spacing="0">
     <sort>
       <key macro="author"/>
       <key macro="issued-sort"/>
-    </sort>
-    <layout prefix="(" suffix=")" delimiter="; ">
-      <group delimiter=", ">
-        <text macro="author-short"/>
-        <text macro="issued-year"/>
-        <text macro="citation-locator"/>
-      </group>
-    </layout>
-  </citation>
-  <bibliography hanging-indent="true" et-al-min="8" et-al-use-first="6" et-al-use-last="true" entry-spacing="0" line-spacing="2">
-    <sort>
-      <key macro="author"/>
-      <key macro="issued-sort" sort="ascending"/>
     </sort>
     <layout>
       <group suffix=".">
@@ -439,5 +430,5 @@
       </group>
       <text macro="access" prefix=" "/>
     </layout>
-  </bibliography>
+  </citation>
 </style>
