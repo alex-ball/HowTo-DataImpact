@@ -4,7 +4,7 @@ author:
 -   Alex Ball (DCC)
 -   Monica Duke (DCC)
 date: 'DRAFT: \today'
-...
+---
 
 > This guide will help you to measure the impact of research data,
 > whether your own or that of your department/institution.
