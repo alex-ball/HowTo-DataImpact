@@ -14,10 +14,11 @@ Since 1997, the NSF has judged the merit of research proposals on their intellec
 At the other end of the research lifecycle, the 2014 Research Excellence Framework in the UK will include impact as an explicit element alongside outputs and environment [@ref2011dar].
 
 (Explanation of what impact is, and why it is the *mot du jour* amongst policy makers.)
-Impact goes beyond evaluating the intrinsic academic quality and value of research to consider how it has met wider societal needs, 
-for example by influencing practice or policy, addressing pressing (societal) questions or problems, 
-generating wealth, driving industrial innovations, taking on board community priorities (e.g. 
-inclusion of patient perspectives in medical research).
+The measurement of impact goes beyond evaluating the intrinsic academic quality and value of research as judged by other 
+academics, to consider how wider societal needs have been met. 
+for example influence on practice or policy, addressing pressing (societal) questions or problems, 
+generating wealth, driving industrial innovations, or taking on board community priorities when planning research (such as including 
+patient input in the design of medical studies).
   
 In 2014-2015 the Higher Education Funding Council For England (HEFCE) was undertaking a review of the role of metrics in research 
 assessment, to consider how metrics can be used to assess the quality and broader impact of scientific and scholarly 
@@ -37,9 +38,29 @@ Relationship between the impact of resources and impact of researchers.
 
 Reminder of how bibliometrics and scientometrics work for traditional publications. Citations, impact factor.
 
+The Journal Impact Factor (JIF) is a measure applied to individual journals which tries to compensate for 
+variations in journal size.  The JIF is derived from the total citations for a journal made in a specific year, to 
+articles published in the previous two years, divided by the number of articles. (Certain items which are
+not considered to be substantive articles, e.g. news items or letters, are not included).
+It is published by the *Journal Citation Reports (JCR)* (mention Thomson Scientific)
+Although the JIF is a measure of the impact of a whole journal not individual articles, it is often used as a proxy
+for the prestige of the journal and impact of the articles and authors published in that journal.
+
 Microattribution, ?nanopublication. 
 
 Introduction to measures of impact other than citations: page views, download rates, tweets and retweets, trackbacks (from blogs, etc.), tagging, social bookmarking.
+
+(intro to say these are types of online behaviour?)
+
+Page views indicate the level of interest that has been attracted by an online page that gives access to a research item.
+The page is often one which displays information such as author and title, short description, and a link to allow
+download of the item.  Page views indicate that the item has drawn a level of attention sufficient for users to want to
+find out more information about it and guarantees a knowledge of existence. (Although some page views will be for HTML article?)
+
+Download rates are based on usage log data and reflect the number of times that a whole item has been downloaded from a link.  The assumption
+is that the item has been judged to be of sufficient interest to warrant a closer look (indicating a judgement of value
+deeper than simply 'looks interesting') but there is no guarantee that a download does lead to use. Once downloaded the item may simply
+not be looked at again or used, or found not to be of value.
 
 Impact in different communities - e.g. researcher use, public engagement, policy and practice
 
