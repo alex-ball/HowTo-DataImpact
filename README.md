@@ -44,7 +44,13 @@ For PDF, you will need to have a TeX distribution installed. The command to pass
 pandoc -s -S --latex-engine=lualatex --biblio impact.bib --csl apa.csl -V fontsize=11pt -V papersize=a4paper -V lang=british -V geometry:hmargin=3cm -V geometry:vmargin=2.5cm -V mainfont="Charis SIL" -V monofont="DejaVu Sans Mono" how-to-measure-impact.md -o how-to-measure-impact-preview.pdf
 ~~~~
 
-If you have the Make utility and the fonts Charis SIL and DejaVu Sans Mono installed you can take advantage of the Makefile. To generate both HTML and a preview PDF, simply run this command:
+If you also have the following installed, you can take advantage of the Makefile:
+
+* the Make utility
+* Perl
+* the fonts [Charis SIL](http://scripts.sil.org/cms/scripts/page.php?item_id=CharisSIL_download) and [DejaVu Mono](http://dejavu-fonts.org/wiki/Download) (for PDF output, though you could choose different ones by editing the Makefile)
+
+To generate both HTML and a preview PDF, simply run this command:
 
 ~~~~
 make
@@ -74,4 +80,8 @@ To remove all generated files:
 make distclean
 ~~~~
 
-For a camera-ready PDF, there is an additional target `dtp`, but as that requires a lot of nasty dependencies it is not that useful to most people.
+For a camera-ready PDF, there is an additional target `dtp`, but it is not that useful to most people as it requires a lot of awkward dependencies:
+
+* [dcchowto.cls](https://github.com/alex-ball/dcchowto), which is undergoing thorough revision to make it more portable
+* Gill Sans (light, regular and bold series) installed in the TeX system (for true fidelity, though it will fall back to more common fonts)
+* a slightly hacked version of biblatex-apa (so it can be used with footnotes, but the regular version will work without error)
