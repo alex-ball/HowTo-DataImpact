@@ -37,7 +37,8 @@ patient input in the design of medical studies).
   
 In 2014-2015 the Higher Education Funding Council For England (HEFCE) was undertaking a review of the role of metrics in research 
 assessment, to consider how metrics can be used to assess the quality and broader impact of scientific and scholarly 
-research [@hefce2014irm].  
+research [@hefce2014irm].   Something about the EPSRC clarification of expectations from Oct 2014 - suggests recording
+access be used to document impact (including if possible from external repositories)
 
 For researchers in short term: getting credit for full range of research outputs.
 Link to REF 2020 (and any other research QA schemes internationally that do/might count datasets)?
@@ -79,7 +80,14 @@ find out more information about it and guarantees a knowledge of existence. (Alt
 Download rates are based on usage log data and reflect the number of times that a whole item has been downloaded from a link.  The assumption
 is that the item has been judged to be of sufficient interest to warrant a closer look (indicating a judgement of value
 deeper than simply 'looks interesting') but there is no guarantee that a download does lead to use. Once downloaded the item may simply
-not be looked at again or used, or found not to be of value.
+not be looked at again, or found not to be of value.
+
+Twitter is a social networking tool that enables users to send short messages (limited to 140 chracters) to their followers. Tweets can provide pointers to research by mentioning that research or sharing links directly to research or to pages discussing it or providing access.
+Tweets can be used as a measure of interest generated in the item, by counting the number of references, or tweets, that are about that 
+item.  The content of the tweet however has to be examined to find out if mentions are positive, neutral or negative. (a screenshot
+example of a recommendation perhaps?) Tweets can be forwarded, called a retweet, showing a passing on of the recommendation.  
+
+What about news articles, comments, social commentary
 
 Impact in different communities - e.g. researcher use, public engagement, policy and practice
 
@@ -114,6 +122,8 @@ quality assurance procedures [@tr2012res].
 
 ImpactStory
 -----------
+researcher-centered, creates profiles,
+email notifications
 
 ReaderMeter
 -----------
@@ -123,6 +133,9 @@ ScienceCard
 
 PloS Impact Explorer
 --------------------
+Same as/related to PLOS Article-level Metrics?
+available for PLOS articles, measures 'reach', API available
+started in 2009 [ref]
 
 PaperCritic
 -----------
@@ -132,6 +145,7 @@ Crowdometer
 
 ResearchGate Score
 ------------------
+creates and RG score
 
 Google Scholar
 --------------
@@ -163,6 +177,14 @@ embedded widget is customisable and links to the original source are made availa
 by making the link with their profiles in other systems (e.g. by entering a Slideshare ID).  An example of aggregated information
 is that for books, which takes in Amazon, GoodReads and Wikipedia presence [@michalek2014plu].
 
+Altmetric
+----------
+article-centered, subscription-based, web API for developers, doughnut-shaped badge
+
+SocialCite
+-----------
+reasons behind citations - new company
+
 Tips for raising research data impact
 =====================================
 
@@ -179,16 +201,25 @@ Open access.
 Deposit in major repository. (Too early to discuss certified repositories?)
 
 Highlighting resources using social media. Academia.edu, ResearchGate, Mendeley, etc.
+include identifiers in tweets and blogs to improve accuracy of counting by service tools (recommended by Featherstone, niso)
 
 
 Current issues and challenges
 =============================
 
 Immaturity of the area.
+Due to the early stage of development of some of the tools (specially for altmetrics) and a lack of standardisation in
+what they are measuring, results may not be comparable, which limits their use in the processes for determining rewards
+based on scholarly impact (Featherstone).  The study of the reliability and validity of the data is a work in progress ; "there is 
+a tendency to include what can be counted, rather than to include what adds particular value" (niso).
 
 Relationship between alt metrics and traditional citation-based metrics: measuring different things.
 
 Possibilities (or otherwise) for gaming the system. Ethical behaviour.
+Gaming of metrics can be described as "behaviour that is meant to unfairly manipulate those metrics, generally for one's
+benefit." (niso) 
+self-citing and self-tweeting not considered unethical in themselves, but need to be factored into calculations (Featherstone) and consensus
+is still emerging on where the line lies between acceptable promotion and cheating (niso).
 
 Wider acceptance of alt metrics.
 (acceptance by whom? Funders? Institutions? Academics?)
@@ -208,6 +239,22 @@ popular, and not the article itself, which may not even have been read.  This li
 general public, let alone other academics [@colquhoun2014sub]. He expresses concern that the glamourising of articles leads to 
 inaccuracies, and to overlooking of the detail of the article and its quality. He strongly recommends against the use of altmetrics [@colquhoun2014wos].
 
+One other aspect of acceptance is trust in the data quality (niso) (which still requires work as mentioned previously).
+
+Even proponents of altmetrics recognise that current practice for career progression focuses on pubslishing traditional
+journal articles, and that change is required for funders to start recognising other scholarly works and impact. (Konkiel, priem, Piwowar)
+
+The effects of time
+
+Number of citations tend to increase over time. Sometimes there is a publication lag (which altmetrics can fill).  
+However altmetrics will not exist for earlier contributions (pre-Twitter, Facebook etc).
+
+Contributor roles
+
+Identifying who contributed what to the data - generating, cleaning, documenting, curating
+Is this more about credit than impact?
+(niso) suggests that alterntive assessment metrics "could play a role in this area by tracking or measuring credit for
+more non-traditional research outputs such as research data"
 
 Acknowledgements
 ================
