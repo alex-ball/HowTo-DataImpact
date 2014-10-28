@@ -117,7 +117,7 @@ Sample citations are also provided.
 
 On each record, the DCI displays the number of times the entity has been cited in Web of Knowledge.
 Recognising the variety of ways in which data sets and repositories can be cited,
-the DCI counts not only entires in the reference list but also less formal citations that occur elsewhere in scholarly papers
+the DCI counts not only entries in the reference list but also less formal citations that occur elsewhere in scholarly papers
 (for example, in the abstract or acknowledgements).
 
 Selection for inclusion in the DCI is at the level of whole repositories rather than individual data sets or studies.
@@ -163,9 +163,37 @@ a reasercher-centred service to import scientific articles into a profile. Users
 a DOI, PubMedID or via their ORCID account.  Article-level metrics would then be computed around the researcher.  It is possible that
 the service may be relaunched in the future.
 
+Currently offline, promises it will be back.
+
+PLoS Article-Level Metrics
+--------------------------
+
+In 2009, the Public Library of Science (PLoS) launched its Article-Level Metrics (ALM) service.^[PLOS ALM website: <http://article-level-metrics.plos.org/alm-info/>]
+This compiles a set of impact indicators from PLoS's own systems and various other services,
+and makes them available in both a visual way and via an application programming interface (API).
+
+The metrics compiled include
+
+  * usage statistics (views and downloads) from PLoS and Pubed Central;
+  * interactions (comments, notes, ratings) on the PLoS website;
+  * citations identified by Scopus, Web of Science and others;
+  * references made in social networks like Twitter and Facebook, on various blogging platforms, or on Wikipedia.
+
+The metrics are displayed on the landing pages for PLoS articles, and can also be compiled into custom reports.^[ALM Reports website: <http://almreports.plos.org//>]
+
+PLoS released the source code for the ALM application in 2011.^[Lagotto (Article-Level Metrics) source code repository: <https://github.com/mfenner/lagotto>]
+It was used as the basis of the ScienceCard service, which provided an author-centric view on the same data [@fenner2011asc].
+It was also taken up by other publishers and service providers, most significantly by CrossRef Labs,
+meaning statistics are available for many non-PLoS papers as well [@lin.fenner2014osc].
+
+While the implementations of the software so far have concentrated on papers, the software itself is resource-type agnostic, so could be applied to datasets.
+
 PloS Impact Explorer
 --------------------
-Same as/related to PLOS Article-level Metrics?
+
+'This page mashes up alt-metrics data from Altmetric with articles from the Public Library of Science (PLoS).
+Check which articles are seeing the most buzz from social media sites, newspapers and in online reference managers.'
+
 available for PLOS articles, measures 'reach', API available
 started in 2009 [ref]
 
