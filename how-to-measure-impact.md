@@ -29,11 +29,12 @@ At the other end of the research lifecycle,
 the 2014 Research Excellence Framework in the UK will include impact as an explicit element alongside outputs and environment [@ref2011dar].
 
 (Explanation of what impact is, and why it is the *mot du jour* amongst policy makers.)
-The measurement of impact goes beyond evaluating the intrinsic academic quality and value of research as judged by other 
-academics, to consider how wider societal needs have been met. 
-for example influence on practice or policy, addressing pressing (societal) questions or problems, 
-generating wealth, driving industrial innovations, or taking on board community priorities when planning research (such as using 
-patient views as input to design medical studies).
+
+The measurement of impact extends beyond the evaluation of intrinsic academic quality and value as judged solely by other 
+academics, to consider how wider societal needs have been met by research efforts. 
+When research influences practice or policy, addresses pressing (societal) questions or problems, 
+generates wealth, drives industrial innovations, or takes on board community priorities during planning stages (such as using 
+patient views as input to design medical studies), research impact has been broadened.
   
 In 2014-2015 the Higher Education Funding Council For England (HEFCE) was undertaking a review of the role of metrics in research 
 assessment, to consider how metrics can be used to assess the quality and broader impact of scientific and scholarly 
@@ -42,9 +43,9 @@ organisations are expected to record requests to access data that they hold; req
 evidence of impact (Expectation III). Furthermore, although this funding body does not extend the expectation of logging access
 to data held by external repositories, organisations are reminded that such information would be "a valuable indicator of impact".
 
-EPSRC explains that information on data access informs decisions about data retention; the funding body
+EPSRC explains that information on data access can inform decisions about data retention. The funding body
 does not expect data to be retained if it has attracted no interest, once a period of 10 years has lapsed from 
-last access (Expectation VII). Data citations or "any other metric based on reliable source of evidence widelt accepted at the time"
+last access (Expectation VII). Data citations or "any other metric based on reliable source of evidence widely accepted at the time"
 can be used as evidence of interest shown in the dataset [@epsrc2014cla].
 
 For researchers in short term: getting credit for full range of research outputs.
@@ -174,7 +175,7 @@ and makes them available in both a visual way and via an application programming
 
 The metrics compiled include
 
-  * usage statistics (views and downloads) from PLoS and Pubed Central;
+  * usage statistics (views and downloads) from PLoS and Pubmed Central;
   * interactions (comments, notes, ratings) on the PLoS website;
   * citations identified by Scopus, Web of Science and others;
   * references made in social networks like Twitter and Facebook, on various blogging platforms, or on Wikipedia.
@@ -206,10 +207,18 @@ suggesting community templates for review structuring.)
 
 Crowdometer
 -----------
+A project carried out in December 2011 - January 2012 that used crowdsourcing to analyse and classify the content of tweets that linked to scholarly papers.
+Participants used an ontology to describe the types of links made in the tweet (e.g.) One main finding was that most tweets do not
+contain a sentiment about the link being shared.  The crowdometer.org site is no longer available althought the github site 
+containing the code used is still accessible.
 
 ResearchGate Score
 ------------------
-creates and RG score
+ResearchGate is a social networking site for researchers to connect and collaborate. Researches can add their publications to their
+profile and the site generates statistics about views, downloads and citations. The service also calculates its own impact metric, 
+the RG score. Researchers can share data alongside publications.  An open peer review feature was recently added to the
+site, called OpenReview. Users receive notification emails with information on the downloads, views, citations and other
+activity from people in their network.  ResearchGate was founded in 2008.
 
 Google Scholar
 --------------
@@ -243,11 +252,40 @@ is that for books, which takes in Amazon, GoodReads and Wikipedia presence [@mic
 
 Altmetric
 ----------
-article-centered, subscription-based, web API for developers, doughnut-shaped badge
+Altmetric is an article-centered service which monitors social media sites, newspapers, government policy documents and other sources 
+for mentions of scholarly articles. It collects all the discussions about an article, and computes a score that tries to measure the 
+quality and the quantity of the attention received. Sources used include Twitter, Facebook, blogs and news outlets. 
+
+The output from Altmetric is available in four forms:
+
+* A web explorer
+This brings together all the information gathered about all the articles.  The articles and discussions around them can then be explored individually, with different filters. Email alerts, custom reports and export are also available. A paid-for institutional offering 
+collates information for articles from that institution.
+
+* A bookmarklet.
+The bookmarklet is free to researchers.  It works within a browser and shows altmetrics for individual articles whilst they are being viewed. It is currently available for articles in PubMed and arXiv and pages containing a DOI.
+
+* An API
+The API requires a commercial license (although limited free use is on offer for non-commercial research, apps and mash-ups).  The
+API is HTTP-based and gives programmatic access to the data about articles and datasets collected by Altmetric.
+
+* A badge
+The badge is a doughnut shaped visualisation which displays the altmetric score in the centre and colour-coded edges according
+to the source of mentions. It can be embedded into other pages (by adding a line of code); when clicked on it takes the user
+to landing page which shows the breakdown of the score for that article. I can be added by reseachers to their own personal
+pages or integrated by institutions into platforms such as repositories.
+
+The score is combined from three factors: the volume of mentions, the category of mentions (source) and the author of the 
+mention. Weighting is given to 
 
 SocialCite
 -----------
-reasons behind citations - new company
+SocialCite adds a layer of information to citations by encouraging the reasons behind citations to be made explicit. Users can enhance
+citation information by indicating the appropriateness and evidence strength of a citation, using a simple
+thumbs up or thumbs down rating.  The service available at 
+the end of 2014 is in the form of a pilot which includes articles a small number of publishers (such as the Proceedings of the National Academy of Sciences). SocialCite is targetted at both readers and authors, as well as librarians and journal editors.  
+The proposed business model would offer some paid-for reporting features, looking across journals, authors or institutions.  
+It is not clear if they have launched formally; the Twitter account was active Nov 2014. 
 
 Tips for raising research data impact
 =====================================

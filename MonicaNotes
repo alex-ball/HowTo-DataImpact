@@ -181,7 +181,10 @@ Hackaton example: given an ORCID ID, display the altmetrics (present a profile o
 papers with any relevant altmetrics data, giving a breakdown of their mentions.)
 http://altmetric-orcid-profiles.herokuapp.com/0000-0001-6187-6610
 
-############# Needs to be checked for relevance i.e. has not been checked yet
+############# Checked and found relevant (and)
+############### added to bib file (and)
+############### referred to from the text
+TODO########### add as reference to ImpactStory summary
 http://www.journalofelectronicpublishing.org
 The Imperative for Open Altmetrics
 Stacy Konkiel, Heather Piwowar, Jason Priem
@@ -235,7 +238,8 @@ Social media and researchers presentation by Andy Tattersall (may have some link
 to follow) http://t.co/2jPWTLeJJO
 
 ############# Checked and found relevant (and)
-############# Need to decide how to use this
+############### added to bib file (and)
+############### referred to from the text
 ############# contains good paragraph on the effects of time with examples
 ############# from the Annals of Internal Medicine
 ############# has short descriptions of 5 providers
@@ -365,3 +369,97 @@ https://peerj.com/articles/175/
 H2020 data pilot
 7 areas expected to take part in pilot (others optional)
 http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf
+
+############# Checked and found relevant (and)
+############### added to bib file (and)
+############### referred to from the text
+http://www.niso.org/apps/group_public/download.php/13809/Altmetrics_project_phase1_white_paper.pdf
+
+############# Checked and found relevant (and)
+############### added to bib file (and)
+############### referred to from the text
+ScienceCard
+More information available at http://50.17.213.175. [Formerly http://www.sciencecard.org/]
+
+############# Checked and found relevant (and)
+############### added to bib file (and)
+############### referred to from the text
+ReaderMeter
+http://www.dcc.ac.uk/resources/external/readermeter
+
+PaperCritic
+http://www.papercritic.com/ 
+
+############# Checked and found relevant (and)
+############### added to bib file (and)
+############### referred to from the text
+EPSRC clarifications
+http://www.epsrc.ac.uk/files/aboutus/standards/clarificationsofexpectationsresearchdatamanagement/
+
+############# Needs to be checked for relevance i.e. has not been checked yet 
+The Scientific Influence Passivity Score (SIP): Bibliometrics learning from Twitter" 
+http://dx.doi.org/10.1145/2668260.2668310
+
+############# Needs to be checked for relevance i.e. has not been checked yet 
+"Affordance Use Differences Between Personal and Professional Scholarly Tweets", by @timothydbowman http://www.asis.org/SIG/SIGMET/data/uploads/sigmet2014/bowman.pdf 
+
+############# Needs to be checked for relevance i.e. has not been checked yet 
+I am tweeting the link to our arXiv preprint about tweets to arXiv preprints #SoMeta http://arxiv.org/abs/1410.4139 
+
+Nataliya Rybalka on Researchgate.net discussion how to increase visibility of articles
+https://www.researchgate.net/post/How_do_you_increase_the_visibility_of_published_article/2
+"Often I become interested in papers which are not directly from my field through the sequences in NCBI database. So I really appreciate when authors submit also sequences from the non-target groups of their environmental studies."
+
+David Richard Elliot (same thread)
+"Another thing I am trying to do is publish detailed data and reproducible analyses as supplementary / on figshare / on GitHub etc., linking back to the paper. If someone finds and uses my methods/code maybe they will cite the paper. Too early to say if this is effective (so far not!)"
+
+From Piglet Sep/Oct
+report on epritns user group meeting June 2014
+"William Nixon then told us how University of Glasgow are using the Altmetrics plugin. This captures mentions of papers in the wider media, rather than just formal academic citations. As well as a bookmarklet which anyone can use, there is a plugin for EPrints that links to the record. It is only really effective for recent articles with a DOI, but does capture a range of impacts."
+
+######### From ResearchGate
+Does anyone use subject repositories that support altmetrics? Which ones?
+https://www.researchgate.net/post/Does_anyone_use_subject_repositories_that_support_altmetrics_Which_ones
+
+############# Checked and found relevant (and)
+TODO############### added to bib file (and)
+TODO############### referred to from the text
+http://www.dcc.ac.uk/blog/rdmf12-notes-breakout-group-4
+
+RDMF breakout group on Tracking Usage of Research Data
+reasons listed for why institutions want to track data (a couple
+maybe not already mentioned in paper)
+- possible ways to track (again a couple ideas e.g. offering a prize
+for reports of interesting data use)
+- reminded me about the discussion of whether registration (to track users)
+helps or hinders services.
+
+############### JISCMRD email discussion list
+Controlled access to data in EPrints
+started by Rachel Proudfoot on 8 May 2013
+
+############# Checked and found relevant (and)
+TODO############### added to bib file (and)
+TODO############### referred to from the text
+SocialCite
+http://www.slideshare.net/kentanderson/socialcite-makes-its-debut-at-the-highwire-press-meeting
+http://www.social-cite.org
+
+############# Checked and found relevant (and)
+TODO############### added to bib file (and)
+TODO############### referred to from the text
+About ResearchGate
+http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_08_25/caredit.a1400214
+
+############# Checked and found relevant (and)
+TODO############### added to bib file (and)
+TODO############### referred to from the text
+DataCite statistics page which shows top resolutions by month
+http://stats.datacite.org
+
+############# Checked and found relevant (and)
+TODO############### added to bib file (and)
+TODO############### referred to from the text
+Crowdometer
+http://blogs.plos.org/mfenner/2012/02/19/crowdsourcing-the-analysis-of-scholarly-tweets/
+http://blogs.plos.org/mfenner/2012/01/04/crowdometer-goes-mobile/ "most tweets contain little semantic information and often only retweet the title of a paper."
