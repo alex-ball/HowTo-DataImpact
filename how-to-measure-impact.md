@@ -46,19 +46,25 @@ to data held by external repositories, organisations are reminded that such info
 EPSRC explains that information on data access can inform decisions about data retention. The funding body
 does not expect data to be retained if it has attracted no interest, once a period of 10 years has lapsed from 
 last access (Expectation VII). Data citations or "any other metric based on reliable source of evidence widely accepted at the time"
-can be used as evidence of interest shown in the dataset [@epsrc2014cla].
+can be used as evidence of interest shown in the dataset. [@epsrc2014cla]
 
-For researchers in short term: getting credit for full range of research outputs.
+For researchers in the short term, tracking the use of data is a necessary part of the process for
+claiming credit for the full range of research outputs.
 Link to REF 2020 (and any other research QA schemes internationally that do/might count datasets)?
-By monitoring usage, get to know which forms of data preparation and data publication work the best.
+By monitoring usage, researchers can get to know which forms of data preparation and data publication work best.
+This could inform future activities for data dissemination, or uncover new avenues or audiences for data sharing.
+Opportunities could arise for collaboration with peers who are using the data,
+and knowledge of communities who were not the original intended audience (e.g. the public) may surface.
 
-May lead to collaboration with peers who are using the data,
-or to knowledge of communities who were not the original intended audience (e.g. the public).
-
-Longer term:
+In the longer term, there is an expectation that
 increased acceptance of data as research output will drive up data sharing,
 improving the quality of science and opening up opportunities for more forms of research.
 
+The output of data usage monitoring can be used by institutions in different ways [@rdmf122014turd]:
+* promotional activities and celebration of particular data sharing and re-use successes by researchers at the institution 
+* creation of special collections around popular data sets
+* meeting funder requirements to safeguard data for the appropriate length of time since last use
+* plan for and monitor the success of the infrastructure providing access to the data
 
 Impact measurement concepts
 ===========================
@@ -316,7 +322,10 @@ Due to the early stage of development of some of the tools (specially for altmet
 what they are measuring, results may not be comparable, which limits their use in the processes for determining rewards
 based on scholarly impact [@featherstone2014stm].  The study of the reliability and validity of the data is a work in progress ; "there is 
 a tendency to include what can be counted, rather than to include what adds particular value" [@niso2014ami].
-(check data metrics workshop report)
+A 2013 Knowledge Exchange workshop on research data and research assessment [@ke2013mdc] reported that more experience
+of alternative metrics is required before their value could be decided and at the time they were not considered a suitable
+measure of scientific quality.  Peer review remains the mainstay for establishing scientific quality, metrics like downloads
+are considered a measure of attention and not quality. 
 
 Relationship between alt metrics and traditional citation-based metrics: measuring different things.
 

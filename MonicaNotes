@@ -9,7 +9,15 @@
 ############### added to bib file (and)
 ############### referred to from the text
 
-############# Needs to be checked for relevance i.e. has not been checked yet
+######## Reference for bibliographic styles ###############
+ the exemplar for how to use biblatex in an APA-friendly way is this file:
+
+http://mirror.ctan.org/macros/latex/contrib/biblatex-contrib/biblatex-apa/biblatex-apa-test-references.bib
+
+
+############# Checked and found relevant (and)
+############### added to bib file (and)
+############### referred to from the text
 Research assessment should take data sharing into account
 Workshop finds that data sharing should be rewarded and universities and
 funders have an important role to play in this process. Metrics are not
@@ -53,6 +61,11 @@ The report of the workshop is now available online and can be found at:
 http://www.knowledge-exchange.info/Default.aspx?ID=576
 Here you will also find links to the video recordings of the presentations, 
 the slides and photographs taken at the event.
+
+############# Needs to be checked for relevance i.e. has not been checked yet
+http://www.knowledge-exchange.info/Default.aspx?ID=586
+The Value of Research Data
+Metrics for datasets from a cultural and technical point of view
 
 ############# Checked and found relevant (and)
 ############### added to bib file (and)
@@ -422,13 +435,14 @@ Does anyone use subject repositories that support altmetrics? Which ones?
 https://www.researchgate.net/post/Does_anyone_use_subject_repositories_that_support_altmetrics_Which_ones
 
 ############# Checked and found relevant (and)
-TODO############### added to bib file (and)
-TODO############### referred to from the text
+############### added to bib file (and)
+############### referred to from the text
 http://www.dcc.ac.uk/blog/rdmf12-notes-breakout-group-4
 
 RDMF breakout group on Tracking Usage of Research Data
 reasons listed for why institutions want to track data (a couple
 maybe not already mentioned in paper)
+##### still TODO
 - possible ways to track (again a couple ideas e.g. offering a prize
 for reports of interesting data use)
 - reminded me about the discussion of whether registration (to track users)
