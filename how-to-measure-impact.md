@@ -26,7 +26,7 @@ In this part of their proposals,
 researchers are asked to consider how they might maximise the academic, societal and economic impact of their research.
 
 At the other end of the research lifecycle,
-the 2014 Research Excellence Framework in the UK will include impact as an explicit element alongside outputs and environment [@ref2011dar].
+the 2014 Research Excellence Framework in the UK includes impact as an explicit element alongside outputs and environment [@ref2011dar].
 
 (Explanation of what impact is, and why it is the *mot du jour* amongst policy makers.)
 
@@ -54,17 +54,22 @@ Link to REF 2020 (and any other research QA schemes internationally that do/migh
 By monitoring usage, researchers can get to know which forms of data preparation and data publication work best.
 This could inform future activities for data dissemination, or uncover new avenues or audiences for data sharing.
 Opportunities could arise for collaboration with peers who are using the data,
-and knowledge of communities who were not the original intended audience (e.g. the public) may surface.
+and knowledge of communities who were not the original intended audience, but are interested in the data (e.g. the public),
+ may surface.
 
-In the longer term, there is an expectation that
-increased acceptance of data as research output will drive up data sharing,
-improving the quality of science and opening up opportunities for more forms of research.
 
-The output of data usage monitoring can be used by institutions in different ways [@rdmf122014turd]:
+Data usage monitoring can be also be used by institutions in different ways [@rdmf122014turd]:
 * promotional activities and celebration of particular data sharing and re-use successes by researchers at the institution 
 * creation of special collections around popular data sets
 * meeting funder requirements to safeguard data for the appropriate length of time since last use
 * plan for and monitor the success of the infrastructure providing access to the data
+
+In the longer term, there is an expectation that
+increased acceptance of data as research output will drive up data sharing,
+improving the quality of science and opening up opportunities for more forms of research.
+The development of data metrics can provide one potential incentive within a framework of professional
+advancement and reward that recognizes data sharing and publication as a fundamental research activity. [@ke2013vrd]
+Narratives of successes of data sharing and re-use could help bring about cultural change.
 
 Impact measurement concepts
 ===========================
@@ -81,6 +86,19 @@ It is published by the *Journal Citation Reports (JCR)* (mention Thomson Scienti
 Although the JIF is a measure of the impact of a whole journal not individual articles, it is often used as a proxy
 for the prestige of the journal and impact of the articles and authors published in that journal.
 
+Citation for data
+
+The most mature emerging model for measuring the impact of data is one that is analogous to the publication and citation
+of literature, [ke2013vrd] although this model is not without its problems.  A distinction is made between "small p" publishing
+where data is simply made available (e.g. as files on a website) without necessarily providing an associated framework for checking 
+quality, ensuring re-usability and guaranteeing long-term access, and what is referred to as 
+"capital P" Publishing. The latter seeks to establish processes
+for documenting, reviewing and citation, and making the data searchable and discoverable.
+Data can be published as "stand-alone" items or alongside a co-existing journal article. Data papers describe data in a factual way 
+(rather than hypotheses and arguments based on the data).
+
+citation of data in this context; reference to DCC guide? stats made available by data repositories e.g. DataCite
+
 Microattribution, ?nanopublication. 
 
 Introduction to measures of impact other than citations: page views, download rates, tweets and retweets, trackbacks (from blogs, etc.), tagging, social bookmarking.
@@ -96,6 +114,8 @@ Download rates are based on usage log data and reflect the number of times that 
 is that the item has been judged to be of sufficient interest to warrant a closer look (indicating a judgement of value
 deeper than simply 'looks interesting') but there is no guarantee that a download does lead to use. Once downloaded the item may simply
 not be looked at again, or found not to be of value.
+
+(Should we say something about data repositories that support showing download rates? [@ke2013vrd] P.23)
 
 Twitter is a social networking tool that enables users to send short messages (limited to 140 chracters) to their followers. Tweets can provide pointers to research by mentioning that research or sharing links directly to research or to pages discussing it or providing access.
 Tweets can be used as a measure of interest generated in the item, by counting the number of references, or tweets, that are about that 
@@ -300,11 +320,27 @@ Tips for raising research data impact
 (possible examples of how altmetrics help monitor use perhaps in Cameron PLOS Opens Blog post 
 Altmetrics: What are they good for?)
 
-Provide citation/discovery metadata. Use of identifers.
+Although a complete and seamless infrastructure of services and tools for the monitoring and measurement of the impact of data
+is not yet available, there are measures that can be taken now using existing facilities and elements of the infrastructure.
+ 
+Provide citation/discovery metadata. Use of identifiers. Reference to how to cite data and DCC guide?
+
+Make data discoverable and citable by providing adequate metadata.  The precise fields that are needed may depend on the data.
+Disciplinary norms and guidance on appropriate schema are sometimes available, and repositories or organisations often define minimum
+requirements for deposit. Generic advice on data citation can be found in (reference to DCC guide). Assign identifiers for data
+as a crucial step to make the data easily cited, accessed and located.  An identifier that supports all three functions (citation, location, access) is preferable.   
 
 Provide enough metadata for reuse. Reproducibility.
+Data should be accompanied by enough contextual information to support reuse. The required information may be discipline-dependent.
+A user of the data should have enough information to be able to reproduce the results. 
 
 Open access.
+Any restrictions to the use of data (such as imposing payment for access) may present barriers to reuse and potential impact.  
+Some restrictions are necessary (for example those arising from legal requirements), however where restrictions are not needed, 
+the data can be made open access.  Regardless of whether payment or other restrictions are applied to the use of data, 
+it may be desirable to require user registration prior to access.  Whilst registration does impose an extra step (and therefore a
+potential barrier) to data access, it allows both the application of conditions to be adhered to in the use of data 
+(by explicitly asking the user for their agreement) and can further be used for tracking and monitoring of patterns of data use.
 
 Deposit in major repository. (Too early to discuss certified repositories?)
 
@@ -325,7 +361,7 @@ a tendency to include what can be counted, rather than to include what adds part
 A 2013 Knowledge Exchange workshop on research data and research assessment [@ke2013mdc] reported that more experience
 of alternative metrics is required before their value could be decided and at the time they were not considered a suitable
 measure of scientific quality.  Peer review remains the mainstay for establishing scientific quality, metrics like downloads
-are considered a measure of attention and not quality. 
+are (at this time) to be considered a measure of attention and not quality. [@ke2013vrd] describes data metrics as an "underdeveloped concept".
 
 Relationship between alt metrics and traditional citation-based metrics: measuring different things.
 
@@ -338,7 +374,6 @@ self-citing and self-tweeting not considered unethical in themselves, but need t
 
 Wider acceptance of alt metrics.
 (acceptance by whom? Funders? Institutions? Academics?)
-
 
 At least *some* academics have reservations about the culture of metrics and the use of measures
 to enforce competition. Audits, monitoring and data collection are considered to be a force that shapes academia, 
