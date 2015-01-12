@@ -48,7 +48,7 @@ If you also have the following installed, you can take advantage of the Makefile
 
 * the Make utility
 * Perl
-* the fonts [Charis SIL](http://scripts.sil.org/cms/scripts/page.php?item_id=CharisSIL_download) and [DejaVu Mono](http://dejavu-fonts.org/wiki/Download) (for PDF output, though you could choose different ones by editing the Makefile)
+* the aforementioned fonts [Charis SIL](http://scripts.sil.org/cms/scripts/page.php?item_id=CharisSIL_download) and [DejaVu Sans Mono](http://dejavu-fonts.org/wiki/Download) (for PDF output, though you could choose different ones by editing the Makefile)
 
 To generate both HTML and a preview PDF, simply run this command:
 
@@ -80,8 +80,8 @@ To remove all generated files:
 make distclean
 ~~~~
 
-For a camera-ready PDF, there is an additional target `dtp`, but it is not that useful to most people as it requires a lot of awkward dependencies:
+For a camera-ready PDF such as the DCC publishes, you will need the class file `dcchowto.cls`. Currently the only way of getting it is to generate it from the [`dcchowto` DTX file](https://github.com/alex-ball/dcchowto). Having done that, and either installed it to your TeX tree or added a copy to your working directory, you should be able to compile the document like this:
 
-* [dcchowto.cls](https://github.com/alex-ball/dcchowto), which is undergoing thorough revision to make it more portable
-* Gill Sans (light, regular and bold series) installed in the TeX system (for true fidelity, though it will fall back to more common fonts)
-* a slightly hacked version of biblatex-apa (so it can be used with footnotes, but the regular version will work without error)
+~~~~
+make dtp
+~~~~

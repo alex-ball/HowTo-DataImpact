@@ -3,7 +3,8 @@ title: How to Measure the Impact of Research Data
 author:
 -   Alex Ball (DCC)
 -   Monica Duke (DCC)
-date: 'DRAFT: \today'
+classoption:
+-   mark=draft
 ---
 
 > This guide will help you to measure the impact of research data,
