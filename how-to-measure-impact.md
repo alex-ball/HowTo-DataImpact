@@ -16,9 +16,12 @@ classoption:
 Why measure the impact of research data?
 ========================================
 
-A key measure of the worth of research is the impact it has,
+A key measure of the worth of research is the impact it has or,
+to put it another way, the difference it is making
 both within the academic community and beyond.
-In recent years funding bodies have placed increasing emphasis on monitoring the potential and actual impact of the research projects they fund.
+In recent years funding bodies have placed increasing emphasis on monitoring the potential and actual impact of the research projects they fund,
+as distinct from evaluating the intrinsic academic quality and value of research outputs
+as judged solely by other academics.
 
 Since 1997, the NSF has judged the merit of research proposals on their intellectual merit and their broader impact [@nsb2011mrc].
 In the UK, impact plans became part of the bidding process for all Research Councils in 2009,
@@ -27,50 +30,68 @@ In this part of their proposals,
 researchers are asked to consider how they might maximise the academic, societal and economic impact of their research.
 
 At the other end of the research lifecycle,
-the 2014 Research Excellence Framework in the UK includes impact as an explicit element alongside outputs and environment [@ref2011dar].
+the 2014 Research Excellence Framework (REF) in the UK included impact as an explicit element alongside outputs and environment [@ref2011dar].
+In 2014-2015 the Higher Education Funding Council For England (HEFCE)
+– one of the agencies responsible for the REF –
+undertook a review of the role of metrics in research assessment,
+to consider how they might be used to assess both the quality and broader impact of scientific and scholarly research [@hefce2014irm].
 
-(Explanation of what impact is, and why it is the *mot du jour* amongst policy makers.)
+There are many reasons underlying this emphasis on impact.
+For one, it provides tangible evidence of benefit to weigh againsts the costs of research.
+For another, it is an intuitive indicator to use when comparing peer research programmes across the globe on the basis of importance or value for money.
+It is not, perhaps, ideal for making comparisons across disciplines
+as they experience impact on different timescales and in different ways.
+In order to accommodate these differences as far as possible, though,
+funders tend to take into account a wide variety of ways in which research can make a difference.
+This means going beyond a traditional bibliometric analysis of scholarly outputs
+to consider how wider societal needs have been met by research efforts.
+When research influences practice or policy,
+generates wealth,
+drives industrial innovations,
+addresses pressing (societal) questions or problems,
+or
+responds to community priorities during planning stages
+(such as using patient views as input to design medical studies),
+its impact has been broadened.
 
-The measurement of impact extends beyond the evaluation of intrinsic academic quality and value as judged solely by other 
-academics, to consider how wider societal needs have been met by research efforts. 
-When research influences practice or policy, addresses pressing (societal) questions or problems, 
-generates wealth, drives industrial innovations, or takes on board community priorities during planning stages (such as using 
-patient views as input to design medical studies), research impact has been broadened.
-  
-In 2014-2015 the Higher Education Funding Council For England (HEFCE) was undertaking a review of the role of metrics in research 
-assessment, to consider how metrics can be used to assess the quality and broader impact of scientific and scholarly 
-research [@hefce2014irm].   In October 2014, the EPSRC set out its clarification of expectations [@epsrc2014cla], explaining that research
-organisations are expected to record requests to access data that they hold; requests are to be logged, and will help build 
-evidence of impact (Expectation III). Furthermore, although this funding body does not extend the expectation of logging access
-to data held by external repositories, organisations are reminded that such information would be "a valuable indicator of impact".
-
-EPSRC explains that information on data access can inform decisions about data retention. The funding body
-does not expect data to be retained if it has attracted no interest, once a period of 10 years has lapsed from 
-last access (Expectation VII). Data citations or "any other metric based on reliable source of evidence widely accepted at the time"
-can be used as evidence of interest shown in the dataset. [@epsrc2014cla]
-
-For researchers in the short term, tracking the use of data is a necessary part of the process for
+For researchers, tracking the use of data is a necessary part of the process for
 claiming credit for the full range of research outputs.
-Link to REF 2020 (and any other research QA schemes internationally that do/might count datasets)?
-By monitoring usage, researchers can get to know which forms of data preparation and data publication work best.
-This could inform future activities for data dissemination, or uncover new avenues or audiences for data sharing.
-Opportunities could arise for collaboration with peers who are using the data,
-and knowledge of communities who were not the original intended audience, but are interested in the data (e.g. the public),
- may surface.
-
+There are longer term benefits, however.
+By monitoring usage, researchers can get to know which forms of data preparation and data publication work best when sharing their datasets,
+and adjust their practices accordingly.
+By tracking who is reusing their data,
+researchers may uncover opportunities for collaboration from among their peers,
+and may identify communities who,
+even though they were not the original intended audience (e.g. the public),
+have an interest in the data.
 
 Data usage monitoring can be also be used by institutions in different ways [@rdmf122014turd]:
-* promotional activities and celebration of particular data sharing and re-use successes by researchers at the institution 
-* creation of special collections around popular data sets
-* meeting funder requirements to safeguard data for the appropriate length of time since last use
-* plan for and monitor the success of the infrastructure providing access to the data
+
+* promotional activities and celebration of particular data sharing and re-use successes by researchers at the institution;
+* creation of special collections around popular data sets;
+* plan for and monitor the success of the infrastructure providing access to the data;
+* meeting funder requirements to safeguard data for the appropriate length of time since last use.
+
+As an example of the latter points,
+in October 2014, the Engineering and Physical Sciences Research Council (EPSRC)
+set out a clarification of its expectations of the research organisations it funds [@epsrc2014cla].
+It explained that organisations are expected to log requests to access the data they hold,
+and recommended they also do likewise for data their researchers have deposited elsewhere
+(Expectation III).
+Not only are such logs ‘a valuable indicator of impact’,
+they along with other measures of interest^[The
+document states it is ‘reasonable to use data citations,
+or any other metric based on reliable sources of evidence and widely accepted at the time,
+to evaluate if interest has been shown in a dataset’ (Expectation VII).]
+can inform decisions about data retention.
+In particular, EPSRC stated it did not expect a dataset to be retained if no interest has been shown in it for a period 10 years (Expectation VII).
 
 In the longer term, there is an expectation that
-increased acceptance of data as research output will drive up data sharing,
+increased acceptance of data as a research output will drive up data sharing,
 improving the quality of science and opening up opportunities for more forms of research.
-The development of data metrics can provide one potential incentive within a framework of professional
+The development of data metrics provides one potential incentive within a framework of professional
 advancement and reward that recognizes data sharing and publication as a fundamental research activity. [@ke2013vrd]
-Narratives of successes of data sharing and re-use could help bring about cultural change.
+Narratives of high-impact data sharing and re-use could help bring about cultural change.
 
 Impact measurement concepts
 ===========================
