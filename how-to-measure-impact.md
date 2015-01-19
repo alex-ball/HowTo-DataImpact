@@ -31,32 +31,31 @@ researchers are asked to consider how they might maximise the academic, societal
 
 At the other end of the research lifecycle,
 the 2014 Research Excellence Framework (REF) in the UK included impact as an explicit element alongside outputs and environment [@ref2011dar].
-In 2014-2015 the Higher Education Funding Council For England (HEFCE)
+Furthermore, when the Higher Education Funding Council For England (HEFCE)
 – one of the agencies responsible for the REF –
-undertook a review of the role of metrics in research assessment,
-to consider how they might be used to assess both the quality and broader impact of scientific and scholarly research [@hefce2014irm].
+undertook a review of the role of metrics in research assessment in 2014-2015,
+it considered how they might be used to assess both the quality of academic research and its broader impact [@hefce2014irm].
 
 There are many reasons underlying this emphasis on impact.
 For one, it provides tangible evidence of benefit to weigh againsts the costs of research.
 For another, it is an intuitive indicator to use when comparing peer research programmes across the globe on the basis of importance or value for money.
 It is not, perhaps, ideal for making comparisons across disciplines
-as they experience impact on different timescales and in different ways.
+as each one has its own pattern of impact, operating over a different timescale.
 In order to accommodate these differences as far as possible, though,
-funders tend to take into account a wide variety of ways in which research can make a difference.
-This means going beyond a traditional bibliometric analysis of scholarly outputs
+funders tend to take into account a wide variety of ways in which research can be influential.
+This means going beyond a traditional bibliometric analysis of academic outputs
 to consider how wider societal needs have been met by research efforts.
 When research influences practice or policy,
 generates wealth,
 drives industrial innovations,
-addresses pressing (societal) questions or problems,
+addresses pressing societal questions or problems,
 or
 responds to community priorities during planning stages
-(such as using patient views as input to design medical studies),
+(such as taking account of patients' views when designing medical studies),
 its impact has been broadened.
 
-For researchers, tracking the use of data is a necessary part of the process for
-claiming credit for the full range of research outputs.
-There are longer term benefits, however.
+It is in the interests of researchers, therefore, to track the impact of all their research outputs, including datasets.
+There are, however, particular benefits they can realise by analysing how and where their shared datasets are being used.
 By monitoring usage, researchers can get to know which forms of data preparation and data publication work best when sharing their datasets,
 and adjust their practices accordingly.
 By tracking who is reusing their data,
@@ -86,12 +85,12 @@ to evaluate if interest has been shown in a dataset’ (Expectation VII).]
 can inform decisions about data retention.
 In particular, EPSRC stated it did not expect a dataset to be retained if no interest has been shown in it for a period 10 years (Expectation VII).
 
-In the longer term, there is an expectation that
-increased acceptance of data as a research output will drive up data sharing,
-improving the quality of science and opening up opportunities for more forms of research.
-The development of data metrics provides one potential incentive within a framework of professional
-advancement and reward that recognizes data sharing and publication as a fundamental research activity. [@ke2013vrd]
-Narratives of high-impact data sharing and re-use could help bring about cultural change.
+These considerations are all important in the wider movement to
+improve quality and transparancy,
+increase efficency,
+and widen the opportunities for academic research through data sharing.
+Narrative accounts of high-impact data sharing and re-use can be used to advocate cultural change.
+Meanwhile, data metrics may be used to incentivise data sharing within a framework of professional advancement and reward that recognizes data as a fundamental research output [@ke2013vrd].
 
 Impact measurement concepts
 ===========================
