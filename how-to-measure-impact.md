@@ -95,17 +95,33 @@ Meanwhile, data metrics may be used to incentivise data sharing within a framewo
 Impact measurement concepts
 ===========================
 
+Impact is, in its figurative sense, the effect or influence that one agent, event or resource has on anothor.
+When measuring impact, it is therefore important to bear in mind whose impact is being measured, and the extent to which one may use that metric to infer the impact of another entity.
+For example, citation counts are one way of measuring the influence that a paper has on subsequent literature in a discipline.
+One may infer from the impact of the paper something about the impact of each of the authors,
+the institutions at which they are based,
+the project of which the paper is an output,
+and the body that funded the research;
+but the further removed from one gets from the paper,
+the more one has to take that impact in aggregate in order to draw conclusions about the impact of the entity relative to its peers.
+
+
 Relationship between the impact of resources and impact of researchers.
 
 Reminder of how bibliometrics and scientometrics work for traditional publications. Citations, impact factor.
 
-The Journal Impact Factor (JIF) is a measure applied to individual journals which tries to compensate for 
-variations in journal size.  The JIF is derived from the total citations for a journal made in a specific year, to 
+The Journal Impact Factor (JIF) is a measure applied to individual journals which tries to compensate for
+variations in journal size.  The JIF is derived from the total citations for a journal made in a specific year, to
 articles published in the previous two years, divided by the number of articles. (Certain items which are
 not considered to be substantive articles, e.g. news items or letters, are not included).
 It is published by the *Journal Citation Reports (JCR)* (mention Thomson Scientific)
 Although the JIF is a measure of the impact of a whole journal not individual articles, it is often used as a proxy
 for the prestige of the journal and impact of the articles and authors published in that journal.
+
+Conversely, when measuring the impact of an entity through indirect means it is important to remember this provides only an incomplete picture.
+The impact of researchers can be measured partly through paper citations but may also be demonstrated through, for example,
+adoption of their ideas by industry or by invitations to speak to the media.
+
 
 Citation for data
 
