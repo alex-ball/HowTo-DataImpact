@@ -97,6 +97,7 @@ Impact measurement concepts
 
 Impact is, in its figurative sense, the effect or influence that one agent, event or resource has on another.
 When measuring impact, it is therefore important to bear in mind whose impact is being measured, and the extent to which one may use that metric to infer the impact of another entity.
+
 For example, citation counts are one way of measuring the influence that a paper has on subsequent literature in a discipline.
 One may infer from the impact of the paper something about the impact of each of the authors,
 the institutions at which they are based,
@@ -105,23 +106,34 @@ and the body that funded the research;
 but the further removed from one gets from the paper,
 the more one has to take that impact in aggregate in order to draw conclusions about the impact of the entity relative to its peers.
 
+One measure that does this is the *h*-index, a measure of researcher impact and productivity derived from the citation counts of papers [@hirsch2005iqi].
+Researchers have an index *h* if exactly *h* of their published papers have been cited *h* or more times.
+This way of aggregating the citation counts means that researchers have to produce highly cited papers in quantity in order to score highly;
+a large quantity of poorly cited papers or a one-off influential paper are not enough.
 
-Relationship between the impact of resources and impact of researchers.
+Another measure derived from citation counts is the Journal Impact Factor (JIF),
+which gauges the impact of a journal in a given year.
+It is defined as the mean number of citations received
+by the papers published by the journal in the preceding two years
+from papers published (in any journal) in the year in question.
+The official JIFs are calculated by Thomson Reuters
+from the papers indexed by Web of Knowledge,
+and published in the *Journal Citation Reports (JCR)* product.^[Variations
+on the JIF are possible; for example, the *JCR* also provides a Five-Year Impact Factor
+which may be more relevant for disciplines with longer publication cycles.]
+Despite being a measure of the impact of a journal,
+not that of its constituent papers,
+it is often used as a proxy measure for the prestige of the journal,
+and thereby (controversially) of the impact of the articles and authors published in that journal.
 
-Reminder of how bibliometrics and scientometrics work for traditional publications. Citations, impact factor.
-
-The Journal Impact Factor (JIF) is a measure applied to individual journals which tries to compensate for
-variations in journal size.  The JIF is derived from the total citations for a journal made in a specific year, to
-articles published in the previous two years, divided by the number of articles. (Certain items which are
-not considered to be substantive articles, e.g. news items or letters, are not included).
-It is published by the *Journal Citation Reports (JCR)* (mention Thomson Scientific)
-Although the JIF is a measure of the impact of a whole journal not individual articles, it is often used as a proxy
-for the prestige of the journal and impact of the articles and authors published in that journal.
-
-Conversely, when measuring the impact of an entity through indirect means it is important to remember this provides only an incomplete picture.
+When measuring the impact of an entity through indirect means like this,
+it is important to remember it provides only an incomplete picture.
 The impact of researchers can be measured partly through paper citations but may also be demonstrated through, for example,
-adoption of their ideas by industry or by invitations to speak to the media.
+appearance of their monographs in course reading lists,
+adoption of their ideas by industry,
+or by invitations to speak to the media.
 
+Exclusive focus on citations between journal papers can lead to the undervaluing of other research outputs.
 
 Citation for data
 
