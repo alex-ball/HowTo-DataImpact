@@ -37,7 +37,7 @@ undertook a review of the role of metrics in research assessment in 2014-2015,
 it considered how they might be used to assess both the quality of academic research and its broader impact [@hefce2014irm].
 
 There are many reasons underlying this emphasis on impact.
-For one, it provides tangible evidence of benefit to weigh againsts the costs of research.
+For one, it provides tangible evidence of benefit to weigh against the costs of research.
 For another, it is an intuitive indicator to use when comparing peer research programmes across the globe on the basis of importance or value for money.
 It is not, perhaps, ideal for making comparisons across disciplines
 as each one has its own pattern of impact, operating over a different timescale.
@@ -86,8 +86,8 @@ can inform decisions about data retention.
 In particular, EPSRC stated it did not expect a dataset to be retained if no interest has been shown in it for a period 10 years (Expectation VII).
 
 These considerations are all important in the wider movement to
-improve quality and transparancy,
-increase efficency,
+improve quality and transparency,
+increase efficiency,
 and widen the opportunities for academic research through data sharing.
 Narrative accounts of high-impact data sharing and re-use can be used to advocate cultural change.
 Meanwhile, data metrics may be used to incentivise data sharing within a framework of professional advancement and reward that recognizes data as a fundamental research output [@ke2013vrd].
@@ -95,7 +95,7 @@ Meanwhile, data metrics may be used to incentivise data sharing within a framewo
 Impact measurement concepts
 ===========================
 
-Impact is, in its figurative sense, the effect or influence that one agent, event or resource has on anothor.
+Impact is, in its figurative sense, the effect or influence that one agent, event or resource has on another.
 When measuring impact, it is therefore important to bear in mind whose impact is being measured, and the extent to which one may use that metric to infer the impact of another entity.
 For example, citation counts are one way of measuring the influence that a paper has on subsequent literature in a discipline.
 One may infer from the impact of the paper something about the impact of each of the authors,
@@ -127,16 +127,16 @@ Citation for data
 
 The most mature emerging model for measuring the impact of data is one that is analogous to the publication and citation
 of literature, [ke2013vrd] although this model is not without its problems.  A distinction is made between "small p" publishing
-where data is simply made available (e.g. as files on a website) without necessarily providing an associated framework for checking 
-quality, ensuring re-usability and guaranteeing long-term access, and what is referred to as 
+where data is simply made available (e.g. as files on a website) without necessarily providing an associated framework for checking
+quality, ensuring re-usability and guaranteeing long-term access, and what is referred to as
 "capital P" Publishing. The latter seeks to establish processes
 for documenting, reviewing and citation, and making the data searchable and discoverable.
-Data can be published as "stand-alone" items or alongside a co-existing journal article. Data papers describe data in a factual way 
+Data can be published as "stand-alone" items or alongside a co-existing journal article. Data papers describe data in a factual way
 (rather than hypotheses and arguments based on the data).
 
 citation of data in this context; reference to DCC guide? stats made available by data repositories e.g. DataCite
 
-Microattribution, ?nanopublication. 
+Microattribution, ?nanopublication.
 
 Introduction to measures of impact other than citations: page views, download rates, tweets and retweets, trackbacks (from blogs, etc.), tagging, social bookmarking.
 
@@ -154,8 +154,8 @@ not be looked at again, or found not to be of value.
 
 (Should we say something about data repositories that support showing download rates? [@ke2013vrd] P.23)
 
-Twitter is a social networking tool that enables users to send short messages (limited to 140 chracters) to their followers. Tweets can provide pointers to research by mentioning that research or sharing links directly to research or to pages discussing it or providing access.
-Tweets can be used as a measure of interest generated in the item, by counting the number of references, or tweets, that are about that 
+Twitter is a social networking tool that enables users to send short messages (limited to 140 characters) to their followers. Tweets can provide pointers to research by mentioning that research or sharing links directly to research or to pages discussing it or providing access.
+Tweets can be used as a measure of interest generated in the item, by counting the number of references, or tweets, that are about that
 item.  The content of the tweet however has to be examined to find out if mentions are positive, neutral or negative. (a screenshot
 example of a recommendation perhaps?) Tweets can be forwarded, called a retweet, showing a passing on of the recommendation.  
 
@@ -216,14 +216,14 @@ third parties), and the code and governance are also open. An export feature is 
 
 ReaderMeter
 -----------
-Another service that is currently suspended, ReaderMeter tries to mirror the H-Index and G-Index by analysing 
-data about readership (based on bookmarks) from the Mendeley service. Further information is available from the 
+Another service that is currently suspended, ReaderMeter tries to mirror the H-Index and G-Index by analysing
+data about readership (based on bookmarks) from the Mendeley service. Further information is available from the
 DCC [@dcc2013rea].
 
 ScienceCard
 -----------
-ScienceCard is a service which is currently suspended.  It started out as a project from a hackaton.  The aim was to create
-a reasercher-centred service to import scientific articles into a profile. Users would be able to add their articles through
+ScienceCard is a service which is currently suspended.  It started out as a project from a hackathon.  The aim was to create
+a researcher-centred service to import scientific articles into a profile. Users would be able to add their articles through
 a DOI, PubMedID or via their ORCID account.  Article-level metrics would then be computed around the researcher.  It is possible that
 the service may be relaunched in the future.
 
@@ -272,13 +272,13 @@ Crowdometer
 -----------
 A project carried out in December 2011 - January 2012 that used crowdsourcing to analyse and classify the content of tweets that linked to scholarly papers.
 Participants used an ontology to describe the types of links made in the tweet (e.g.) One main finding was that most tweets do not
-contain a sentiment about the link being shared.  The crowdometer.org site is no longer available althought the github site 
+contain a sentiment about the link being shared.  The crowdometer.org site is no longer available although the github site
 containing the code used is still accessible.
 
 ResearchGate Score
 ------------------
 ResearchGate is a social networking site for researchers to connect and collaborate. Researches can add their publications to their
-profile and the site generates statistics about views, downloads and citations. The service also calculates its own impact metric, 
+profile and the site generates statistics about views, downloads and citations. The service also calculates its own impact metric,
 the RG score. Researchers can share data alongside publications.  An open peer review feature was recently added to the
 site, called OpenReview. Users receive notification emails with information on the downloads, views, citations and other
 activity from people in their network.  ResearchGate was founded in 2008.
@@ -293,36 +293,36 @@ Plum Analytics
 ---------------
 Acquired by EBSCO at the start of 2014 [@harris2014acq], Plum Analytics was founded in 2012 and developed its product
 with the University of Pittsburgh as a partner. Plum X, its main product, aims to illustrate a more comprehensive
-picture of research impact beyond (but including) citations. Amongst its customers it counts universities, 
+picture of research impact beyond (but including) citations. Amongst its customers it counts universities,
 corporations, publishers and funders, and reports rapid growth since the acquisition.
 
 PlumX aggregates information about the use of research outputs, including "non-traditional"
 types, from external sources. It displays the information in various ways and provides different methods of interacting with the
-aggregated output.  The information sources that are aggregated include Dryad for information about datasets, Amazon for 
-books and YouTube for videos.  It aims to highlight impact from the previous eighteen months, to fill the gap created by 
+aggregated output.  The information sources that are aggregated include Dryad for information about datasets, Amazon for
+books and YouTube for videos.  It aims to highlight impact from the previous eighteen months, to fill the gap created by
 the publication lag, alongside citation data.
 
 The metrics gathered by Plum X are grouped into five categories: usage (clicks, downloads, views), captures (bookmarks, favourites),
 mentions (comments, reviews), social media (likes, shares, tweets) and citations. These categories are then displayed in dashboard views
 that can be controlled to present the data in different ways.  For example a university can view data by level,
-(e.g. school and programme), and drill down through the levels to individual researcher information, or to individual artefact (e.g. a 
+(e.g. school and programme), and drill down through the levels to individual researcher information, or to individual artefact (e.g. a
 specific article).
 
-A 'plum print' summary is available for embedding into other sites, such as the institutional repository.  The information shown in the 
-embedded widget is customisable and links to the original source are made available. Researchers can help seed the information available 
+A 'plum print' summary is available for embedding into other sites, such as the institutional repository.  The information shown in the
+embedded widget is customisable and links to the original source are made available. Researchers can help seed the information available
 by making the link with their profiles in other systems (e.g. by entering a Slideshare ID).  An example of aggregated information
 is that for books, which takes in Amazon, GoodReads and Wikipedia presence [@michalek2014plu].
 
 Altmetric
 ----------
-Altmetric is an article-centered service which monitors social media sites, newspapers, government policy documents and other sources 
-for mentions of scholarly articles. It collects all the discussions about an article, and computes a score that tries to measure the 
-quality and the quantity of the attention received. Sources used include Twitter, Facebook, blogs and news outlets. 
+Altmetric is an article-centred service which monitors social media sites, newspapers, government policy documents and other sources
+for mentions of scholarly articles. It collects all the discussions about an article, and computes a score that tries to measure the
+quality and the quantity of the attention received. Sources used include Twitter, Facebook, blogs and news outlets.
 
 The output from Altmetric is available in four forms:
 
 * A web explorer
-This brings together all the information gathered about all the articles.  The articles and discussions around them can then be explored individually, with different filters. Email alerts, custom reports and export are also available. A paid-for institutional offering 
+This brings together all the information gathered about all the articles.  The articles and discussions around them can then be explored individually, with different filters. Email alerts, custom reports and export are also available. A paid-for institutional offering
 collates information for articles from that institution.
 
 * A bookmarklet.
@@ -335,48 +335,48 @@ API is HTTP-based and gives programmatic access to the data about articles and d
 * A badge
 The badge is a doughnut shaped visualisation which displays the altmetric score in the centre and colour-coded edges according
 to the source of mentions. It can be embedded into other pages (by adding a line of code); when clicked on it takes the user
-to landing page which shows the breakdown of the score for that article. I can be added by reseachers to their own personal
+to landing page which shows the breakdown of the score for that article. I can be added by researchers to their own personal
 pages or integrated by institutions into platforms such as repositories.
 
-The score is combined from three factors: the volume of mentions, the category of mentions (source) and the author of the 
-mention. Weighting is given to 
+The score is combined from three factors: the volume of mentions, the category of mentions (source) and the author of the
+mention. Weighting is given to
 
 SocialCite
 -----------
 SocialCite adds a layer of information to citations by encouraging the reasons behind citations to be made explicit. Users can enhance
 citation information by indicating the appropriateness and evidence strength of a citation, using a simple
-thumbs up or thumbs down rating.  The service available at 
-the end of 2014 is in the form of a pilot which includes articles a small number of publishers (such as the Proceedings of the National Academy of Sciences). SocialCite is targetted at both readers and authors, as well as librarians and journal editors.  
+thumbs up or thumbs down rating.  The service available at
+the end of 2014 is in the form of a pilot which includes articles a small number of publishers (such as the Proceedings of the National Academy of Sciences). SocialCite is targeted at both readers and authors, as well as librarians and journal editors.  
 The proposed business model would offer some paid-for reporting features, looking across journals, authors or institutions.  
-It is not clear if they have launched formally; the Twitter account was active Nov 2014. 
+It is not clear if they have launched formally; the Twitter account was active Nov 2014.
 
 Tips for raising research data impact
 =====================================
 
 (Need to search literature for evidence, examples and case studies.)
-(possible examples of how altmetrics help monitor use perhaps in Cameron PLOS Opens Blog post 
+(possible examples of how altmetrics help monitor use perhaps in Cameron PLOS Opens Blog post
 Altmetrics: What are they good for?)
 
 Although a complete and seamless infrastructure of services and tools for the monitoring and measurement of the impact of data
 is not yet available, there are measures that can be taken now using existing facilities and elements of the infrastructure.
- 
+
 Provide citation/discovery metadata. Use of identifiers. Reference to how to cite data and DCC guide?
 
 Make data discoverable and citable by providing adequate metadata.  The precise fields that are needed may depend on the data.
 Disciplinary norms and guidance on appropriate schema are sometimes available, and repositories or organisations often define minimum
 requirements for deposit. Generic advice on data citation can be found in (reference to DCC guide). Assign identifiers for data
-as a crucial step to make the data easily cited, accessed and located.  An identifier that supports all three functions (citation, location, access) is preferable.   
+as a crucial step to make the data easily cited, accessed and located.  An identifier that supports all three functions (citation, location, access) is preferable.
 
 Provide enough metadata for reuse. Reproducibility.
 Data should be accompanied by enough contextual information to support reuse. The required information may be discipline-dependent.
-A user of the data should have enough information to be able to reproduce the results. 
+A user of the data should have enough information to be able to reproduce the results.
 
 Open access.
 Any restrictions to the use of data (such as imposing payment for access) may present barriers to reuse and potential impact.  
-Some restrictions are necessary (for example those arising from legal requirements), however where restrictions are not needed, 
-the data can be made open access.  Regardless of whether payment or other restrictions are applied to the use of data, 
+Some restrictions are necessary (for example those arising from legal requirements), however where restrictions are not needed,
+the data can be made open access.  Regardless of whether payment or other restrictions are applied to the use of data,
 it may be desirable to require user registration prior to access.  Whilst registration does impose an extra step (and therefore a
-potential barrier) to data access, it allows both the application of conditions to be adhered to in the use of data 
+potential barrier) to data access, it allows both the application of conditions to be adhered to in the use of data
 (by explicitly asking the user for their agreement) and can further be used for tracking and monitoring of patterns of data use.
 
 Deposit in major repository. (Too early to discuss certified repositories?)
@@ -393,7 +393,7 @@ Immaturity of the area.
 
 Due to the early stage of development of some of the tools (specially for altmetrics) and a lack of standardisation in
 what they are measuring, results may not be comparable, which limits their use in the processes for determining rewards
-based on scholarly impact [@featherstone2014stm].  The study of the reliability and validity of the data is a work in progress ; "there is 
+based on scholarly impact [@featherstone2014stm].  The study of the reliability and validity of the data is a work in progress ; "there is
 a tendency to include what can be counted, rather than to include what adds particular value" [@niso2014ami].
 A 2013 Knowledge Exchange workshop on research data and research assessment [@ke2013mdc] reported that more experience
 of alternative metrics is required before their value could be decided and at the time they were not considered a suitable
@@ -405,7 +405,7 @@ Relationship between alt metrics and traditional citation-based metrics: measuri
 Possibilities (or otherwise) for gaming the system. Ethical behaviour.
 
 Gaming of metrics can be described as "behaviour that is meant to unfairly manipulate those metrics, generally for one's
-benefit." [@niso2014ami] 
+benefit." [@niso2014ami]
 self-citing and self-tweeting not considered unethical in themselves, but need to be factored into calculations [@featherstone2014stm]
  and consensus is still emerging on where the line lies between acceptable promotion and cheating [@niso2014ami].
 
@@ -413,22 +413,22 @@ Wider acceptance of alt metrics.
 (acceptance by whom? Funders? Institutions? Academics?)
 
 At least *some* academics have reservations about the culture of metrics and the use of measures
-to enforce competition. Audits, monitoring and data collection are considered to be a force that shapes academia, 
-in a manner that is too dominating.  Scepticism is expressed that value can be captured through metrics, particularly for research outputs. 
-The influence of metrics on decision-making e.g. choosing to publish in a journal with a high impact factor, is questioned. 
-In this light, the inclusion of data metrics is seen as an example of the increasing obsession with measurement, 
+to enforce competition. Audits, monitoring and data collection are considered to be a force that shapes academia,
+in a manner that is too dominating.  Scepticism is expressed that value can be captured through metrics, particularly for research outputs.
+The influence of metrics on decision-making e.g. choosing to publish in a journal with a high impact factor, is questioned.
+In this light, the inclusion of data metrics is seen as an example of the increasing obsession with measurement,
 and is not necessarily viewed as a positive development [@burrows2013lwn].  
 
-David Colquhoun, in his submission to HEFCE on the role of metrics in research assessment, cautions against conflating certain metrics 
+David Colquhoun, in his submission to HEFCE on the role of metrics in research assessment, cautions against conflating certain metrics
 with quality.  In particular he singles out some altmetrics such as Tweets for criticism, suggesting that popularity of retweeting may
 reflect trendiness, rather than quality.  In the examples given, he suspects that the content of the title determines what becomes
-popular, and not the article itself, which may not even have been read.  This limits the impact that the article has had on the 
-general public, let alone other academics [@colquhoun2014sub]. He expresses concern that the glamourising of articles leads to 
+popular, and not the article itself, which may not even have been read.  This limits the impact that the article has had on the
+general public, let alone other academics [@colquhoun2014sub]. He expresses concern that the glamorising of articles leads to
 inaccuracies, and to overlooking of the detail of the article and its quality. He strongly recommends against the use of altmetrics [@colquhoun2014wos].
 
 One other aspect of acceptance is trust in the data quality [@niso2014ami] (which still requires work as mentioned previously).
 
-Even proponents of altmetrics recognise that current practice for career progression focuses on pubslishing traditional
+Even proponents of altmetrics recognise that current practice for career progression focuses on publishing traditional
 journal articles, and that change is required for funders to start recognising other scholarly works and impact [@konkiel.piwowar.priem2014tio].
 
 The effects of time
@@ -440,7 +440,7 @@ Contributor roles
 
 Identifying who contributed what to the data - generating, cleaning, documenting, curating
 (Is this more about credit than impact?)
-[@niso2014ami] suggests that alterntive assessment metrics "could play a role in this area by tracking or measuring credit for
+[@niso2014ami] suggests that alternative assessment metrics "could play a role in this area by tracking or measuring credit for
 more non-traditional research outputs such as research data"
 
 Acknowledgements
@@ -457,4 +457,3 @@ A list of related DCC resources goes here.
 
 \normalcolor
 A list of non-DCC resources and publications goes here.
-
