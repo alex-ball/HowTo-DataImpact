@@ -126,27 +126,57 @@ not that of its constituent papers,
 it is often used as a proxy measure for the prestige of the journal,
 and thereby (controversially) of the impact of the articles and authors published in that journal.
 
-When measuring the impact of an entity through indirect means like this,
-it is important to remember it provides only an incomplete picture.
-The impact of researchers can be measured partly through paper citations but may also be demonstrated through, for example,
-appearance of their monographs in course reading lists,
-adoption of their ideas by industry,
-or by invitations to speak to the media.
+There are compelling arguments against using the JIF in so simplistic a manner.
+It is no longer the case that it is prohibitively time consuming
+to apply metrics to articles and authors on an individual basis.
+Furthermore, measuring the impact of an entity through indirect means,
+as happens with both the JIF and the *h*-factor,
+provides only an incomplete picture.
+Researchers can have a positive impact on their discipline and the wider world
+by means other than attracting citations to their journal papers:
+their impact may also be demonstrated through, for example,
 
-Exclusive focus on citations between journal papers can lead to the undervaluing of other research outputs.
+  * widespread use of software they have written;
 
-Citation for data
+  * reuse of data they have shared;
 
-The most mature emerging model for measuring the impact of data is one that is analogous to the publication and citation
-of literature, [ke2013vrd] although this model is not without its problems.  A distinction is made between "small p" publishing
-where data is simply made available (e.g. as files on a website) without necessarily providing an associated framework for checking
-quality, ensuring re-usability and guaranteeing long-term access, and what is referred to as
-"capital P" Publishing. The latter seeks to establish processes
-for documenting, reviewing and citation, and making the data searchable and discoverable.
-Data can be published as "stand-alone" items or alongside a co-existing journal article. Data papers describe data in a factual way
-(rather than hypotheses and arguments based on the data).
+  * appearance of their monographs in course reading lists;
 
-citation of data in this context; reference to DCC guide? stats made available by data repositories e.g. DataCite
+  * adoption of their ideas by industry;
+
+  * invitations to speak to the media.
+
+This is a particular concern as,
+if researchers only get recognition and reward for their journal papers,
+they will be disincentivised against spending time on other activities
+that may be of greater long-term benefit to their field of study.
+For this reason, researchers and organisations have been exploring ways
+of measuring impact that go beyond counting citations between traditional
+journal papers.
+
+Citations of data
+-----------------
+
+The most mature emerging model for measuring the impact of data
+is one that is analogous to the publication and citation of literature [ke2013vrd].
+Going beyond mere data sharing,
+where data is simply made available (e.g. as files on a website),
+data publication implies that the data has entered a framework for
+checking its quality,
+ensuring it is fit for re-use,
+making it searchable and discoverable,
+and guaranteeing its long-term accessibility.
+The resulting dataset is given a stable citation
+so that it can be reliably referenced by other scholarly works.
+While this in some sense represents an aspirational end goal,
+some disciplines are taking a transitional approach where citations are made instead
+to a ‘data paper’ that describes the dataset and its collection
+without drawing any scientific conclusions from it.
+Many disciplines, however, take the traditional approach of citing
+the first paper to make use of the data,
+relying on that paper to indicate if and how the data has been shared.
+
+stats made available by data repositories e.g. DataCite
 
 Microattribution, ?nanopublication.
 
@@ -465,7 +495,8 @@ Further information
 ===================
 
 \setlength{\parindent}{0pt}\nonzeroparskip\color{dccblue}\small
-A list of related DCC resources goes here.
+
+  * ‘How to Cite Datasets’ by Alex Ball and Monica Duke
 
 \normalcolor
 A list of non-DCC resources and publications goes here.
