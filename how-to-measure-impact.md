@@ -137,13 +137,9 @@ by means other than attracting citations to their journal papers:
 their impact may also be demonstrated through, for example,
 
   * widespread use of software they have written;
-
   * reuse of data they have shared;
-
   * appearance of their monographs in course reading lists;
-
   * adoption of their ideas by industry;
-
   * invitations to speak to the media.
 
 This is a particular concern as,
@@ -168,26 +164,47 @@ making it searchable and discoverable,
 and guaranteeing its long-term accessibility.
 The resulting dataset is given a stable citation
 so that it can be reliably referenced by other scholarly works.
-While this in some sense represents an aspirational end goal,
-some disciplines are taking a transitional approach where citations are made instead
-to a ‘data paper’ that describes the dataset and its collection
+Such citations can be counted in the usual manner to provide evidence of the impact of the dataset.
+
+While direct citation of datasets may be considered an aspirational end goal,
+some disciplines are taking a transitional approach where citations are made instead to a *data paper*;
+this is a paper that describes the dataset and its collection
 without drawing any scientific conclusions from it.
-Many disciplines, however, take the traditional approach of citing
-the first paper to make use of the data,
+Citations of data papers can still be used straightforwardly to provide evidence of the impact of the corresponding dataset.
+
+Many disciplines, however, take the traditional approach of citing the first paper to make use of the data,
 relying on that paper to indicate if and how the data has been shared.
+It is not usually possible, at least not without significant manual effort,
+to identify whether citations to such papers should count towards
+the impact of the argumentation and conclusions of the paper,
+the underlying dataset,
+or both.
+In such disciplines, therefore, citation counts are of little help as a metric of data impact, so alternative metrics must be found.
+Several can be derived from logs of online activity.
 
-stats made available by data repositories e.g. DataCite
+Resolutions
+-----------
 
-Microattribution, ?nanopublication.
+Many datasets have been given persistent, unique identifiers to assist with unambiguous referencing,
+and many of the schemes in use are resolvable.
+In other words, there are bridge services that map the identifiers to one or more Internet locations.
 
-Introduction to measures of impact other than citations: page views, download rates, tweets and retweets, trackbacks (from blogs, etc.), tagging, social bookmarking.
+One such scheme is the Digital Object Identifier (DOI),
+for which DataCite is the main Registration Agency for research datasets.
+Among the services it provides is DataCite Statistics,
+which shows on a monthly basis the number of times the top ten DOIs for each prefix have been resolved to a URL.
 
-(intro to say these are types of online behaviour?)
+Page views
+----------
 
-Page views indicate the level of interest that has been attracted by an online page that gives access to a research item.
+Page views indicate the level of interest that has been attracted by an online page.
+
 The page is often one which displays information such as author and title, short description, and a link to allow
 download of the item.  Page views indicate that the item has drawn a level of attention sufficient for users to want to
 find out more information about it and guarantees a knowledge of existence. (Although some page views will be for HTML article?)
+
+Downloads
+---------
 
 Download rates are based on usage log data and reflect the number of times that a whole item has been downloaded from a link.  The assumption
 is that the item has been judged to be of sufficient interest to warrant a closer look (indicating a judgement of value
@@ -195,6 +212,9 @@ deeper than simply 'looks interesting') but there is no guarantee that a downloa
 not be looked at again, or found not to be of value.
 
 (Should we say something about data repositories that support showing download rates? [@ke2013vrd] P.23)
+
+Social media links
+------------------
 
 Twitter is a social networking tool that enables users to send short messages (limited to 140 characters) to their followers. Tweets can provide pointers to research by mentioning that research or sharing links directly to research or to pages discussing it or providing access.
 Tweets can be used as a measure of interest generated in the item, by counting the number of references, or tweets, that are about that
@@ -204,6 +224,9 @@ example of a recommendation perhaps?) Tweets can be forwarded, called a retweet,
 What about news articles, comments, social commentary
 
 Impact in different communities - e.g. researcher use, public engagement, policy and practice
+
+Introduction to measures of impact other than citations: trackbacks (from blogs, etc.), tagging, social bookmarking.
+
 
 Impact measurement services
 ===========================
