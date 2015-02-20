@@ -150,6 +150,8 @@ For this reason, researchers and organisations have been exploring ways
 of measuring impact that go beyond counting citations between traditional
 journal papers.
 
+  > Impact in different communities - e.g. researcher use, public engagement, policy and practice?
+
 Citations of data
 -----------------
 
@@ -193,39 +195,68 @@ One such scheme is the Digital Object Identifier (DOI),
 for which DataCite is the main Registration Agency for research datasets.
 Among the services it provides is DataCite Statistics,
 which shows on a monthly basis the number of times the top ten DOIs for each prefix have been resolved to a URL.
+This gives an indication of how often references to the dataset have been followed.
 
 Page views
 ----------
 
-Page views indicate the level of interest that has been attracted by an online page.
+Web servers log each interaction they have with a client,
+so by analysing the logs it is possible to count approximately how many times a webpage has been opened by a browser.
+Some sites additionally embed in their pages JavaScript code that notifies an analysis application each time a page is viewed.
+Either way, this statistic can be used to infer the level of interest in that page.
 
-The page is often one which displays information such as author and title, short description, and a link to allow
-download of the item.  Page views indicate that the item has drawn a level of attention sufficient for users to want to
-find out more information about it and guarantees a knowledge of existence. (Although some page views will be for HTML article?)
+When datasets are made available online,
+best practice is to provide a corresponding webpage displaying a catalogue record for the dataset.
+At a minimum one would expect the page to display the dataset title,
+a statement of responsibility,
+a short description,
+and a download link (or instructions on how to gain access).
+The number of times the dataset catalogue page has been viewed gives an indication of the level of interest in the dataset, and the level of awareness of its existence.
 
 Downloads
 ---------
 
-Download rates are based on usage log data and reflect the number of times that a whole item has been downloaded from a link.  The assumption
-is that the item has been judged to be of sufficient interest to warrant a closer look (indicating a judgement of value
-deeper than simply 'looks interesting') but there is no guarantee that a download does lead to use. Once downloaded the item may simply
-not be looked at again, or found not to be of value.
+Web server logs can also be used to count the number of times that a data file has been downloaded.
+This indicates a stronger level of interest in the data than does the count of catalogue page views,
+since it implies a desire to look at the actual data,
+but the statistic alone does not reveal the use to which the downloaded data might be put.
 
-(Should we say something about data repositories that support showing download rates? [@ke2013vrd] P.23)
+At the time of writing the number of repositories and data archives that make download statistics openly available is quite small –
+one is VectorBase –
+but several others are known to collect and use them internally [@ke2013vrd, pp. 39–42].
+For example, the UK Data Service Discover catalogue can put search results in order from  most to least downloaded.
 
 Social media links
 ------------------
 
-Twitter is a social networking tool that enables users to send short messages (limited to 140 characters) to their followers. Tweets can provide pointers to research by mentioning that research or sharing links directly to research or to pages discussing it or providing access.
-Tweets can be used as a measure of interest generated in the item, by counting the number of references, or tweets, that are about that
-item.  The content of the tweet however has to be examined to find out if mentions are positive, neutral or negative. (a screenshot
-example of a recommendation perhaps?) Tweets can be forwarded, called a retweet, showing a passing on of the recommendation.  
+Perhaps the alternative metrics closest to references in journal articles
+are those that measure the topicality of the dataset on social media platforms.
+If people are moved to share or discuss a dataset with friends, colleagues and the wider world,
+there is a strong implication it has had an impact on them.
 
-What about news articles, comments, social commentary
+Twitter is a social networking tool that enables users to send short messages known as ‘tweets’ to their followers.
+As they are limited to 140 characters, tweets lend themselves to immediate reaction and brief sentiments.
+A tweet referring to a piece of research might contain a link to, say,
+a research output, a project website or a blog post that discusses it,
+accompanied by a comment on it.
+Detecting tweets that relate to a dataset can be tricky,
+but a possible search strategy is to look for mentions of the dataset's identifier or links to its catalogue page.
+Once a tweet has been found, for an accurate picture of the impact the dataset is having
+it is useful to consider whether the tone of the tweet is positive, negative or neutral,
+just as it is when analysing traditional citations.
+It can also be informative to track any ensuing conversation –
+replies or forwards (‘retweets’) –
+as these can indicate how far others agree with the sentiments of the original tweet.
 
-Impact in different communities - e.g. researcher use, public engagement, policy and practice
+Several blogging platforms use a system of linkbacks to track conversations between blogs.
+When a new post is written to Blog A about an old post in Blog B,
+Blog A sends a notification to Blog B.
+Blog B can use this information to incorporate an extract of the new post as a comment on the old one.
+If a data repository or archive is set up to receive linkbacks,
+it can use them to monitor where particular datasets are being mentioned
+among publishing platforms supporting the protocol.
 
-Introduction to measures of impact other than citations: trackbacks (from blogs, etc.), tagging, social bookmarking.
+  > What about news articles, comments, social commentary, tagging, social bookmarking?
 
 
 Impact measurement services
