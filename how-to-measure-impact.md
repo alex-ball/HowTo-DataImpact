@@ -389,15 +389,6 @@ meaning statistics are available for many non-PLoS papers as well [@lin.fenner20
 
 While the implementations of the software so far have concentrated on papers, the software itself is resource-type agnostic, so could be applied to datasets.
 
-PloS Impact Explorer
---------------------
-
-'This page mashes up alt-metrics data from Altmetric with articles from the Public Library of Science (PLoS).
-Check which articles are seeing the most buzz from social media sites, newspapers and in online reference managers.'
-
-available for PLOS articles, measures 'reach', API available
-started in 2009 [ref]
-
 PaperCritic
 -----------
 PaperCritic offers a platform for open reviewing of scientific work.  It uses the Mendeley API to allow users to add rating and reviewing
@@ -452,31 +443,44 @@ is that for books, which takes in Amazon, GoodReads and Wikipedia presence [@mic
 
 Altmetric
 ----------
-Altmetric is an article-centred service which monitors social media sites, newspapers, government policy documents and other sources
-for mentions of scholarly articles. It collects all the discussions about an article, and computes a score that tries to measure the
-quality and the quantity of the attention received. Sources used include Twitter, Facebook, blogs and news outlets.
+Altmetric is an article-centred service which monitors various sources for mentions of scholarly articles.
+These sources used include Twitter, Facebook, blogs, newspaper sites and government policy documents.
+On the basis of this information,
+it computes a score intended to indicate the quality and the quantity of the attention received.
+The score is calculated from the volume of mentions,
+with each mention weighted according to its source
+(with newspaper articles given more weight than tweets, for example),
+its author and its intended audience.
 
 The output from Altmetric is available in four forms:
 
-* A web explorer
-This brings together all the information gathered about all the articles.  The articles and discussions around them can then be explored individually, with different filters. Email alerts, custom reports and export are also available. A paid-for institutional offering
-collates information for articles from that institution.
+* *A web explorer.*
+This brings together all the information gathered about all the articles.
+The articles and discussions around them can then be explored individually with different filters.
+Email alerts, custom reports and export are also available.
+A paid-for institutional offering collates information for articles from that institution.
 
-* A bookmarklet.
-The bookmarklet is free to researchers.  It works within a browser and shows altmetrics for individual articles whilst they are being viewed. It is currently available for articles in PubMed and arXiv and pages containing a DOI.
+* *A bookmarklet.*
+The bookmarklet is free to researchers.
+It works within a browser and shows altmetrics for individual articles whilst they are being viewed.
+It is currently available for articles in PubMed and arXiv, and pages containing a DOI.
 
-* An API
-The API requires a commercial license (although limited free use is on offer for non-commercial research, apps and mash-ups).  The
-API is HTTP-based and gives programmatic access to the data about articles and datasets collected by Altmetric.
+* *An API.*
+The API requires a commercial license (although limited free use is on offer for non-commercial research, apps and mash-ups).
+The API is HTTP-based and gives programmatic access to the data about articles and datasets collected by Altmetric.
 
-* A badge
-The badge is a doughnut shaped visualisation which displays the altmetric score in the centre and colour-coded edges according
-to the source of mentions. It can be embedded into other pages (by adding a line of code); when clicked on it takes the user
-to landing page which shows the breakdown of the score for that article. I can be added by researchers to their own personal
-pages or integrated by institutions into platforms such as repositories.
-
-The score is combined from three factors: the volume of mentions, the category of mentions (source) and the author of the
-mention. Weighting is given to
+* *A badge.*
+The badge is a doughnut-shaped visualisation which displays the altmetric score in the centre
+and colour-coded edges according to the source of mentions.
+Each one links to a landing page which shows the breakdown of the score for that article.
+HTML code is provided for embedding badges into arbitrary web pages,
+so researchers can add them to their own personal pages
+or institutions can integrate them into platforms such as repositories.
+One notable use is in PLoS Impact Explorer,^[PLoS Impact Explorer, URL: <http://www.altmetric.com/demos/plos.html>.]
+which uses the altmetric score to rank articles published by the Public Library of Science.
+The view may be configured using different time periods and subsets of articles.
+For each article it displays not only the altmetric badge
+but also a selection of comments harvested from social media.
 
 SocialCite
 -----------
