@@ -358,9 +358,13 @@ and users can vote for the ideas they would prioritise.
 
 ReaderMeter
 -----------
-Another service that is currently suspended, ReaderMeter tries to mirror the H-Index and G-Index by analysing
-data about readership (based on bookmarks) from the Mendeley service. Further information is available from the
-DCC [@dcc2013rea].
+
+ReaderMeter queries the Mendeley service for information about the number of times a resource has been bookmarked,
+and uses it to generate metrics analogous to the *h*-index [@hirsch2005iqi] and
+*g*-index [@egghe2013tpg].^[The *g*-index is defined such that
+a researcher has index *g* if their *g* most cited papers have between them received at least *g*^2^ citations.]
+The service is currently unavailable but indicates it may resume at some point.^[ReaderMeter, URL: <http://readermeter.org/>.]
+Further information is available from the DCC [@dcc2013rea].
 
 ScienceCard
 -----------
