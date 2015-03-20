@@ -366,15 +366,6 @@ a researcher has index *g* if their *g* most cited papers have between them rece
 The service is currently unavailable but indicates it may resume at some point.^[ReaderMeter, URL: <http://readermeter.org/>.]
 Further information is available from the DCC [@dcc2013rea].
 
-ScienceCard
------------
-ScienceCard is a service which is currently suspended.  It started out as a project from a hackathon.  The aim was to create
-a researcher-centred service to import scientific articles into a profile. Users would be able to add their articles through
-a DOI, PubMedID or via their ORCID account.  Article-level metrics would then be computed around the researcher.  It is possible that
-the service may be relaunched in the future.
-
-Currently offline, promises it will be back.
-
 PLoS Article-Level Metrics
 --------------------------
 
@@ -392,7 +383,7 @@ The metrics compiled include
 The metrics are displayed on the landing pages for PLoS articles, and can also be compiled into custom reports.^[ALM Reports website: <http://almreports.plos.org//>]
 
 PLoS released the source code for the ALM application in 2011.^[Lagotto (Article-Level Metrics) source code repository: <https://github.com/mfenner/lagotto>]
-It was used as the basis of the ScienceCard service, which provided an author-centric view on the same data [@fenner2011asc].
+It was used as the basis of the (now discontinued) ScienceCard service, which provided an author-centric view on the same data [@fenner2011asc].
 It was also taken up by other publishers and service providers, most significantly by CrossRef Labs,
 meaning statistics are available for many non-PLoS papers as well [@lin.fenner2014osc].
 
