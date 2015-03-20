@@ -193,7 +193,7 @@ In other words, there are bridge services that map the identifiers to one or mor
 
 One such scheme is the Digital Object Identifier (DOI),
 for which DataCite is the main Registration Agency for research datasets.
-Among the services it provides is DataCite Statistics,
+Among the services it provides is DataCite Statistics,^[DataCite Statistics, URL: <http://stats.datacite.org/>.]
 which shows on a monthly basis the number of times the top ten DOIs for each prefix have been resolved to a URL.
 This gives an indication of how often references to the dataset have been followed.
 
@@ -222,7 +222,7 @@ since it implies a desire to look at the actual data,
 but the statistic alone does not reveal the use to which the downloaded data might be put.
 
 At the time of writing the number of repositories and data archives that make download statistics openly available is quite small –
-one is VectorBase –
+one is VectorBase^[VectorBase, URL: <https://www.vectorbase.org/>.] –
 but several others are known to collect and use them internally [@ke2013vrd, pp. 39–42].
 For example, the UK Data Service Discover catalogue can put search results in order from  most to least downloaded.
 
@@ -234,7 +234,7 @@ are those that measure the topicality of the dataset on social media platforms.
 If people are moved to share or discuss a dataset with friends, colleagues and the wider world,
 there is a strong implication it has had an impact on them.
 
-Twitter is a social networking tool that enables users to send short messages known as ‘tweets’ to their followers.
+Twitter^[Twitter, URL: <http://twitter.com/>.] is a social networking tool that enables users to send short messages known as ‘tweets’ to their followers.
 As they are limited to 140 characters, tweets lend themselves to immediate reaction and brief sentiments.
 A tweet referring to a piece of research might contain a link to, say,
 a research output, a project website or a blog post that discusses it,
@@ -248,6 +248,20 @@ It can also be informative to track any ensuing conversation –
 replies or forwards (‘retweets’) –
 as these can indicate how far others agree with the sentiments of the original tweet.
 
+Social bookmarking and bibliographic services are not used quite so widely as Twitter,
+but are much less 'noisy' as a source of evidence of interest in scholarly outputs.
+Services such as Mendeley, CiteULike, BibSonomy and Delicious
+allow users to record online resources for their own reference
+or to recommend them to others.^[Mendeley, URL: <http://www.mendeley.com/>.
+CiteULike, URL: <http://www.citeulike.org/>.
+BibSonomy, URL: <http://www.bibsonomy.org/>.
+Delicious, URL: <https://delicious.com/>.]
+While the functionality offered by each service differs,
+one can typically discover how many users have bookmarked a particular link or resource.
+Some, notably Digg and Reddit,^[Digg, URL: <http://digg.com/>. Reddit, URL: <http://www.reddit.com/>.]
+also provide information on how many users have up-voted or down-voted the resource;
+this may give an impression on whether the resource is having a positive impact or not.
+
 Several blogging platforms use a system of linkbacks to track conversations between blogs.
 When a new post is written to Blog A about an old post in Blog B,
 Blog A sends a notification to Blog B.
@@ -256,8 +270,30 @@ If a data repository or archive is set up to receive linkbacks,
 it can use them to monitor where particular datasets are being mentioned
 among publishing platforms supporting the protocol.
 
-  > What about news articles, comments, social commentary, tagging, social bookmarking?
+Post-publication peer review
+----------------------------
 
+One proposed innovation in the field of scholarly communications is the use of post-publication peer review as a method of quality control.
+While it is has yet to establish itself as a practice,
+there are several places where such reviews may be found, such as Faculty of 1000
+(both as an integral part of its own publications and as a service reviewing other literature)
+and PubPeer.^[Faculty of 1000, URL: <http://f1000.com/>. PubPeer, URL: <https://pubpeer.com/>.]
+While the emphasis has to date been on reviewing journal papers,
+there are moves to apply the principle to datasets as well.
+The data journal *Earth System Science Data*, for example, publishes data papers –
+papers that describe datasets without drawing scientific conclusions from them.
+Its submissions are given a brief internal review before being published in its companion title
+*Earth System Science Data Discussions,*^[*Earth System Science Data Discussions*, URL: <http://www.earth-syst-sci-data-discuss.net/papers_in_open_discussion.html>.]
+where anyone is able to submit a review.
+Only once the paper has satisfactorily passed this public review phase can it proceed for publication in the main journal.
+
+While post-publication peer review is concerned with quality rather than impact,
+the text or nature of such reviews may reveal evidence of reuse.
+There are suggestions (REF?) that data archives might invite and publish feedback from reusers about the datasets they hold.
+Not only would this provide a scalable source of peer review
+and insights into what makes data reusable,
+it would also provide confirmation that other researchers had attempted to use the data and,
+in the case of a positive review, that the data has made an impact.
 
 Impact measurement services
 ===========================
