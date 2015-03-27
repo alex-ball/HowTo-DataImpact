@@ -356,16 +356,6 @@ The code and governance of the service are also open.
 Ideas for further development of the service are invited through a feedback forum,
 and users can vote for the ideas they would like the developers to prioritise.
 
-ReaderMeter
------------
-
-ReaderMeter queries the Mendeley service for information about the number of times a resource has been bookmarked,
-and uses it to generate metrics analogous to the *h*-index [@hirsch2005iqi] and
-*g*-index [@egghe2013tpg].^[The *g*-index is defined such that
-a researcher has index *g* if their *g* most cited papers have between them received at least *g*^2^ citations.]
-The service is currently unavailable but indicates it may resume at some point.^[ReaderMeter, URL: <http://readermeter.org/>.]
-Further information is available from the DCC [@dcc2013rea].
-
 PLoS Article-Level Metrics
 --------------------------
 
@@ -388,20 +378,6 @@ It was also taken up by other publishers and service providers, most significant
 meaning statistics are available for many non-PLoS papers as well [@lin.fenner2014osc].
 
 While the implementations of the software so far have concentrated on papers, the software itself is resource-type agnostic, so could be applied to datasets.
-
-PaperCritic
------------
-PaperCritic offers a platform for open reviewing of scientific work.  It uses the Mendeley API to allow users to add rating and reviewing
-features to their Mendeley collection. The aim is to encourage post-publication discussion in a more social environment.
-(It is not clear if PaperCritic is actively being developed - last blog posts from around 2012
-suggesting community templates for review structuring.)
-
-Crowdometer
------------
-A project carried out in December 2011 - January 2012 that used crowdsourcing to analyse and classify the content of tweets that linked to scholarly papers.
-Participants used an ontology to describe the types of links made in the tweet (e.g.) One main finding was that most tweets do not
-contain a sentiment about the link being shared.  The crowdometer.org site is no longer available although the github site
-containing the code used is still accessible.
 
 ResearchGate Score
 ------------------
@@ -442,7 +418,8 @@ by making the link with their profiles in other systems (e.g. by entering a Slid
 is that for books, which takes in Amazon, GoodReads and Wikipedia presence [@michalek2014plu].
 
 Altmetric
-----------
+---------
+
 Altmetric is an article-centred service which monitors various sources for mentions of scholarly articles.
 These sources used include Twitter, Facebook, blogs, newspaper sites and government policy documents.
 On the basis of this information,
@@ -482,14 +459,42 @@ The view may be configured using different time periods and subsets of articles.
 For each article it displays not only the altmetric badge
 but also a selection of comments harvested from social media.
 
-SocialCite
------------
-SocialCite adds a layer of information to citations by encouraging the reasons behind citations to be made explicit. Users can enhance
-citation information by indicating the appropriateness and evidence strength of a citation, using a simple
-thumbs up or thumbs down rating.  The service available at
-the end of 2014 is in the form of a pilot which includes articles a small number of publishers (such as the Proceedings of the National Academy of Sciences). SocialCite is targeted at both readers and authors, as well as librarians and journal editors.  
-The proposed business model would offer some paid-for reporting features, looking across journals, authors or institutions.  
-It is not clear if they have launched formally; the Twitter account was active Nov 2014.
+Other services
+--------------
+
+SocialCite is a prototype service for gathering more detailed information about individual citations,
+to help determine how they should contribute to measures of impact [@anderson2013sc].
+In the prototype service,^[Archive of SocialCite website, URL: <http://web.archive.org/web/*/social-cite.org>.]
+users can indicate the appropriateness and evidence strength of a citation
+using a simple thumbs up or thumbs down rating.
+The service is unavailable at the time of writing.
+
+PaperCritic is an open peer-review system built on top of Mendeley,
+the reference manager and social network.^[PaperCritic, URL: <http://www.papercritic.com/>.]
+It allows Mendeley users to add reviews of publications in their own or others' reference collections.
+They can also rate the publication's references, originality, argumentation, originality and difficulty,
+and indicate whether they would recommend it to others.
+While interesting as a model for post-publication peer review,
+it is unknown whether any datasets were reviewed using the service,
+and at the time of writing the service had not been updated to use the latest Mendeley API.
+
+ReaderMeter queries the Mendeley service for information about the number of times a resource has been bookmarked,
+and uses it to generate metrics analogous to the *h*-index [@hirsch2005iqi] and
+*g*-index [@egghe2013tpg].^[The *g*-index is defined such that
+a researcher has index *g* if their *g* most cited papers have between them received at least *g*^2^ citations.]
+The service is currently unavailable but indicates it may resume at some point.^[ReaderMeter, URL: <http://readermeter.org/>.]
+Further information is available from the DCC [@dcc2013rea].
+
+Crowdometer was a project that used crowdsourcing to analyse and classify tweets
+that link to scholarly papers.^[Archive of Crowdometer website, URL: <http://web.archive.org/web/*/crowdometer.org/>.]
+Participants used a subset of the Citation Typing Ontology (CiTO) –
+terms such as 'discusses the cited paper' or 'uses data presented in the cited paper' –
+to describe the types of links made in the tweet.
+One main finding was that most tweets do not contain a sentiment about the link being shared.
+The project was carried out in between December 2011 and January 2012;
+while its website is no longer available,^[Archive of the Crowdometer website, URL: <http://web.archive.org/web/*/crowdometer.org/>.]
+the code used is available from GitHub.^[Crowdometer source code repository, URL: <https://github.com/mfenner/crowdometer>]
+
 
 Tips for raising research data impact
 =====================================
