@@ -346,15 +346,15 @@ highlighting the most popular resources and providing some aggregate statistics.
 These reports are typically emailed to the user on a weekly basis.
 
 ImpactStory operates as a non-profit organisation registered in the USA.
-It grew out of a hackathon project, total-impact, that was developed at the 2011 Beyond Impact workshop.
+It grew out of a hackathon project, 'total-impact', that was developed at the 2011 Beyond Impact workshop.
 Since 2012 it has received funding from the Open Knowledge Foundation,
 the National Science Foundation, Jisc and the Sloan Foundation,
-and is also supported by registration fees of $60/year (at the time of writing in 2015).
+and is also supported by registration fees of $60 per annum (at the time of writing in 2015).
 The data collected by the service is made open, unless restricted by third parties,
 and may be exported for single items or whole profiles at any time.
 The code and governance of the service are also open.
 Ideas for further development of the service are invited through a feedback forum,
-and users can vote for the ideas they would prioritise.
+and users can vote for the ideas they would like the developers to prioritise.
 
 ReaderMeter
 -----------
