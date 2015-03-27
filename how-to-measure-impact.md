@@ -379,20 +379,6 @@ meaning statistics are available for many non-PLoS papers as well [@lin.fenner20
 
 While the implementations of the software so far have concentrated on papers, the software itself is resource-type agnostic, so could be applied to datasets.
 
-ResearchGate Score
-------------------
-ResearchGate is a social networking site for researchers to connect and collaborate. Researches can add their publications to their
-profile and the site generates statistics about views, downloads and citations. The service also calculates its own impact metric,
-the RG score. Researchers can share data alongside publications.  An open peer review feature was recently added to the
-site, called OpenReview. Users receive notification emails with information on the downloads, views, citations and other
-activity from people in their network.  ResearchGate was founded in 2008.
-
-Google Scholar
---------------
-
-Microsoft Academic Search
--------------------------
-
 Plum Analytics
 ---------------
 Acquired by EBSCO at the start of 2014 [@harris2014acq], Plum Analytics was founded in 2012 and developed its product
@@ -458,6 +444,32 @@ which uses the altmetric score to rank articles published by the Public Library 
 The view may be configured using different time periods and subsets of articles.
 For each article it displays not only the altmetric badge
 but also a selection of comments harvested from social media.
+
+ResearchGate Score
+------------------
+
+ResearchGate is a social networking site for researchers.^[ResearchGate, URL: <https://www.researchgate.net/>.]
+Users are encouraged to add their publications to their profile
+and the site generates statistics about views, downloads and citations.
+These statistics are presented to the user in a 'dashboard' display in their profile area on the website
+and emailed to them on a regular basis.
+The statistics also contribute to the service's own impact metric, the RG score,
+alongside the researcher's activity on the ResearchGate forums
+and the number of other users 'following' their profile.
+
+Researchers can share data alongside publications.
+An open peer review feature, OpenReview, was recently added to the site.
+This allows the user to publish an open review of any paper they have read,
+according to a structure that focuses on whether the paper's results are reproducible.
+Multiple reviews of the same paper can be compared from a summary page.^[
+Example of a ResearchGate OpenReview summary, URL: <http://tinyurl.com/ouc2orv>.]
+Users can also request reviews of papers.
+
+Google Scholar
+--------------
+
+Microsoft Academic Search
+-------------------------
 
 Other services
 --------------
