@@ -368,16 +368,20 @@ The metrics compiled include
   * usage statistics (views and downloads) from PLoS and Pubmed Central;
   * interactions (comments, notes, ratings) on the PLoS website;
   * citations identified by Scopus, Web of Science and others;
-  * references made in social networks like Twitter and Facebook, on various blogging platforms, or on Wikipedia.
+  * references made in social networks like Twitter and Facebook,
+    on various blogging platforms, or on Wikipedia.
 
-The metrics are displayed on the landing pages for PLoS articles, and can also be compiled into custom reports.^[ALM Reports website: <http://almreports.plos.org//>]
+The metrics are displayed on the landing pages for PLoS articles,
+and can also be compiled into custom reports.^[ALM Reports website: <http://almreports.plos.org//>]
 
 PLoS released the source code for the ALM application in 2011.^[Lagotto (Article-Level Metrics) source code repository: <https://github.com/mfenner/lagotto>]
-It was used as the basis of the (now discontinued) ScienceCard service, which provided an author-centric view on the same data [@fenner2011asc].
+It was used as the basis of the (now discontinued) ScienceCard service,
+which provided an author-centric view on the same data [@fenner2011asc].
 It was also taken up by other publishers and service providers, most significantly by CrossRef Labs,
 meaning statistics are available for many non-PLoS papers as well [@lin.fenner2014osc].
 
-While the implementations of the software so far have concentrated on papers, the software itself is resource-type agnostic, so could be applied to datasets.
+While the implementations of the software so far have concentrated on papers,
+the software itself is resource-type agnostic, so could be applied to datasets.
 
 Plum Analytics
 ---------------
