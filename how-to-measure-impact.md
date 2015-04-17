@@ -383,29 +383,47 @@ meaning statistics are available for many non-PLoS papers as well [@lin.fenner20
 While the implementations of the software so far have concentrated on papers,
 the software itself is resource-type agnostic, so could be applied to datasets.
 
-Plum Analytics
----------------
-Acquired by EBSCO at the start of 2014 [@harris2014acq], Plum Analytics was founded in 2012 and developed its product
-with the University of Pittsburgh as a partner. Plum X, its main product, aims to illustrate a more comprehensive
-picture of research impact beyond (but including) citations. Amongst its customers it counts universities,
-corporations, publishers and funders, and reports rapid growth since the acquisition.
+PlumX
+-----
 
-PlumX aggregates information about the use of research outputs, including "non-traditional"
-types, from external sources. It displays the information in various ways and provides different methods of interacting with the
-aggregated output.  The information sources that are aggregated include Dryad for information about datasets, Amazon for
-books and YouTube for videos.  It aims to highlight impact from the previous eighteen months, to fill the gap created by
-the publication lag, alongside citation data.
+PlumX is the main product of Plum Analytics,^[PlumX website: <http://plu.mx/>.]
+a company formed in 2011 and acquired by EBSCO at the start of 2014 [@harris2014acq].
+It aims to provide a more comprehensive picture of research impact than citations alone,
+and in particular to give insight into the impact that resources have
+in the period before the first citations are counted.
+The PlumX product is aimed at organisations rather than individuals,
+so Plum Analytics counts among its customers universities, corporations, publishers and funders,
+and reports rapid growth since the acquisition.
 
-The metrics gathered by Plum X are grouped into five categories: usage (clicks, downloads, views), captures (bookmarks, favourites),
-mentions (comments, reviews), social media (likes, shares, tweets) and citations. These categories are then displayed in dashboard views
-that can be controlled to present the data in different ways.  For example a university can view data by level,
-(e.g. school and programme), and drill down through the levels to individual researcher information, or to individual artefact (e.g. a
-specific article).
+PlumX aggregates information from a wide range of external sources about the impact of research outputs,
+including datasets and source code as well as more traditional publications.
+The metrics are grouped into five categories:
 
-A 'plum print' summary is available for embedding into other sites, such as the institutional repository.  The information shown in the
-embedded widget is customisable and links to the original source are made available. Researchers can help seed the information available
-by making the link with their profiles in other systems (e.g. by entering a Slideshare ID).  An example of aggregated information
-is that for books, which takes in Amazon, GoodReads and Wikipedia presence [@michalek2014plu].
+  * usage: the number of times the resource has been viewed or downloaded,
+    the number of times a link to it (from Twitter or Facebook) has been clicked,
+    the number of users contributing to it (on GitHub),
+    the number of libraries that hold a copy;
+  * captures: the number of times the resource has been marked as being of interest
+    (e.g. bookmarked on Delicious; added to a Mendeley library; followed, forked or watched on GitHub);
+  * mentions: the number of blog posts written about it,
+    the number of comments made about it (on Facebook, Slideshare, YouTube, etc.),
+    the number of reviews received (on Amazon or Goodreads);
+  * social media: the number of times the resource has been recommended
+    (e.g. by means of 'likes' on Facebook, '+1s' on Google+, net upvotes on Reddit, tweets);
+  * citations: the number of citations the resource has received according to
+    Scopus, CrossRef, and various other sources.
+
+The totals for these metrics are displayed in a dashboard;
+bar charts or sunburst diagrams supplement a tabular view,
+and not only is data available at the level of individual resources
+but also aggregrated for individual researchers,
+resource types,
+and various levels of organisational unit (programmes, departments, whole organisations).^[Example
+PlumX profile for the University of Pittsburgh: <https://plu.mx/pitt/>.]
+A 'plum print' summary is also available for embedding into other sites, such as an institutional repository.  The information shown in the embedded widget is customisable
+and links to the original source are made available.
+
+Researchers can help seed the information available by linking their profiles to accounts they have in other systems (e.g. by entering a Slideshare ID) [@michalek2014plu].
 
 Altmetric
 ---------
