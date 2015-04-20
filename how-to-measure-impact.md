@@ -399,18 +399,18 @@ PlumX aggregates information from a wide range of external sources about the imp
 including datasets and source code as well as more traditional publications.
 The metrics are grouped into five categories:
 
-  * usage: the number of times the resource has been viewed or downloaded,
+  * *usage:* the number of times the resource has been viewed or downloaded,
     the number of times a link to it (from Twitter or Facebook) has been clicked,
     the number of users contributing to it (on GitHub),
     the number of libraries that hold a copy;
-  * captures: the number of times the resource has been marked as being of interest
+  * *captures:* the number of times the resource has been marked as being of interest
     (e.g. bookmarked on Delicious; added to a Mendeley library; followed, forked or watched on GitHub);
-  * mentions: the number of blog posts written about it,
+  * *mentions:* the number of blog posts written about it,
     the number of comments made about it (on Facebook, Slideshare, YouTube, etc.),
     the number of reviews received (on Amazon or Goodreads);
-  * social media: the number of times the resource has been recommended
+  * *social media:* the number of times the resource has been recommended
     (e.g. by means of 'likes' on Facebook, '+1s' on Google+, net upvotes on Reddit, tweets);
-  * citations: the number of citations the resource has received according to
+  * *citations:* the number of citations the resource has received according to
     Scopus, CrossRef, and various other sources.
 
 The totals for these metrics are displayed in a dashboard;
@@ -420,10 +420,14 @@ but also aggregrated for individual researchers,
 resource types,
 and various levels of organisational unit (programmes, departments, whole organisations).^[Example
 PlumX profile for the University of Pittsburgh: <https://plu.mx/pitt/>.]
-A 'plum print' summary is also available for embedding into other sites, such as an institutional repository.  The information shown in the embedded widget is customisable
-and links to the original source are made available.
+A 'plum print' summary is available for embedding into other sites,
+such as an institutional repository.
+The information shown in the embedded widget is customisable
+and links to the original data source are made available.
 
-Researchers can help seed the information available by linking their profiles to accounts they have in other systems (e.g. by entering a Slideshare ID) [@michalek2014plu].
+Researchers can help seed the information available
+by linking their PlumX profiles to accounts they have in other systems
+(e.g. Slideshare, GitHub) [@michalek2014plu].
 
 Altmetric
 ---------
