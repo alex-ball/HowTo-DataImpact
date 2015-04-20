@@ -525,14 +525,14 @@ Any conflicts between corrections are resolved by Microsoft.
 Other services
 --------------
 
-SocialCite is a prototype service for gathering more detailed information about individual citations,
+**SocialCite** is a prototype service that uses crowdsourcing to gather more detailed information about individual citations,
 to help determine how they should contribute to measures of impact [@anderson2013sc].
-In the prototype service,^[Archive of SocialCite website, URL: <http://web.archive.org/web/*/social-cite.org>.]
-users can indicate the appropriateness and evidence strength of a citation
+In the prototype service,^[Archive of the SocialCite website, URL: <http://web.archive.org/web/*/social-cite.org>.]
+users indicate the appropriateness and evidence strength of a citation
 using a simple thumbs up or thumbs down rating.
 The service is unavailable at the time of writing.
 
-PaperCritic is an open peer-review system built on top of Mendeley,
+\medskip\noindent{}**PaperCritic** is an open peer-review system built on top of Mendeley,
 the reference manager and social network.^[PaperCritic, URL: <http://www.papercritic.com/>.]
 It allows Mendeley users to add reviews of publications in their own or others' reference collections.
 They can also rate the publication's references, originality, argumentation, originality and difficulty,
@@ -541,21 +541,21 @@ While interesting as a model for post-publication peer review,
 it is unknown whether any datasets were reviewed using the service,
 and at the time of writing the service had not been updated to use the latest Mendeley API.
 
-ReaderMeter queries the Mendeley service for information about the number of times a resource has been bookmarked,
+\medskip\noindent{}**ReaderMeter** queries the Mendeley service for information about the number of times a resource has been bookmarked,
 and uses it to generate metrics analogous to the *h*-index [@hirsch2005iqi] and
-*g*-index [@egghe2013tpg].^[The *g*-index is defined such that
-a researcher has index *g* if their *g* most cited papers have between them received at least *g*^2^ citations.]
+*g*-index (defined such that
+a researcher has index *g* if their *g* most cited papers have between them received at least *g*^2^ citations [@egghe2013tpg]).
 The service is currently unavailable but indicates it may resume at some point.^[ReaderMeter, URL: <http://readermeter.org/>.]
 Further information is available from the DCC [@dcc2013rea].
 
-Crowdometer was a project that used crowdsourcing to analyse and classify tweets
-that link to scholarly papers.^[Archive of Crowdometer website, URL: <http://web.archive.org/web/*/crowdometer.org/>.]
+\medskip\noindent{}**Crowdometer** was a project that used crowdsourcing to analyse and classify tweets
+that link to scholarly papers.^[Archive of the Crowdometer website, URL: <http://web.archive.org/web/*/crowdometer.org/>.]
 Participants used a subset of the Citation Typing Ontology (CiTO) –
 terms such as 'discusses the cited paper' or 'uses data presented in the cited paper' –
 to describe the types of links made in the tweet.
 One main finding was that most tweets do not contain a sentiment about the link being shared.
 The project was carried out in between December 2011 and January 2012;
-while its website is no longer available,^[Archive of the Crowdometer website, URL: <http://web.archive.org/web/*/crowdometer.org/>.]
+while its website is no longer available,
 the code used is available from GitHub.^[Crowdometer source code repository, URL: <https://github.com/mfenner/crowdometer>]
 
 
@@ -566,21 +566,38 @@ Tips for raising research data impact
 (possible examples of how altmetrics help monitor use perhaps in Cameron PLOS Opens Blog post
 Altmetrics: What are they good for?)
 
-Although a complete and seamless infrastructure of services and tools for the monitoring and measurement of the impact of data
-is not yet available, there are measures that can be taken now using existing facilities and elements of the infrastructure.
+Although a complete and seamless infrastructure of services and tools for the monitoring and measurement of the impact of data is not yet available,
+there are measures that can be taken now using existing facilities and elements of the infrastructure.
 
-Provide citation/discovery metadata. Use of identifiers. Reference to how to cite data and DCC guide?
+Deposit data in a trustworthy repository
+----------------------------------------
+
+*Use of institutional repository*
+
+*Use of disciplinary repositories: Re3Data*
+
+*DSA, nestor, TRAC as encouraging signs*
+
+*Pick one that will provide a stable identifier*
+
+Assign identifiers for data as a crucial step to make the data easily cited, accessed and located.
+An identifier that supports all three functions (citation, location, access) is preferable.
+
+Provide appropriate metadata
+----------------------------
 
 Make data discoverable and citable by providing adequate metadata.  The precise fields that are needed may depend on the data.
+*Refer to DCC disciplinary metadata catalogue and peer directories*
 Disciplinary norms and guidance on appropriate schema are sometimes available, and repositories or organisations often define minimum
-requirements for deposit. Generic advice on data citation can be found in (reference to DCC guide). Assign identifiers for data
-as a crucial step to make the data easily cited, accessed and located.  An identifier that supports all three functions (citation, location, access) is preferable.
+requirements for deposit. Generic advice on data citation can be found in (reference to DCC guide).
 
 Provide enough metadata for reuse. Reproducibility.
 Data should be accompanied by enough contextual information to support reuse. The required information may be discipline-dependent.
 A user of the data should have enough information to be able to reproduce the results.
 
-Open access.
+Enable open access
+------------------
+
 Any restrictions to the use of data (such as imposing payment for access) may present barriers to reuse and potential impact.  
 Some restrictions are necessary (for example those arising from legal requirements), however where restrictions are not needed,
 the data can be made open access.  Regardless of whether payment or other restrictions are applied to the use of data,
@@ -588,7 +605,8 @@ it may be desirable to require user registration prior to access.  Whilst regist
 potential barrier) to data access, it allows both the application of conditions to be adhered to in the use of data
 (by explicitly asking the user for their agreement) and can further be used for tracking and monitoring of patterns of data use.
 
-Deposit in major repository. (Too early to discuss certified repositories?)
+Raise awareness
+---------------
 
 Highlighting resources using social media. Academia.edu, ResearchGate, Mendeley, etc.
 
@@ -601,8 +619,10 @@ Current issues and challenges
 Immaturity of the area
 ----------------------
 
-Due to the early stage of development of some of the tools (specially for altmetrics) and a lack of standardisation in
-what they are measuring, results may not be comparable, which limits their use in the processes for determining rewards
+Due to the early stage of development of some of the tools,
+especially those supporting altmetrics,
+and a lack of standardisation in what they are measuring,
+the results they output may not be comparable, which limits their use in the processes for determining rewards
 based on scholarly impact [@featherstone2014stm].  The study of the reliability and validity of the data is a work in progress ; "there is
 a tendency to include what can be counted, rather than to include what adds particular value" [@niso2014ami].
 A 2013 Knowledge Exchange workshop on research data and research assessment [@ke2013mdc] reported that more experience
@@ -662,8 +682,9 @@ more non-traditional research outputs such as research data"
 Acknowledgements
 ================
 
-Any acknowledgements will go here.
-
+Thank you to
+(reviewer names)
+for helpful comments.
 
 Further information
 ===================
