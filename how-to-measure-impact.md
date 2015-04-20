@@ -359,7 +359,7 @@ and users can vote for the ideas they would like the developers to prioritise.
 PLoS Article-Level Metrics
 --------------------------
 
-In 2009, the Public Library of Science (PLoS) launched its Article-Level Metrics (ALM) service.^[PLOS ALM website: <http://article-level-metrics.plos.org/alm-info/>]
+In 2009, the Public Library of Science (PLoS) launched its Article-Level Metrics (ALM) service.^[PLOS ALM website, URL: <http://article-level-metrics.plos.org/alm-info/>]
 This compiles a set of impact indicators from PLoS's own systems and various other services,
 and makes them available in both a visual way and via an application programming interface (API).
 
@@ -372,9 +372,9 @@ The metrics compiled include
     on various blogging platforms, or on Wikipedia.
 
 The metrics are displayed on the landing pages for PLoS articles,
-and can also be compiled into custom reports.^[ALM Reports website: <http://almreports.plos.org//>]
+and can also be compiled into custom reports.^[ALM Reports website, URL: <http://almreports.plos.org//>]
 
-PLoS released the source code for the ALM application in 2011.^[Lagotto (Article-Level Metrics) source code repository: <https://github.com/mfenner/lagotto>]
+PLoS released the source code for the ALM application in 2011.^[Lagotto (Article-Level Metrics) source code repository, URL: <https://github.com/mfenner/lagotto>]
 It was used as the basis of the (now discontinued) ScienceCard service,
 which provided an author-centric view on the same data [@fenner2011asc].
 It was also taken up by other publishers and service providers, most significantly by CrossRef Labs,
@@ -386,7 +386,7 @@ the software itself is resource-type agnostic, so could be applied to datasets.
 PlumX
 -----
 
-PlumX is the main product of Plum Analytics,^[PlumX website: <http://plu.mx/>.]
+PlumX is the main product of Plum Analytics,^[PlumX website, URL: <http://plu.mx/>.]
 a company formed in 2011 and acquired by EBSCO at the start of 2014 [@harris2014acq].
 It aims to provide a more comprehensive picture of research impact than citations alone,
 and in particular to give insight into the impact that resources have
@@ -419,7 +419,7 @@ and not only is data available at the level of individual resources
 but also aggregrated for individual researchers,
 resource types,
 and various levels of organisational unit (programmes, departments, whole organisations).^[Example
-PlumX profile for the University of Pittsburgh: <https://plu.mx/pitt/>.]
+PlumX profile for the University of Pittsburgh, URL: <https://plu.mx/pitt/>.]
 A 'plum print' summary is available for embedding into other sites,
 such as an institutional repository.
 The information shown in the embedded widget is customisable
