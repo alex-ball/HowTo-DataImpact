@@ -491,11 +491,35 @@ Multiple reviews of the same paper can be compared from a summary page.^[
 Example of a ResearchGate OpenReview summary, URL: <http://tinyurl.com/ouc2orv>.]
 Users can also request reviews of papers.
 
-Google Scholar
---------------
+Google Scholar and Microsoft Academic Search
+--------------------------------------------
 
-Microsoft Academic Search
--------------------------
+Google Scholar is a version of the Google search engine focused on scholarly works.^[Google Scholar, URL: <http://scholar.google.com/>.]
+Among the facilities it provides is an enumeration of the citations each work has received from the others in the database.
+While the automatically generated results can be somewhat approximate,
+researchers can get extra value from the service by setting up a profile and 'claiming' scholarly works.
+Having done so, a profile page is created that lists the works alongside the respective citation counts,
+and displays three aggregate statistics:
+the total count of citations the works have received,
+an *h*-index, and an i10-index,
+the latter being the number of works receiving at least 10 citations.
+All three measures are provided twice:
+the first counting all citations,
+the second only counting citations from the last five years.
+A bar chart of annual citation counts is provided.
+
+Users with profiles are able to improve the accuracy of the service by curating the entries they have claimed
+(e.g. ensuring there are no duplicates or incorrectly merged entries, correcting bibliographic information)
+and adding others that Google may have missed.
+
+Microsoft Research provides a similar service called Microsoft Academic Search.^[Microsoft Academic Search, URL: <http://academic.research.microsoft.com/>.]
+It too provides citation counts for the works in its database
+but, in contrast to Google Scholar, creates profile pages for all authors it discovers.
+Each profile page, as well as listing that author's outputs,
+provides a total citation count and a line graph of annual citation counts.
+Users who have signed in are able to correct errors they find in the data:
+they are not restricted to editing those relating to themselves or their publications.
+Any conflicts between corrections are resolved by Microsoft.
 
 Other services
 --------------
