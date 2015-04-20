@@ -96,14 +96,15 @@ Impact measurement concepts
 ===========================
 
 Impact is, in its figurative sense, the effect or influence that one agent, event or resource has on another.
-When measuring impact, it is therefore important to bear in mind whose impact is being measured, and the extent to which one may use that metric to infer the impact of another entity.
+When measuring impact, it is therefore important to bear in mind whose impact is being measured,
+and the extent to which one may use that metric to infer the impact of another entity.
 
 For example, citation counts are one way of measuring the influence that a paper has on subsequent literature in a discipline.
 One may infer from the impact of the paper something about the impact of each of the authors,
 the institutions at which they are based,
 the project of which the paper is an output,
 and the body that funded the research;
-but the further removed from one gets from the paper,
+but the further removed one gets from the paper,
 the more one has to take that impact in aggregate in order to draw conclusions about the impact of the entity relative to its peers.
 
 One measure that does this is the *h*-index, a measure of researcher impact and productivity derived from the citation counts of papers [@hirsch2005iqi].
@@ -124,7 +125,7 @@ which may be more relevant for disciplines with longer publication cycles.]
 Despite being a measure of the impact of a journal,
 not that of its constituent papers,
 it is often used as a proxy measure for the prestige of the journal,
-and thereby (controversially) of the impact of the articles and authors published in that journal.
+and thereby (controversially) of the impact of the authors whose papers are published in that journal.
 
 There are compelling arguments against using the JIF in so simplistic a manner.
 It is no longer the case that it is prohibitively time consuming
@@ -139,7 +140,7 @@ their impact may also be demonstrated through, for example,
   * widespread use of software they have written;
   * reuse of data they have shared;
   * appearance of their monographs in course reading lists;
-  * adoption of their ideas by industry;
+  * adoption of their ideas by industry or government;
   * invitations to speak to the media.
 
 This is a particular concern as,
@@ -150,8 +151,6 @@ For this reason, researchers and organisations have been exploring ways
 of measuring impact that go beyond counting citations between traditional
 journal papers.
 
-  > Impact in different communities - e.g. researcher use, public engagement, policy and practice?
-
 Citations of data
 -----------------
 
@@ -161,20 +160,23 @@ Going beyond mere data sharing,
 where data is simply made available (e.g. as files on a website),
 data publication implies that the data has entered a framework for
 checking its quality,
-ensuring it is fit for re-use,
+ensuring it is fit for reuse,
 making it searchable and discoverable,
 and guaranteeing its long-term accessibility.
 The resulting dataset is given a stable citation
 so that it can be reliably referenced by other scholarly works.
 Such citations can be counted in the usual manner to provide evidence of the impact of the dataset.
 
-While direct citation of datasets may be considered an aspirational end goal,
-some disciplines are taking a transitional approach where citations are made instead to a *data paper*;
-this is a paper that describes the dataset and its collection
+While direct citation of datasets is far from widespread,
+and may be considered an aspirational end goal,
+some disciplines are taking a transitional approach where citations are made instead to a *data paper*.
+This is a paper that describes the dataset and its collection
 without drawing any scientific conclusions from it.
+Such papers may be published in a special section of a regular journal,
+or in a dedicated *data journal* such as the *Journal of Open Archaeology Data*.^[*Journal of Open Archaeology Data*, URL: <http://openarchaeologydata.metajnl.com/>.]
 Citations of data papers can still be used straightforwardly to provide evidence of the impact of the corresponding dataset.
 
-Many disciplines, however, take the traditional approach of citing the first paper to make use of the data,
+In many disciplines, however, the dominant approach is the traditional one of citing the first paper to make use of the data,
 relying on that paper to indicate if and how the data has been shared.
 It is not usually possible, at least not without significant manual effort,
 to identify whether citations to such papers should count towards
@@ -182,7 +184,6 @@ the impact of the argumentation and conclusions of the paper,
 the underlying dataset,
 or both.
 In such disciplines, therefore, citation counts are of little help as a metric of data impact, so alternative metrics must be found.
-Several can be derived from logs of online activity.
 
 Resolutions
 -----------
@@ -280,16 +281,16 @@ there are several places where such reviews may be found, such as Faculty of 100
 and PubPeer.^[Faculty of 1000, URL: <http://f1000.com/>. PubPeer, URL: <https://pubpeer.com/>.]
 While the emphasis has to date been on reviewing journal papers,
 there are moves to apply the principle to datasets as well.
-The data journal *Earth System Science Data*, for example, publishes data papers –
-papers that describe datasets without drawing scientific conclusions from them.
-Its submissions are given a brief internal review before being published in its companion title
+The data papers submitted to data journal *Earth System Science Data*, for example,
+are given a brief internal review before being published in its companion title
 *Earth System Science Data Discussions,*^[*Earth System Science Data Discussions*, URL: <http://www.earth-syst-sci-data-discuss.net/papers_in_open_discussion.html>.]
 where anyone is able to submit a review.
 Only once the paper has satisfactorily passed this public review phase can it proceed for publication in the main journal.
 
 While post-publication peer review is concerned with quality rather than impact,
 the text or nature of such reviews may reveal evidence of reuse.
-There are suggestions (REF?) that data archives might invite and publish feedback from reusers about the datasets they hold.
+There are suggestions (REF?) that data archives might invite those who have downloaded and reused their data
+to leave feedback on the dataset's landing page.
 Not only would this provide a scalable source of peer review
 and insights into what makes data reusable,
 it would also provide confirmation that other researchers had attempted to use the data and,
@@ -497,9 +498,9 @@ Google Scholar and Microsoft Academic Search
 Google Scholar is a version of the Google search engine focused on scholarly works.^[Google Scholar, URL: <http://scholar.google.com/>.]
 Among the facilities it provides is an enumeration of the citations each work has received from the others in the database.
 While the automatically generated results can be somewhat approximate,
-researchers can get extra value from the service by setting up a profile and 'claiming' scholarly works.
-Having done so, a profile page is created that lists the works alongside the respective citation counts,
-and displays three aggregate statistics:
+researchers can get extra value from the service by setting up a profile and 'claiming' their scholarly works.
+Having done so, a profile page is created that lists the works alongside their respective citation counts;
+in addition, it provides three aggregate statistics:
 the total count of citations the works have received,
 an *h*-index, and an i10-index,
 the latter being the number of works receiving at least 10 citations.
@@ -597,7 +598,8 @@ include identifiers in tweets and blogs to improve accuracy of counting by servi
 Current issues and challenges
 =============================
 
-Immaturity of the area.
+Immaturity of the area
+----------------------
 
 Due to the early stage of development of some of the tools (specially for altmetrics) and a lack of standardisation in
 what they are measuring, results may not be comparable, which limits their use in the processes for determining rewards
@@ -610,12 +612,16 @@ are (at this time) to be considered a measure of attention and not quality. [@ke
 
 Relationship between alt metrics and traditional citation-based metrics: measuring different things.
 
-Possibilities (or otherwise) for gaming the system. Ethical behaviour.
+Gaming the system
+-----------------
 
 Gaming of metrics can be described as "behaviour that is meant to unfairly manipulate those metrics, generally for one's
 benefit." [@niso2014ami]
 self-citing and self-tweeting not considered unethical in themselves, but need to be factored into calculations [@featherstone2014stm]
  and consensus is still emerging on where the line lies between acceptable promotion and cheating [@niso2014ami].
+
+Acceptance of metrics
+---------------------
 
 Wider acceptance of alt metrics.
 (acceptance by whom? Funders? Institutions? Academics?)
@@ -640,11 +646,13 @@ Even proponents of altmetrics recognise that current practice for career progres
 journal articles, and that change is required for funders to start recognising other scholarly works and impact [@konkiel.piwowar.priem2014tio].
 
 The effects of time
+-------------------
 
 Number of citations tend to increase over time. Sometimes there is a publication lag (which altmetrics can fill).  
 However altmetrics will not exist for earlier contributions (pre-Twitter, Facebook etc).
 
 Contributor roles
+-----------------
 
 Identifying who contributed what to the data - generating, cleaning, documenting, curating
 (Is this more about credit than impact?)
