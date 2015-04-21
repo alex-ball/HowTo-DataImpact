@@ -572,16 +572,55 @@ there are measures that can be taken now using existing facilities and elements 
 Deposit data in a trustworthy repository
 ----------------------------------------
 
-*Use of institutional repository*
+The measures of impact discussed in this guide rely on a resource having a stable location
+that can be cited or quoted, or for which statistics might be collected.
+The most effective and straightforward way of achieving this stability
+is to deposit data in an appropriate custodial environment
+where it will be preserved and visible for the foreseeable future.
 
-*Use of disciplinary repositories: Re3Data*
+When choosing a repository, there are several questions to ask:
 
-*DSA, nestor, TRAC as encouraging signs*
+  * *Does the repository satisfy the requirements of my journal, institution,
+    and funding body?*
+    Some journals specify that data underlying submissions should be deposited in a particular data repository,
+    perhaps to take advantage of prearranged, coordinated workflows.
+    Some funders require data to be deposited in an archive they manage,
+    or one that can guarantee to keep data for a minimum term.
 
-*Pick one that will provide a stable identifier*
+  * *Is the repository already well used by my peers?*
+    Datasets are more likely to be seen, reused, and have impact
+    if they can be found where potential reusers are likely to look.
+    If you are unsure where that might be,
+    the Registry of Research Data Repositories (re3data.org) provides a list of repositories
+    organised by subject, content type and country.^[Re3data.org, URL: <http://www.re3data.org/>.]
+    If using a generic, institutional data repository,
+    it might be worth asking if their holdings data is aggregated by a
+    national or international discovery service.
 
-Assign identifiers for data as a crucial step to make the data easily cited, accessed and located.
-An identifier that supports all three functions (citation, location, access) is preferable.
+  * *Will the repository provide a persistent, unique identifier (PUID) for my data?*
+    PUIDs are highly effective for making data easy to cite,
+    and for making mentions of the data easy to track.
+    If the PUIDs can be translated into locations,
+    as is the case for DOIs, Handles and ARKs (REF?),
+    it makes accessing the data from such citations and mentions more transparent.
+
+  * *Has the repository been certified as trustworthy?*
+    There are several certification schemes in operation in which repositories can participate
+    to demonstrate their trustworthiness.
+    In approximate ascending order of stringency, there is
+    the Data Seal of Approval,
+    World Data System certification,
+    the nestor Seal for Trustworthy Digital Archives,
+    and ISO 16363 certification.
+    While the achievement of one of these certifications is a positive sign,
+    the lack thereof should not (yet) be a cause for concern
+    as the schemes are relatively new at the time of writing.
+
+  * *Does the repository impose quality standards on submitted data?*
+    Depositing data in a repository with stricter quality standards may be more time consuming,
+    but helps to ensure that the archived data is easy to reuse.
+    It may also attract more prestige for the data
+    and inspire more confidence among potential reusers.
 
 Provide appropriate metadata
 ----------------------------
