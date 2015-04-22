@@ -625,14 +625,37 @@ When choosing a repository, there are several questions to ask:
 Provide appropriate metadata
 ----------------------------
 
-Make data discoverable and citable by providing adequate metadata.  The precise fields that are needed may depend on the data.
-*Refer to DCC disciplinary metadata catalogue and peer directories*
-Disciplinary norms and guidance on appropriate schema are sometimes available, and repositories or organisations often define minimum
-requirements for deposit. Generic advice on data citation can be found in (reference to DCC guide).
+For a dataset to have significant impact it must be discoverable, understandable and reusable.
+All three require data creators to provide additional information, or *metadata*,  about the dataset.
 
-Provide enough metadata for reuse. Reproducibility.
-Data should be accompanied by enough contextual information to support reuse. The required information may be discipline-dependent.
-A user of the data should have enough information to be able to reproduce the results.
+*Discovery metadata* is information that will help others find the dataset.
+The most basic elements of discovery metadata are those one would find in a typical reference:
+title, creator, date, publisher, and a location or identifer.
+More advanced elements include an abstract, subject keywords, geospatial coverage, and temporal coverage.
+Precisely which elements are needed depends on the discipline and archive involved,
+but a good starting point is the DataCite Metadata Schema,
+which was designed as a cross-disciplinary discovery metadata standard [@datacite2014dms].
+
+*Representation information* is information that would help a given set of users to understand the data.
+For tabular data, this might include information on how the data points were collected and what units were used.
+For coded data, it would include the code book.
+Such information also counts as *metadata for reuse*,
+the information that a resuer would need to extract new knowledge from the data,
+or combine it with other datasets.
+The most thorough (and useful) set of metadata to provide, though, is that which supports *reproducibility*.
+In an experimental context, this means the information needed to re-run the experiment so as to confirm the results.
+In an observational context, this means the information needed to derive again the final results from the raw data, or to collect new data that may legitimately be compared and contrasted with the original.
+
+Again, the appropriate level of metadata to provide is highly context-dependant.
+Disciplinary norms and guidance on appropriate schema are sometimes available,
+and repositories or organisations often define minimum requirements for deposit.
+The DCC provides information on metadata standards that have been defined in various
+disciplines.^[DCC Disciplinary Metadata Standards, URL: <http://www.dcc.ac.uk/resources/metadata-standards>.]
+More specific advice is provided by, for example,
+BioSharing,^[BioSharing, URL: <https://www.biosharing.org/>.]
+the Global Earth Observation System of Systems (GEOSS) Standards and Interoperability Registry (SIR),^[GEOSS SIR, URL: <http://seabass.ieee.org/groups/geoss/>.]
+and
+the Marine Metadata Interoperability (MMI) project's Content Standard References.^[MMI Content Standard References, URL: <https://marinemetadata.org/conventions/content-standards>.]
 
 Enable open access
 ------------------
