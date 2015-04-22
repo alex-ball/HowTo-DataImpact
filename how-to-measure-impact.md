@@ -660,12 +660,18 @@ the Marine Metadata Interoperability (MMI) project's Content Standard References
 Enable open access
 ------------------
 
-Any restrictions to the use of data (such as imposing payment for access) may present barriers to reuse and potential impact.  
-Some restrictions are necessary (for example those arising from legal requirements), however where restrictions are not needed,
-the data can be made open access.  Regardless of whether payment or other restrictions are applied to the use of data,
-it may be desirable to require user registration prior to access.  Whilst registration does impose an extra step (and therefore a
-potential barrier) to data access, it allows both the application of conditions to be adhered to in the use of data
-(by explicitly asking the user for their agreement) and can further be used for tracking and monitoring of patterns of data use.
+Another key factor for impact is *accessibility.*
+If researchers are prevented (or discouraged) from accessing data due to paywalls or other restrictions,
+the data will not have an impact on their work.
+Some restrictions are necessary, for example those arising from legal or ethical requirements;
+however, where restrictions are not needed, the data can and should be made open access.
+
+Regardless of whether access restrictions are applied to data,
+it may be desirable to require user registration prior to access.
+Whilst registration does impose an extra step (and therefore a potential barrier) to data access,
+it makes it easier to enforce any restrictions on use that pertain to the data,
+but more importantly for impact,
+and it can be used for tracking and monitoring patterns of data use.
 
 Raise awareness
 ---------------
