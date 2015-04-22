@@ -673,6 +673,18 @@ it makes it easier to enforce any restrictions on use that pertain to the data,
 but more importantly for impact,
 and it can be used for tracking and monitoring patterns of data use.
 
+Apply a licence to the data
+---------------------------
+
+If researchers are concerned about the legal implications of reusing data,
+it can inhibit the impact it has on their work.
+By applying a licence or waiver,
+data creators can provide an unambiguous statement about what uses are permitted,
+allaying such concerns.
+For more information about licensing data, please see the DCC guide
+‘How to License Research Data’ (REF).
+
+
 Raise awareness
 ---------------
 
@@ -759,7 +771,8 @@ Further information
 
 \setlength{\parindent}{0pt}\nonzeroparskip\color{dccblue}\small
 
-  * ‘How to Cite Datasets’ by Alex Ball and Monica Duke
+  * ‘How to Cite Datasets and Link to Publications’ by Alex Ball and Monica Duke
+  * ‘How to License Research Data’ by Alex Ball
 
 \normalcolor
 A list of non-DCC resources and publications goes here.
