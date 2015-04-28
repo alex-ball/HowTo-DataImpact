@@ -561,6 +561,94 @@ while its website is no longer available,
 the code used is available from GitHub.^[Crowdometer source code repository, URL: <https://github.com/mfenner/crowdometer>]
 
 
+Current issues and challenges
+=============================
+
+Immaturity of the area
+----------------------
+
+Many of the tools available for measuring the impact of data are at an early stage of development.
+There is a wide variance in what they measure and some differences in how they measure it.
+For those tools aggregating from a large number of sources,
+it is unclear whether any attempt is made to deduplicate results
+(e.g. merging citations counted by both Scopus and Web of Science).
+The results of different tools are not, therefore, directly comparable with each other;
+depending on the rate of development of the tools and what they measure,
+they may not even be comparable with themselves over time.
+
+Which measures are truly valuable and which are too noisy is still a matter of debate
+[@niso2014ami; @ke2013vrd].
+It is arguable, for example, what proportion of the tweets about a resource represent real engagement with it,
+and what proportion are simply passing on an interesting title
+[@colquhoun2014sub].
+Among the available measures, traditional citation counts are highly regarded;
+even proponents of altmetrics recognise that cultural change and further work is required
+before funders put the same level of trust in alternatives,
+and recognise that outputs such as datasets are just as valuable as journal articles
+[@konkiel.piwowar.priem2014tio].
+
+Until some consensus is reached on an appropriate suite of metrics,
+it is unlikely they will be relied upon too heavily when apportioning rewards to researchers
+[@featherstone2014stm; @ke2013mdc].
+Even so, though currently available metrics may not be stable enough to judge relative impact,
+they can still be used on a case-by-case basis as evidence of impact in an absolute sense.
+
+Impact versus quality
+---------------------
+
+As discussed at the [beginning of this guide][Why measure the impact of research data?],
+there is a distinction to be made between *impact* and *quality*.
+While the two are related, there are many more reasons why a resource might be impactful (or not)
+other than it being of high (or low) quality.
+David Colquhoun, for example, points out that papers whose titles and abstracts speak to popular concerns
+(e.g. diet, health, body parts) may be widely mentioned on social media regardless of quality
+[@colquhoun2014sub].
+Indeed, many of the academics who voice objections to the use of metrics, alternative and traditional,
+do so because they object to the emphasis shifting away from quality towards impact
+[@burrows2013lwn; @colquhoun2014wos];
+while impact is easier to measure,
+it is less within a researcher's control than the intrinsic quality of their outputs.
+
+Gaming the system
+-----------------
+
+Gaming of metrics can be described as
+‘behaviour that is meant to unfairly manipulate those metrics, generally for one's benefit’
+[@niso2014ami].
+If tweets are considered evidence of impact,
+then setting up a hundred fake Twitter accounts to tweet about one's work
+would be an example of this.
+An example from traditional bibliometrics is the citation ring,
+where a group of authors agree to cite each other extensively,
+regardless of the actual mutual impact of the papers [@ferguson.etal2014ppr].
+At the other extreme, self-citation and tweeting about one's own work are not considered unethical,
+but such practices need to be recognised and factored into calculations [@featherstone2014stm]
+The consensus is still emerging on where the line lies between these two extremes
+of acceptable promotion and cheating [@niso2014ami].
+
+The effects of time
+-------------------
+
+Given the time it takes to write a paper and bring it to publication,
+there is often a substantial lag between a resource being published and receiving its first citation.
+This is espcially true in the Arts and Humanities,
+where publication cycles tend to be much longer than in the Sciences.
+With social media there is no such delay: the reaction can be almost instant.
+There is an argument, therefore, that altmetrics are more suited to measuring immediate impact,
+while traditional citations are more reliable for measuring longer-term impact.
+This is an easier argument to maye for journal papers and monographs than data,
+as for the reasons outlined above datasets may not receive a representative number of citations.
+
+It should also be noted when taking a view of impact over long timescales
+that changes in the landscape will have a significant effect.
+Due to the growth in usage of services like Twitter and Facebook,
+the impact of resources measured in raw tweets and posts will naturally seem less
+the further back in time one goes, simply because there were fewer users.
+Similarly, as data citations become more commonplace, what we might consider a
+significantly high citation count today may seem, in raw numbers,
+to be relatively low in future.
+
+
 Tips for raising research data impact
 =====================================
 
@@ -676,7 +764,6 @@ It also makes it easier to enforce any restrictions on use that pertain to the d
 but again for maximum impact
 such restrictions should be the minimum necessary to comply with legal, ethical and other obligations.
 
-
 Apply a licence to the data
 ---------------------------
 
@@ -715,93 +802,6 @@ In all such cases, it is important to include the dataset identifier
 as this makes it much easier for impact measurement tools to track
 how interest in the dataset spreads through social media [@featherstone2014stm; @niso2014ami].
 
-
-Current issues and challenges
-=============================
-
-Immaturity of the area
-----------------------
-
-Many of the tools available for measuring the impact of data are at an early stage of development.
-There is a wide variance in what they measure and some differences in how they measure it.
-For those tools aggregating from a large number of sources,
-it is unclear whether any attempt is made to deduplicate results
-(e.g. merging citations counted by both Scopus and Web of Science).
-The results of different tools are not, therefore, directly comparable with each other;
-depending on the rate of development of the tools and what they measure,
-they may not even be comparable with themselves over time.
-
-Which measures are truly valuable and which are too noisy is still a matter of debate
-[@niso2014ami; @ke2013vrd].
-It is arguable, for example, what proportion of the tweets about a resource represent real engagement with it,
-and what proportion are simply passing on an interesting title
-[@colquhoun2014sub].
-Among the available measures, traditional citation counts are highly regarded;
-even proponents of altmetrics recognise that cultural change and further work is required
-before funders put the same level of trust in alternatives,
-and recognise that outputs such as datasets are just as valuable as journal articles
-[@konkiel.piwowar.priem2014tio].
-
-Until some consensus is reached on an appropriate suite of metrics,
-it is unlikely they will be relied upon too heavily when apportioning rewards to researchers
-[@featherstone2014stm; @ke2013mdc].
-Even so, though currently available metrics may not be stable enough to judge relative impact,
-they can still be used on a case-by-case basis as evidence of impact in an absolute sense.
-
-Impact versus quality
----------------------
-
-As discussed at the [beginning of this guide][Why measure the impact of research data?],
-there is a distinction to be made between *impact* and *quality*.
-While the two are related, there are many more reasons why a resource might be impactful (or not)
-other than it being of high (or low) quality.
-David Colquhoun, for example, points out that papers whose titles and abstracts speak to popular concerns
-(e.g. diet, health, body parts) may be widely mentioned on social media regardless of quality
-[@colquhoun2014sub].
-Indeed, many of the academics who voice objections to the use of metrics, alternative and traditional,
-do so because they object to the emphasis shifting away from quality towards impact
-[@burrows2013lwn; @colquhoun2014wos];
-while impact is easier to measure,
-it is less within a researcher's control than the intrinsic quality of their outputs.
-
-Gaming the system
------------------
-
-Gaming of metrics can be described as
-‘behaviour that is meant to unfairly manipulate those metrics, generally for one's benefit’
-[@niso2014ami].
-If tweets are considered evidence of impact,
-then setting up a hundred fake Twitter accounts to tweet about one's work
-would be an example of this.
-An example from traditional bibliometrics is the citation ring,
-where a group of authors agree to cite each other extensively,
-regardless of the actual mutual impact of the papers [@ferguson.etal2014ppr].
-At the other extreme, self-citation and tweeting about one's own work are not considered unethical,
-but such practices need to be recognised and factored into calculations [@featherstone2014stm]
-The consensus is still emerging on where the line lies between these two extremes
-of acceptable promotion and cheating [@niso2014ami].
-
-The effects of time
--------------------
-
-Given the time it takes to write a paper and bring it to publication,
-there is often a substantial lag between a resource being published and receiving its first citation.
-This is espcially true in the Arts and Humanities,
-where publication cycles tend to be much longer than in the Sciences.
-With social media there is no such delay: the reaction can be almost instant.
-There is an argument, therefore, that altmetrics are more suited to measuring immediate impact,
-while traditional citations are more reliable for measuring longer-term impact.
-This is an easier argument to maye for journal papers and monographs than data,
-as for the reasons outlined above datasets may not receive a representative number of citations.
-
-It should also be noted when taking a view of impact over long timescales
-that changes in the landscape will have a significant effect.
-Due to the growth in usage of services like Twitter and Facebook,
-the impact of resources measured in raw tweets and posts will naturally seem less
-the further back in time one goes, simply because there were fewer users.
-Similarly, as data citations become more commonplace, what we might consider a
-significantly high citation count today may seem, in raw numbers,
-to be relatively low in future.
 
 Acknowledgements
 ================
