@@ -92,6 +92,7 @@ and widen the opportunities for academic research through data sharing.
 Narrative accounts of high-impact data sharing and re-use can be used to advocate cultural change.
 Meanwhile, data metrics may be used to incentivise data sharing within a framework of professional advancement and reward that recognizes data as a fundamental research output [@ke2013vrd].
 
+
 Impact measurement concepts
 ===========================
 
@@ -295,6 +296,7 @@ Not only would this provide a scalable source of peer review
 and insights into what makes data reusable,
 it would also provide confirmation that other researchers had attempted to use the data and,
 in the case of a positive review, that the data has made an impact.
+
 
 Impact measurement services
 ===========================
@@ -711,7 +713,7 @@ if there is a compelling story surrounding it,
 this can help propogate the message through the normal sharing mechanisms.
 In all such cases, it is important to include the dataset identifier
 as this makes it much easier for impact measurement tools to track
-how interest in the dataset spreads through social media [@featherstone2014stm,@niso2014ami].
+how interest in the dataset spreads through social media [@featherstone2014stm; @niso2014ami].
 
 
 Current issues and challenges
@@ -720,65 +722,86 @@ Current issues and challenges
 Immaturity of the area
 ----------------------
 
-Due to the early stage of development of some of the tools,
-especially those supporting altmetrics,
-and a lack of standardisation in what they are measuring,
-the results they output may not be comparable, which limits their use in the processes for determining rewards
-based on scholarly impact [@featherstone2014stm].  The study of the reliability and validity of the data is a work in progress ; "there is
-a tendency to include what can be counted, rather than to include what adds particular value" [@niso2014ami].
-A 2013 Knowledge Exchange workshop on research data and research assessment [@ke2013mdc] reported that more experience
-of alternative metrics is required before their value could be decided and at the time they were not considered a suitable
-measure of scientific quality.  Peer review remains the mainstay for establishing scientific quality, metrics like downloads
-are (at this time) to be considered a measure of attention and not quality. [@ke2013vrd] describes data metrics as an "underdeveloped concept".
+Many of the tools available for measuring the impact of data are at an early stage of development.
+There is a wide variance in what they measure and some differences in how they measure it.
+For those tools aggregating from a large number of sources,
+it is unclear whether any attempt is made to deduplicate results
+(e.g. merging citations counted by both Scopus and Web of Science).
+The results of different tools are not, therefore, directly comparable with each other;
+depending on the rate of development of the tools and what they measure,
+they may not even be comparable with themselves over time.
 
-Relationship between alt metrics and traditional citation-based metrics: measuring different things.
+Which measures are truly valuable and which are too noisy is still a matter of debate
+[@niso2014ami; @ke2013vrd].
+It is arguable, for example, what proportion of the tweets about a resource represent real engagement with it,
+and what proportion are simply passing on an interesting title
+[@colquhoun2014sub].
+Among the available measures, traditional citation counts are highly regarded;
+even proponents of altmetrics recognise that cultural change and further work is required
+before funders put the same level of trust in alternatives,
+and recognise that outputs such as datasets are just as valuable as journal articles
+[@konkiel.piwowar.priem2014tio].
+
+Until some consensus is reached on an appropriate suite of metrics,
+it is unlikely they will be relied upon too heavily when apportioning rewards to researchers
+[@featherstone2014stm; @ke2013mdc].
+Even so, though currently available metrics may not be stable enough to judge relative impact,
+they can still be used on a case-by-case basis as evidence of impact in an absolute sense.
+
+Impact versus quality
+---------------------
+
+As discussed at the [beginning of this guide][Why measure the impact of research data?],
+there is a distinction to be made between *impact* and *quality*.
+While the two are related, there are many more reasons why a resource might be impactful (or not)
+other than it being of high (or low) quality.
+David Colquhoun, for example, points out that papers whose titles and abstracts speak to popular concerns
+(e.g. diet, health, body parts) may be widely mentioned on social media regardless of quality
+[@colquhoun2014sub].
+Indeed, many of the academics who voice objections to the use of metrics, alternative and traditional,
+do so because they object to the emphasis shifting away from quality towards impact
+[@burrows2013lwn; @colquhoun2014wos];
+while impact is easier to measure,
+it is less within a researcher's control than the intrinsic quality of their outputs.
 
 Gaming the system
 -----------------
 
-Gaming of metrics can be described as "behaviour that is meant to unfairly manipulate those metrics, generally for one's
-benefit." [@niso2014ami]
-self-citing and self-tweeting not considered unethical in themselves, but need to be factored into calculations [@featherstone2014stm]
- and consensus is still emerging on where the line lies between acceptable promotion and cheating [@niso2014ami].
-
-Acceptance of metrics
----------------------
-
-Wider acceptance of alt metrics.
-(acceptance by whom? Funders? Institutions? Academics?)
-
-At least *some* academics have reservations about the culture of metrics and the use of measures
-to enforce competition. Audits, monitoring and data collection are considered to be a force that shapes academia,
-in a manner that is too dominating.  Scepticism is expressed that value can be captured through metrics, particularly for research outputs.
-The influence of metrics on decision-making e.g. choosing to publish in a journal with a high impact factor, is questioned.
-In this light, the inclusion of data metrics is seen as an example of the increasing obsession with measurement,
-and is not necessarily viewed as a positive development [@burrows2013lwn].  
-
-David Colquhoun, in his submission to HEFCE on the role of metrics in research assessment, cautions against conflating certain metrics
-with quality.  In particular he singles out some altmetrics such as Tweets for criticism, suggesting that popularity of retweeting may
-reflect trendiness, rather than quality.  In the examples given, he suspects that the content of the title determines what becomes
-popular, and not the article itself, which may not even have been read.  This limits the impact that the article has had on the
-general public, let alone other academics [@colquhoun2014sub]. He expresses concern that the glamorising of articles leads to
-inaccuracies, and to overlooking of the detail of the article and its quality. He strongly recommends against the use of altmetrics [@colquhoun2014wos].
-
-One other aspect of acceptance is trust in the data quality [@niso2014ami] (which still requires work as mentioned previously).
-
-Even proponents of altmetrics recognise that current practice for career progression focuses on publishing traditional
-journal articles, and that change is required for funders to start recognising other scholarly works and impact [@konkiel.piwowar.priem2014tio].
+Gaming of metrics can be described as
+‘behaviour that is meant to unfairly manipulate those metrics, generally for one's benefit’
+[@niso2014ami].
+If tweets are considered evidence of impact,
+then setting up a hundred fake Twitter accounts to tweet about one's work
+would be an example of this.
+An example from traditional bibliometrics is the citation ring,
+where a group of authors agree to cite each other extensively,
+regardless of the actual mutual impact of the papers [@ferguson.etal2014ppr].
+At the other extreme, self-citation and tweeting about one's own work are not considered unethical,
+but such practices need to be recognised and factored into calculations [@featherstone2014stm]
+The consensus is still emerging on where the line lies between these two extremes
+of acceptable promotion and cheating [@niso2014ami].
 
 The effects of time
 -------------------
 
-Number of citations tend to increase over time. Sometimes there is a publication lag (which altmetrics can fill).  
-However altmetrics will not exist for earlier contributions (pre-Twitter, Facebook etc).
+Given the time it takes to write a paper and bring it to publication,
+there is often a substantial lag between a resource being published and receiving its first citation.
+This is espcially true in the Arts and Humanities,
+where publication cycles tend to be much longer than in the Sciences.
+With social media there is no such delay: the reaction can be almost instant.
+There is an argument, therefore, that altmetrics are more suited to measuring immediate impact,
+while traditional citations are more reliable for measuring longer-term impact.
+This is an easier argument to maye for journal papers and monographs than data,
+as for the reasons outlined above datasets may not receive a representative number of citations.
 
-Contributor roles
------------------
-
-Identifying who contributed what to the data - generating, cleaning, documenting, curating
-(Is this more about credit than impact?)
-[@niso2014ami] suggests that alternative assessment metrics "could play a role in this area by tracking or measuring credit for
-more non-traditional research outputs such as research data"
+It should also be noted when taking a view of impact over long timescales
+that changes in the landscape will have a significant effect.
+Due to the growth in usage of services like Twitter and Facebook,
+the impact of resources measured in raw tweets and posts will naturally seem less
+the further back in time one goes, simply because there were fewer users.
+Similarly, as data citations become more commonplace, what we might consider a
+significantly high citation count today may seem, in raw numbers,
+to be relatively low in future.
 
 Acknowledgements
 ================
