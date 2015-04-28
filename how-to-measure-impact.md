@@ -660,18 +660,20 @@ the Marine Metadata Interoperability (MMI) project's Content Standard References
 Enable open access
 ------------------
 
-Another key factor for impact is *accessibility.*
+Another key factor for impact is accessibility.
 If researchers are prevented (or discouraged) from accessing data due to paywalls or other restrictions,
 the data will not have an impact on their work.
 Some restrictions are necessary, for example those arising from legal or ethical requirements;
-however, where restrictions are not needed, the data can and should be made open access.
+however, where restrictions are not needed, the data should be made open access.
 
 Regardless of whether access restrictions are applied to data,
 it may be desirable to require user registration prior to access.
 Whilst registration does impose an extra step (and therefore a potential barrier) to data access,
-it makes it easier to enforce any restrictions on use that pertain to the data,
-but more importantly for impact,
-and it can be used for tracking and monitoring patterns of data use.
+it can be used for tracking and monitoring patterns of data use.
+It also makes it easier to enforce any restrictions on use that pertain to the data,
+but again for maximum impact
+such restrictions should be the minimum necessary to comply with legal, ethical and other obligations.
+
 
 Apply a licence to the data
 ---------------------------
@@ -682,15 +684,34 @@ By applying a licence or waiver,
 data creators can provide an unambiguous statement about what uses are permitted,
 allaying such concerns.
 For more information about licensing data, please see the DCC guide
-‘How to License Research Data’ (REF).
-
+‘How to License Research Data’ [@ball2011hlr].
 
 Raise awareness
 ---------------
 
-Highlighting resources using social media. Academia.edu, ResearchGate, Mendeley, etc.
+Depositing a dataset in well-used repository,
+or having it indexed in a popular discovery service,
+is a great first step to ensuring it is visible.
+To take things further, there are more direct ways to draw the attention of potential reusers to the dataset.
 
-include identifiers in tweets and blogs to improve accuracy of counting by service tools (recommended by [@featherstone2014stm] and [@niso2014ami])
+The first and most obvious one is to cite the dataset in any publications that draw on it.
+For more information on how to do this, please see the DCC guide
+‘How to Cite Datasets and Link to Publications’ [@ball.duke2011hcd].
+Another possibility is to publish a data paper that describes the dataset;
+this is particularly valuable in disciplines where data citations are rarely published,
+but is worth considering in most contexts.
+
+Less formal references can also be effective.
+Including references to the dataset within services such as
+Academia.edu, ResearchGate and Mendeley
+can help make it more visible to fellow users and to search engines.
+Similarly, mentioning the dataset in blog posts and on Twitter or Facebook
+can help bring greater attention to it;
+if there is a compelling story surrounding it,
+this can help propogate the message through the normal sharing mechanisms.
+In all such cases, it is important to include the dataset identifier
+as this makes it much easier for impact measurement tools to track
+how interest in the dataset spreads through social media [@featherstone2014stm,@niso2014ami].
 
 
 Current issues and challenges
