@@ -815,13 +815,35 @@ Thank you to
 (reviewer names)
 for helpful comments.
 
+
 Further information
 ===================
 
 \setlength{\parindent}{0pt}\nonzeroparskip\color{dccblue}\small
 
   * ‘How to Cite Datasets and Link to Publications’ by Alex Ball and Monica Duke
+
   * ‘How to License Research Data’ by Alex Ball
 
 \normalcolor
-A list of non-DCC resources and publications goes here.
+The following may also be of interest.
+
+  * \fullcite{dean.etal2013sei}[@dean.etal2013sei]
+
+  * \fullcite{macgillivray2012mri}[@macgillivray2012mri]
+
+  * \fullcite{neylon2014awa}[@neylon2014awa]
+
+  * \fullcite{niso2012bpp}[@niso2012bpp]
+
+  * \fullcite{niso2014taa}[@niso2014taa]
+
+  * \fullcite{penfield.etal2014aed}[@penfield.etal2014aed]
+
+  * \fullcite{piwowar.vision2013dro}[@piwowar.vision2013dro]
+
+  * \fullcite{plos2012ac}[@plos2012ac]
+
+  * \fullcite{strasser2013uci}[@strasser2013uci]
+
+  * \fullcite{tattersall.beecroft2014aas}[@tattersall.beecroft2014aas]
