@@ -67,12 +67,12 @@ and may identify communities who,
 even though they were not the original intended audience (e.g. the public),
 have an interest in the data.
 
-Data usage monitoring can be also be used by institutions in different ways [@rdmf122014turd]:
+Institutions can employ data usage monitoring to[@rdmf122014turd]:
 
-* promotional activities and celebration of particular data sharing and re-use successes by researchers at the institution;
-* creation of special collections around popular data sets;
+* instigate promotional activities and celebrate data sharing and re-use successes by researchers at the institution;
+* create special collections around popular data sets;
 * plan for and monitor the success of the infrastructure providing access to the data;
-* meeting funder requirements to safeguard data for the appropriate length of time since last use.
+* meet funder requirements to safeguard data for the appropriate length of time since last use.
 
 As an example of the latter points,
 in October 2014, the Engineering and Physical Sciences Research Council (EPSRC)
@@ -639,7 +639,7 @@ where publication cycles tend to be much longer than in the Sciences.
 With social media there is no such delay: the reaction can be almost instant.
 There is an argument, therefore, that altmetrics are more suited to measuring immediate impact,
 while traditional citations are more reliable for measuring longer-term impact.
-This is an easier argument to maye for journal papers and monographs than data,
+This is an easier argument to make for journal papers and monographs than data,
 as for the reasons outlined above datasets may not receive a representative number of citations.
 
 It should also be noted when taking a view of impact over long timescales
