@@ -11,3 +11,14 @@ ScienceCard has now disappeared, but ALM is still being developed.
 There is some explanation on the [ALM project website](http://articlemetrics.github.io/),
 and the code for the latest incarnation, [Lagotto](https://github.com/mfenner/lagotto),
 is on GitHub.
+
+# Identifiers
+
+@REPORT{hilse.kothe2006ipi,
+  author = {Hans-Werner Hilse and Jochen Kothe},
+  title = {Implementing Persistent Identifiers},
+  date = {2006},
+  location = {London, UK},
+  publisher = {Consortium of European Research Libraries},
+  url = {http://nbn-resolving.de/urn:nbn:de:gbv:7-isbn-90-6984-508-3-8}
+}

@@ -694,7 +694,7 @@ When choosing a repository, there are several questions to ask:
     PUIDs are highly effective for making data easy to cite,
     and for making mentions of the data easy to track.
     If the PUIDs can be translated into locations,
-    as is the case for DOIs, Handles and ARKs (REF?),
+    as is the case for DOIs, Handles and ARKs [@hilse.kothe2006ipi],
     it makes accessing the data from such citations and mentions more transparent.
 
   * *Has the repository been certified as trustworthy?*
