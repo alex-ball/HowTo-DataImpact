@@ -34,7 +34,7 @@ researchers are asked to consider how they might maximise the academic, societal
 
 At the other end of the research lifecycle,
 the 2014 Research Excellence Framework (REF) in the UK included impact as an explicit element alongside outputs and environment [@ref2011dar].
-Furthermore, when the Higher Education Funding Council For England (HEFCE)
+Furthermore, when the Higher Education Funding Council for England (HEFCE)
 – one of the agencies responsible for the REF –
 undertook a review of the role of metrics in research assessment in 2014-2015,
 it considered how they might be used to assess both the quality of academic research and its broader impact [@hefce2014irm].
@@ -343,7 +343,7 @@ Some of the metrics used are specific to the service used to host the resource.
 For example, ImpactStory tracks the number of times videos on Vimeo and YouTube have been viewed and 'liked',
 the number of times a GitHub repository has been forked,
 and the number of times resources in the Dryad data repository, Figshare, PLoS journals and SlideShare have been downloaded.
-Other metrics track interest in a resource indepedent of where it is hosted.
+Other metrics track interest in a resource independent of where it is hosted.
 The service can look up citation counts in Scopus,
 bookmark counts in Mendeley and CiteULike,
 and mentions on Facebook, Google+, Twitter, Wikipedia, and in blog posts.
@@ -365,7 +365,7 @@ and users can vote for the ideas they would like the developers to prioritise.
 PLoS Article-Level Metrics
 --------------------------
 
-In 2009, the Public Library of Science (PLoS) launched its Article-Level Metrics (ALM) service.^[PLOS ALM website, URL: <http://article-level-metrics.plos.org/alm-info/>]
+In 2009, the Public Library of Science (PLoS) launched its Article-Level Metrics (ALM) service.^[PLoS ALM website, URL: <http://article-level-metrics.plos.org/alm-info/>]
 This compiles a set of impact indicators from PLoS's own systems and various other services,
 and makes them available in both a visual way and via an application programming interface (API).
 
@@ -422,7 +422,7 @@ The metrics are grouped into five categories:
 The totals for these metrics are displayed in a dashboard;
 bar charts or sunburst diagrams supplement a tabular view,
 and not only is data available at the level of individual resources
-but also aggregrated for individual researchers,
+but also aggregated for individual researchers,
 resource types,
 and various levels of organisational unit (programmes, departments, whole organisations).^[Example
 PlumX profile for the University of Pittsburgh, URL: <https://plu.mx/pitt/>.]
@@ -636,7 +636,7 @@ The effects of time
 
 Given the time it takes to write a paper and bring it to publication,
 there is often a substantial lag between a resource being published and receiving its first citation.
-This is espcially true in the Arts and Humanities,
+This is especially true in the Arts and Humanities,
 where publication cycles tend to be much longer than in the Sciences.
 With social media there is no such delay: the reaction can be almost instant.
 There is an argument, therefore, that altmetrics are more suited to measuring immediate impact,
@@ -725,7 +725,7 @@ All three require data creators to provide additional information, or *metadata*
 
 *Discovery metadata* is information that will help others find the dataset.
 The most basic elements of discovery metadata are those one would find in a typical reference:
-title, creator, date, publisher, and a location or identifer.
+title, creator, date, publisher, and a location or identifier.
 More advanced elements include an abstract, subject keywords, geospatial coverage, and temporal coverage.
 Precisely which elements are needed depends on the discipline and archive involved,
 but a good starting point is the DataCite Metadata Schema,
@@ -735,7 +735,7 @@ which was designed as a cross-disciplinary discovery metadata standard [@datacit
 For tabular data, this might include information on how the data points were collected and what units were used.
 For coded data, it would include the code book.
 Such information also counts as *metadata for reuse*,
-the information that a resuer would need to extract new knowledge from the data,
+the information that a reuser would need to extract new knowledge from the data,
 or combine it with other datasets.
 The most thorough (and useful) set of metadata to provide, though, is that which supports *reproducibility*.
 In an experimental context, this means the information needed to re-run the experiment so as to confirm the results.
@@ -802,7 +802,7 @@ can help make it more visible to fellow users and to search engines.
 Similarly, mentioning the dataset in blog posts and on Twitter or Facebook
 can help bring greater attention to it;
 if there is a compelling story surrounding it,
-this can help propogate the message through the normal sharing mechanisms.
+this can help propagate the message through the normal sharing mechanisms.
 In all such cases, it is important to include the dataset identifier
 as this makes it much easier for impact measurement tools to track
 how interest in the dataset spreads through social media [@featherstone2014stm; @niso2014ami].
