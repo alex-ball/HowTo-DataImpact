@@ -293,8 +293,8 @@ Only once the paper has satisfactorily passed this public review phase can it pr
 
 While post-publication peer review is concerned with quality rather than impact,
 the text or nature of such reviews may reveal evidence of reuse.
-There are suggestions (REF?) that data archives might invite those who have downloaded and reused their data
-to leave feedback on the dataset's landing page.
+There are suggestions that data archives might invite those who have downloaded and reused their data
+to leave feedback on the dataset's landing page [@kratz2014fia].
 Not only would this provide a scalable source of peer review
 and insights into what makes data reusable,
 it would also provide confirmation that other researchers had attempted to use the data and,
