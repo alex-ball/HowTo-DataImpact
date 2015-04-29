@@ -67,12 +67,12 @@ and may identify communities who,
 even though they were not the original intended audience (e.g. the public),
 have an interest in the data.
 
-Institutions can employ data usage monitoring to[@rdmf122014turd]:
+Institutions can employ data usage monitoring to
 
 * instigate promotional activities and celebrate data sharing and re-use successes by researchers at the institution;
 * create special collections around popular data sets;
 * plan for and monitor the success of the infrastructure providing access to the data;
-* meet funder requirements to safeguard data for the appropriate length of time since last use.
+* meet funder requirements to safeguard data for the appropriate length of time since last use [@rdmf122014turd].
 
 As an example of the latter points,
 in October 2014, the Engineering and Physical Sciences Research Council (EPSRC)
