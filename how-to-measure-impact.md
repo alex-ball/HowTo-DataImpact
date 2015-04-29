@@ -13,8 +13,8 @@ classoption:
 > and the services and tools available for measuring impact.
 > After discussing some of the current issues and challenges,
 > it provides some tips on increasing the impact of your own data.
-> This guide should interest researchers and principal investigators working on data-led research
-> and administrators working with research quality assessment submissions.
+> This guide should interest researchers and principal investigators working on data-led research,
+> and librarians and administrators working with research quality assessment submissions.
 
 Why measure the impact of research data?
 ========================================
@@ -581,6 +581,8 @@ they may not even be comparable with themselves over time.
 
 Which measures are truly valuable and which are too noisy is still a matter of debate
 [@niso2014ami; @ke2013vrd].
+Put another way, it is not yet clear which are reliable measures of true impact
+and which are merely indicators of attention received [@ke2013mdc].
 It is arguable, for example, what proportion of the tweets about a resource represent real engagement with it,
 and what proportion are simply passing on an interesting title
 [@colquhoun2014sub].
@@ -592,7 +594,7 @@ and recognise that outputs such as datasets are just as valuable as journal arti
 
 Until some consensus is reached on an appropriate suite of metrics,
 it is unlikely they will be relied upon too heavily when apportioning rewards to researchers
-[@featherstone2014stm; @ke2013mdc].
+[@featherstone2014stm].
 Even so, though currently available metrics may not be stable enough to judge relative impact,
 they can still be used on a case-by-case basis as evidence of impact in an absolute sense.
 
