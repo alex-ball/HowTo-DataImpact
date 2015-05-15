@@ -657,10 +657,6 @@ to be relatively low in future.
 Tips for raising research data impact
 =====================================
 
-(Need to search literature for evidence, examples and case studies.)
-(possible examples of how altmetrics help monitor use perhaps in Cameron PLOS Opens Blog post
-Altmetrics: What are they good for?)
-
 Although a complete and seamless infrastructure of services and tools for the monitoring and measurement of the impact of data is not yet available,
 there are measures that can be taken now using existing facilities and elements of the infrastructure.
 
