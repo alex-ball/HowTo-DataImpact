@@ -654,6 +654,10 @@ Similarly, as data citations become more commonplace, what we might consider a
 significantly high citation count today may seem, in raw numbers,
 to be relatively low in future.
 
+Over such long timescales, changes in understanding can also play a part,
+with some works being ignored for many years before becoming highly influential.
+In such circumstances, impact metrics may give an underestimate of the importance of a work,
+due to it having to 'catch up' with the impact accrued by other works published at the same time.
 
 Tips for raising research data impact
 =====================================
