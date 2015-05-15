@@ -41,7 +41,9 @@ it considered how they might be used to assess both the quality of academic rese
 
 There are many reasons underlying this emphasis on impact.
 For one, it provides tangible evidence of benefit to weigh against the costs of research.
-For another, it is an intuitive indicator to use when comparing peer research programmes across the globe on the basis of importance or value for money.
+For another, the measures commonly used as proxy indicators of impact
+provide an engaging way of comparing peer research programmes across the globe
+when undertaking strategic decision-making or benchmarking.
 It is not, perhaps, ideal for making comparisons across disciplines
 as each one has its own pattern of impact, operating over a different timescale.
 In order to accommodate these differences as far as possible, though,
