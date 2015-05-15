@@ -611,9 +611,10 @@ David Colquhoun, for example, points out that papers whose titles and abstracts 
 [@colquhoun2014sub].
 Indeed, many of the academics who voice objections to the use of metrics, alternative and traditional,
 do so because they object to the emphasis shifting away from quality towards impact
-[@burrows2013lwn; @colquhoun2014wos];
-while impact is easier to measure,
-it is less within a researcher's control than the intrinsic quality of their outputs.
+[@burrows2013lwn; @colquhoun2014wos].
+While researchers have a great deal of control over the quality of their outputs,
+the level of impact they receive, especially as judged by a set of metrics,
+depends on many factors outside their influence.
 
 Gaming the system
 -----------------
