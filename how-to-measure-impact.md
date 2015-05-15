@@ -69,9 +69,10 @@ have an interest in the data.
 
 Institutions can employ data usage monitoring to
 
+* plan for and monitor the success of the infrastructure providing access to the data,
+  in particular to gauge capacity requirements in storage, archival and network systems;
 * instigate promotional activities and celebrate data sharing and re-use successes by researchers at the institution;
 * create special collections around popular data sets;
-* plan for and monitor the success of the infrastructure providing access to the data;
 * meet funder requirements to safeguard data for the appropriate length of time since last use [@rdmf122014turd].
 
 As an example of the latter points,
