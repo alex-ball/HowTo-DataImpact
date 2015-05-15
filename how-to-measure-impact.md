@@ -709,6 +709,9 @@ When choosing a repository, there are several questions to ask:
     World Data System certification,
     the nestor Seal for Trustworthy Digital Archives,
     and ISO 16363 certification.
+    Among the issues considered by these schemes
+    are the long-term security, integrity and usability of the holdings,
+    and the sustainability of the repository.
     While the achievement of one of these certifications is a positive sign,
     the lack thereof should not (yet) be a cause for concern
     as the schemes are relatively new at the time of writing.
