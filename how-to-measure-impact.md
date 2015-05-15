@@ -624,7 +624,7 @@ Gaming of metrics can be described as
 [@niso2014ami].
 If tweets are considered evidence of impact,
 then setting up a hundred fake Twitter accounts to tweet about one's work
-would be an example of this.
+would be an example of this [@haustein2015tii].
 An example from traditional bibliometrics is the citation ring,
 where a group of authors agree to cite each other extensively,
 regardless of the actual mutual impact of the papers [@ferguson.etal2014ppr].
