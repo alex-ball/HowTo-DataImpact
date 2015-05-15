@@ -50,14 +50,12 @@ In order to accommodate these differences as far as possible, though,
 funders tend to take into account a wide variety of ways in which research can be influential.
 This means going beyond a traditional bibliometric analysis of academic outputs
 to consider how wider societal needs have been met by research efforts.
-When research influences practice or policy,
-generates wealth,
-drives industrial innovations,
-addresses pressing societal questions or problems,
+Research can have impact by influencing practice or policy,
+generating wealth,
+driving industrial innovations,
+addressing pressing societal questions or problems,
 or
-responds to community priorities during planning stages
-(such as taking account of patients' views when designing medical studies),
-its impact has been broadened.
+taking account of community priorities during planning stages and successfully addressing them.
 
 It is in the interests of researchers, therefore, to track the impact of all their research outputs, including datasets.
 There are, however, particular benefits they can realise by analysing how and where their shared datasets are being used.
