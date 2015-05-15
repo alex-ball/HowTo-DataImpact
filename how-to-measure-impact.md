@@ -681,7 +681,8 @@ When choosing a repository, there are several questions to ask:
     Some journals specify that data underlying submissions should be deposited in a particular data repository,
     perhaps to take advantage of prearranged, coordinated workflows.
     Some funders require data to be deposited in an archive they manage,
-    or one that can guarantee to keep data for a minimum term.
+    or one that can guarantee to keep data for a minimum term;
+    the SHERPA/JULIET service can be use to check for such requirements.^[SHERPA/JULIET, URL: <http://www.sherpa.ac.uk/juliet/>.]
 
   * *Is the repository already well used by my peers?*
     Datasets are more likely to be seen, reused, and have impact
