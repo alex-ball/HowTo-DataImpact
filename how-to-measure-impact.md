@@ -159,7 +159,7 @@ Citations of data
 -----------------
 
 The most mature emerging model for measuring the impact of data
-is one that is analogous to the publication and citation of literature [ke2013vrd].
+is one that is analogous to the publication and citation of literature [@ke2013vrd].
 Going beyond mere data sharing,
 where data is simply made available (e.g. as files on a website),
 data publication implies that the data has entered a framework for
