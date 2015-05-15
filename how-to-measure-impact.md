@@ -101,11 +101,18 @@ Impact measurement concepts
 ===========================
 
 Impact is, in its figurative sense, the effect or influence that one agent, event or resource has on another.
-When measuring impact, it is therefore important to bear in mind whose impact is being measured,
-and the extent to which one may use that metric to infer the impact of another entity.
+It is distinct from, but related to, concepts such as
+*attention* (how many people know about the entity)
+and *dissemination* (how widely a resource has been distributed).
+When considering proposed metrics,
+it is therefore important to consider what exactly is being measured
+and how many steps of inference lie between it and the impact of the entity in which one is interested.
 
-For example, citation counts are one way of measuring the influence that a paper has on subsequent literature in a discipline.
-One may infer from the impact of the paper something about the impact of each of the authors,
+For example, citation counts are often used as a measure of the influence that a paper has on subsequent literature in a discipline.
+This already involves one level of inference,
+as papers may be cited for reasons other than acknowledging influence
+(e.g. as part of a refutation, or to acknowledge an unused line of enquiry).
+One may then infer from the impact of the paper something about the impact of each of the authors,
 the institutions at which they are based,
 the project of which the paper is an output,
 and the body that funded the research;
