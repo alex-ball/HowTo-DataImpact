@@ -117,7 +117,8 @@ the institutions at which they are based,
 the project of which the paper is an output,
 and the body that funded the research;
 but the further removed one gets from the paper,
-the more one has to take that impact in aggregate in order to draw conclusions about the impact of the entity relative to its peers.
+the more one has to take that impact in aggregate in order to draw conclusions about the impact of the entity relative to its peers,
+and the more cautious one must be.
 
 One measure that does this is the *h*-index, a measure of researcher impact and productivity derived from the citation counts of papers [@hirsch2005iqi].
 Researchers have an index *h* if exactly *h* of their published papers have been cited *h* or more times.
@@ -177,7 +178,8 @@ making it searchable and discoverable,
 and guaranteeing its long-term accessibility.
 The resulting dataset is given a stable citation
 so that it can be reliably referenced by other scholarly works.
-Such citations can be counted in the usual manner to provide evidence of the impact of the dataset.
+Such citations can be counted in the usual manner to provide evidence of the impact of the dataset,
+subject to the limitation described above.
 
 While direct citation of datasets is far from widespread,
 and may be considered an aspirational end goal,
@@ -186,7 +188,7 @@ This is a paper that describes the dataset and its collection
 without drawing any scientific conclusions from it.
 Such papers may be published in a special section of a regular journal,
 or in a dedicated *data journal* such as the *Journal of Open Archaeology Data*.^[*Journal of Open Archaeology Data*, URL: <http://openarchaeologydata.metajnl.com/>.]
-Citations of data papers can still be used straightforwardly to provide evidence of the impact of the corresponding dataset.
+Citations of data papers may be interpreted as citations of the underlying dataset for the purposes of assembling evidence of impact.
 
 In many disciplines, however, the dominant approach is the traditional one of citing the first paper to make use of the data,
 relying on that paper to indicate if and how the data has been shared.
@@ -195,7 +197,7 @@ to identify whether citations to such papers should count towards
 the impact of the argumentation and conclusions of the paper,
 the underlying dataset,
 or both.
-In such disciplines, therefore, citation counts are of little help as a metric of data impact, so alternative metrics must be found.
+In such disciplines, therefore, citation counts are of little help as an indicator of data impact, so alternative indicators must be found.
 
 Resolutions
 -----------
