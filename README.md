@@ -11,8 +11,8 @@ Branching policy
 
 There are two main branches in use:
 
-* **master** currently contains the initial outline proposal for the document. It will contain versions for review and QA (tags r1, r2...) and released versions (tags v1, v2...).
-* **draft** is the working branch where the document is actually written and edited.
+* **master** is used for releases. Versions for review and quality assurance are tagged r1, r2, r3 and so on, while published versions are tagged v1, v2, v3 and so on. (The numbers in the two sequences are not intended to correspond.)
+* **draft** is the working branch where the document is actually written and revised.
 
 
 Authoring convention
