@@ -907,7 +907,12 @@ Acknowledgements
 ================
 
 Thank you to
-(reviewer names)
+Robin Burgess (Glasgow School of Art),
+Eric Kansa (Open Context),
+David Kernohan (Jisc),
+Paolo Missier (Newcastle University),
+and
+Linda Naughton (Jisc)
 for helpful comments.
 
 
