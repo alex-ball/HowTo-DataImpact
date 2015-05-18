@@ -308,7 +308,7 @@ to leave feedback on the dataset's landing page [@kratz2014fia].
 Not only would this provide a scalable source of peer review
 and insights into what makes data reusable,
 it would also provide confirmation that other researchers had attempted to use the data and,
-in the case of a positive review, that the data has made an impact.
+in the case of successful reuse, that the data has made an impact.
 
 
 Impact measurement services
