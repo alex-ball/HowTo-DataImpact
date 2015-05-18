@@ -317,7 +317,17 @@ Impact measurement services
 Thomson Reuters Data Citation Index
 ------------------------------------
 
-In October 2012, Thomson Reuters launched the Data Citation Index (DCI) as part of its Web of Knowledge service [@herther2012trt].
+\marginbox\framed
+\noindent{}**Data Citation Index at a glance**
+
+* *Summary:* counts formal and informal citations of datasets by papers
+* *For:* researchers, librarians, funders
+* *Pricing:* institutional subscription, price on application
+* *URL:* <http://wokinfo.com/products_tools/multidisciplinary/dci/>
+
+\endframed\endmarginbox
+
+\noindent{}In October 2012, Thomson Reuters launched the Data Citation Index (DCI) as part of its Web of Knowledge service [@herther2012trt].
 It provides records at four levels of granularity:
 nanopublication,
 dataset,
@@ -343,7 +353,17 @@ quality assurance procedures [@tr2012res].
 ImpactStory
 -----------
 
-ImpactStory allows researchers to build a profile to showcase their various academic activities.^[ImpactStory, URL: <https://impactstory.org/>.]
+\marginbox[ht]\framed
+\noindent{}**ImpactStory at a glance**
+
+* *Summary:* collects altmetric statistics for a portfolio of scholarly outputs
+* *For:* researchers
+* *Pricing:* US$60 per annum
+* *URL:* <https://impactstory.org/>
+
+\endframed\endmarginbox
+
+\noindent{}ImpactStory allows researchers to build a profile to showcase their various academic activities.^[ImpactStory, URL: <https://impactstory.org/>.]
 After registration, users add to their profile their various scholarly outputs,
 such as articles, presentation slides, videos, data, or software.
 This can be done by quoting their respective URLs or identifiers including PubMed IDs and DOIs.
@@ -375,7 +395,17 @@ and users can vote for the ideas they would like the developers to prioritise.
 PLoS Article-Level Metrics
 --------------------------
 
-In 2009, the Public Library of Science (PLoS) launched its Article-Level Metrics (ALM) service.^[PLoS ALM website, URL: <http://article-level-metrics.plos.org/alm-info/>]
+\marginbox[ht]\framed
+\noindent{}**Article-Level Metrics at a glance**
+
+* *Summary:* collects altmetric statistics for PLoS articles; other publishers/repositories may use the same software
+* *For:* researchers, institutions, funders
+* *Pricing:* Free
+* *URL:* <http://article-level-metrics.plos.org/alm-info/>
+
+\endframed\endmarginbox
+
+\noindent{}In 2009, the Public Library of Science (PLoS) launched its Article-Level Metrics (ALM) service.^[PLoS ALM website, URL: <http://article-level-metrics.plos.org/alm-info/>]
 This compiles a set of impact indicators from PLoS's own systems and various other services,
 and makes them available in both a visual way and via an application programming interface (API).
 
@@ -388,7 +418,7 @@ The metrics compiled include
     on various blogging platforms, or on Wikipedia.
 
 The metrics are displayed on the landing pages for PLoS articles,
-and can also be compiled into custom reports.^[ALM Reports website, URL: <http://almreports.plos.org//>]
+and can also be compiled into custom reports.^[ALM Reports website, URL: <http://almreports.plos.org/>]
 
 PLoS released the source code for the ALM application in 2011.^[Lagotto (Article-Level Metrics) source code repository, URL: <https://github.com/mfenner/lagotto>]
 It was used as the basis of the (now discontinued) ScienceCard service,
@@ -402,7 +432,17 @@ the software itself is resource-type agnostic, so could be applied to datasets.
 PlumX
 -----
 
-PlumX is the main product of Plum Analytics,^[PlumX website, URL: <http://plu.mx/>.]
+\marginbox\framed
+\noindent{}**PlumX at a glance**
+
+* *Summary:* collects altmetric statistics for an organisation's scholarly outputs
+* *For:* institutions, funders, publishers
+* *Pricing:* institutional subscription, price on application
+* *URL:* <http://plu.mx/>
+
+\endframed\endmarginbox
+
+\noindent{}PlumX is the main product of Plum Analytics,^[PlumX website, URL: <http://plu.mx/>.]
 a company formed in 2011 and acquired by EBSCO at the start of 2014 [@harris2014acq].
 It aims to provide a more comprehensive picture of research impact than citations alone,
 and in particular to give insight into the impact that resources have
@@ -448,7 +488,17 @@ by linking their PlumX profiles to accounts they have in other systems
 Altmetric
 ---------
 
-Altmetric is an article-centred service which monitors various sources for mentions of scholarly articles.
+\marginbox\framed
+\noindent{}**Altmetric at a glance**
+
+* *Summary:* collects altmetric statistics for an organisation's scholarly outputs
+* *For:* researchers, institutions, publishers
+* *Pricing:* free for researchers, price on application for commercial/institutional licenses
+* *URL:* <http://www.altmetric.com/>
+
+\endframed\endmarginbox
+
+\noindent{}Altmetric is an article-centred service which monitors various sources for mentions of scholarly articles.
 These sources used include Twitter, Facebook, blogs, newspaper sites and government policy documents.
 On the basis of this information,
 it computes a score intended to indicate the quality and the quantity of the attention received.
@@ -490,7 +540,17 @@ but also a selection of comments harvested from social media.
 ResearchGate Score
 ------------------
 
-ResearchGate is a social networking site for researchers.^[ResearchGate, URL: <https://www.researchgate.net/>.]
+\marginbox\framed
+\noindent{}**ResearchGate at a glance**
+
+* *Summary:* counts citations for a portfolio of scholarly outputs, plus associated internal altmetrics
+* *For:* researchers
+* *Pricing:* free
+* *URL:* <https://www.researchgate.net/>
+
+\endframed\endmarginbox
+
+\noindent{}ResearchGate is a social networking site for researchers.^[ResearchGate, URL: <https://www.researchgate.net/>.]
 Users are encouraged to add their publications to their profile
 and the site generates statistics about views, downloads and citations.
 These statistics are presented to the user in a 'dashboard' display in their profile area on the website
@@ -510,7 +570,17 @@ Users can also request reviews of papers.
 Google Scholar and Microsoft Academic Search
 --------------------------------------------
 
-Google Scholar is a version of the Google search engine focused on scholarly works.^[Google Scholar, URL: <http://scholar.google.com/>.]
+\marginbox\framed
+\noindent{}**Google Scholar at a glance**
+
+* *Summary:* counts citations of scholarly outputs by scholarly outputs
+* *For:* researchers
+* *Pricing:* free
+* *URL:* <http://scholar.google.com/>
+
+\endframed\endmarginbox
+
+\noindent{}Google Scholar is a version of the Google search engine focused on scholarly works.^[Google Scholar, URL: <http://scholar.google.com/>.]
 Among the facilities it provides is an enumeration of the citations each work has received from the others in the database.
 While the automatically generated results can be somewhat approximate,
 researchers can get extra value from the service by setting up a profile and 'claiming' their scholarly works.
@@ -527,6 +597,16 @@ A bar chart of annual citation counts is provided.
 Users with profiles are able to improve the accuracy of the service by curating the entries they have claimed
 (e.g. ensuring there are no duplicates or incorrectly merged entries, correcting bibliographic information)
 and adding others that Google may have missed.
+
+\marginbox[hbt]\framed
+\noindent{}**Microsoft Academic Search at a glance**
+
+* *Summary:* counts citations of scholarly outputs by scholarly outputs
+* *For:* researchers
+* *Pricing:* free
+* *URL:* <http://academic.research.microsoft.com/>
+
+\endframed\endmarginbox
 
 Microsoft Research provides a similar service called Microsoft Academic Search.^[Microsoft Academic Search, URL: <http://academic.research.microsoft.com/>.]
 It too provides citation counts for the works in its database
