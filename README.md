@@ -1,9 +1,9 @@
-How to Measure the Impact of Research Data
+How to Track the Impact of Research Data
 ==========================================
 
 The Digital Curation Centre (DCC) is a centre of expertise in digital information curation, with a focus on research data management. Among its activities is the publication of How-to Guides that provide working knowledge of curation topics. The guides are aimed at people in research or support posts who are new to managing and curating data. 
 
-"How to Measure the Impact of Research Data" is a title in this series, and this is where it is being drafted.
+"How to Track the Impact of Research Data" is a title in this series, and this is where it is being drafted.
 
 
 Branching policy
