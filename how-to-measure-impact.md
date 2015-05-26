@@ -68,7 +68,19 @@ and may identify communities who,
 even though they were not the original intended audience (e.g. the public),
 have an interest in the data.
 
-Institutions can employ data usage monitoring to
+The prospect of measuring the impact of research data is not without controversy. Social 
+and political concerns include the encroachment on academic freedom and creativity and the effects on
+the well-being of researchers working in a culture of measurement. [@kansa2014ins] The limitations of what is being
+measured must also be recognised; awareness is needed of the specific types of impact being recorded, which may not be comprehensive, especially given how broad the consideration of impact could be.  
+The output from tools for tracking impact must also be carefully
+considered. As discussed later, due to the immaturity of the area some of the measurements may not
+be comparable. A note of caution must be sounded if using derived data for decision making: knowledge of the strengths and weaknesses of different metrics must be taken into account. 
+Researchers can however start to use some metrics as indicators of impact
+and follow them up as potential leads that could become the basis of demonstrating impact in a 
+case study.
+
+
+Institutions can also benefit from data usage monitoring in order to
 
 * plan for and monitor the success of the infrastructure providing access to the data,
   in particular to gauge capacity requirements in storage, archival and network systems;
