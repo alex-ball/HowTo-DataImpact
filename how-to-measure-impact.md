@@ -282,6 +282,8 @@ just as it is when analysing traditional citations.
 It can also be informative to track any ensuing conversation –
 replies or forwards (‘retweets’) –
 as these can indicate how far others agree with the sentiments of the original tweet.
+It should be noted that there is a cultural dimension to tweets, for example in some
+communities it is not considered a professional activity for academics.
 
 Social bookmarking and bibliographic services are not used quite so widely as Twitter,
 but are much less 'noisy' as a source of evidence of interest in scholarly outputs.
