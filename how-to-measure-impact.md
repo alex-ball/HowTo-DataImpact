@@ -7,14 +7,15 @@ classoption:
 -   mark=draft
 ---
 
-> This guide will help you to measure the impact of research data,
+> This guide will help you to track and measure the impact of research data,
 > whether your own or that of your department/institution.
 > It provides an overview of the key impact measurement concepts
 > and the services and tools available for measuring impact.
 > After discussing some of the current issues and challenges,
 > it provides some tips on increasing the impact of your own data.
-> This guide should interest researchers and principal investigators working on data-led research,
-> and librarians and administrators working with research quality assessment submissions.
+> This guide should interest researchers and principal investigators working on > data-led research, administrators working with research quality assessment 
+> submissions, librarians and others helping to track the impact of data
+> within institutions.
 
 Why measure the impact of research data?
 ========================================
