@@ -203,6 +203,13 @@ Such papers may be published in a special section of a regular journal,
 or in a dedicated *data journal* such as the *Journal of Open Archaeology Data*.^[*Journal of Open Archaeology Data*, URL: <http://openarchaeologydata.metajnl.com/>.]
 Citations of data papers may be interpreted as citations of the underlying dataset for the purposes of assembling evidence of impact.
 
+One suggestion for going beyond citations in research publications is the idea of data being defined
+within a research object,^[Research Objects, URL: <http://www.researchobject.org>.] rich in metadata.  
+If this idea gains traction, derived data products could then cite the source data, 
+with referencing between data products 
+(or research objects) providing a complementary citing network
+alongside that of publications.
+
 In many disciplines, however, the dominant approach is the traditional one of citing the first paper to make use of the data,
 relying on that paper to indicate if and how the data has been shared.
 It is not usually possible, at least not without significant manual effort,
