@@ -768,6 +768,8 @@ Over such long timescales, changes in understanding can also play a part,
 with some works being ignored for many years before becoming highly influential.
 In such circumstances, impact metrics may give an underestimate of the importance of a work,
 due to it having to 'catch up' with the impact accrued by other works published at the same time.
+In investigating possible correlations between altmetrics and citation rates, Thelwall [@thelwall2013daw] explores
+some of the ways in which time is a factor when interpreting scores.
 
 Tips for raising research data impact
 =====================================
