@@ -13,7 +13,8 @@ classoption:
 > and the services and tools available for measuring impact.
 > After discussing some of the current issues and challenges,
 > it provides some tips on increasing the impact of your own data.
-> This guide should interest researchers and principal investigators working on > data-led research, administrators working with research quality assessment 
+> This guide should interest researchers and principal investigators working on 
+> data-led research, administrators working with research quality assessment 
 > submissions, librarians and others helping to track the impact of data
 > within institutions.
 
@@ -34,7 +35,9 @@ In this part of their proposals,
 researchers are asked to consider how they might maximise the academic, societal and economic impact of their research.
 
 At the other end of the research lifecycle,
-the 2014 Research Excellence Framework (REF) in the UK included impact as an explicit element alongside outputs and environment [@ref2011dar].
+the 2014 Research Excellence Framework (REF) in the UK included impact as an explicit element alongside outputs and environment
+[@ref2011dar].
+Submissions were in the form of case studies of social, economic and cultural benefits and impacts arising from research activity.
 Furthermore, when the Higher Education Funding Council for England (HEFCE)
 – one of the agencies responsible for the REF –
 undertook a review of the role of metrics in research assessment in 2014-2015,
@@ -56,11 +59,25 @@ generating wealth,
 driving industrial innovations,
 addressing pressing societal questions or problems,
 or
-taking account of community priorities during planning stages and successfully addressing them.
+taking account of community priorities during the planning stages of a project and successfully addressing them.
 
-It is in the interests of researchers, therefore, to track the impact of all their research outputs, including datasets.
-There are, however, particular benefits they can realise by analysing how and where their shared datasets are being used.
-By monitoring usage, researchers can get to know which forms of data preparation and data publication work best when sharing their datasets,
+It is in the interests of researchers and institutions, therefore, to track the impact of their research.
+An obvious place to start is with the impact of research outputs, including datasets.
+Admittedly, the prospect of using quantitative measures for this is not without controversy.
+Social and political concerns include the encroachment on academic freedom and creativity,
+and the effects on the well-being of researchers of working in a culture of measurement [@kansa2014ins].
+The limitations of what is being measured must also be recognised:
+awareness is needed of the specific types of impact being recorded,
+which may not be comprehensive especially given how broad the consideration of impact could be.  
+The output from tools for tracking impact must also be carefully considered.
+As discussed below, due to the immaturity of the area some of the measurements may not be comparable.
+A note of caution must be sounded if using derived data for decision making:
+knowledge of the strengths and weaknesses of different metrics must be taken into account. 
+
+Researchers can however start to use some metrics as indicators of impact
+and follow them up as potential leads that could become the basis of demonstrating impact in a case study.
+Furthermore, by monitoring usage of their shared datasets,
+researchers can get to know which forms of data preparation and data publication work best,
 and adjust their practices accordingly.
 By tracking who is reusing their data,
 researchers may uncover opportunities for collaboration from among their peers,
@@ -68,19 +85,7 @@ and may identify communities who,
 even though they were not the original intended audience (e.g. the public),
 have an interest in the data.
 
-The prospect of measuring the impact of research data is not without controversy. Social 
-and political concerns include the encroachment on academic freedom and creativity and the effects on
-the well-being of researchers working in a culture of measurement. [@kansa2014ins] The limitations of what is being
-measured must also be recognised; awareness is needed of the specific types of impact being recorded, which may not be comprehensive, especially given how broad the consideration of impact could be.  
-The output from tools for tracking impact must also be carefully
-considered. As discussed later, due to the immaturity of the area some of the measurements may not
-be comparable. A note of caution must be sounded if using derived data for decision making: knowledge of the strengths and weaknesses of different metrics must be taken into account. 
-Researchers can however start to use some metrics as indicators of impact
-and follow them up as potential leads that could become the basis of demonstrating impact in a 
-case study.
-
-
-Institutions can also benefit from data usage monitoring in order to
+Information gathered from data usage monitoring can assist institutions when they come to
 
 * plan for and monitor the success of the infrastructure providing access to the data,
   in particular to gauge capacity requirements in storage, archival and network systems;
