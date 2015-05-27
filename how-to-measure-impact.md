@@ -777,14 +777,12 @@ the impact of resources measured in raw tweets and posts will naturally seem les
 the further back in time one goes, simply because there were fewer users.
 Similarly, as data citations become more commonplace, what we might consider a
 significantly high citation count today may seem, in raw numbers,
-to be relatively low in future.
+to be relatively low in future [@thelwall2013daw].
 
 Over such long timescales, changes in understanding can also play a part,
 with some works being ignored for many years before becoming highly influential.
 In such circumstances, impact metrics may give an underestimate of the importance of a work,
 due to it having to 'catch up' with the impact accrued by other works published at the same time.
-In investigating possible correlations between altmetrics and citation rates, Thelwall [@thelwall2013daw] explores
-some of the ways in which time is a factor when interpreting scores.
 
 Tips for raising research data impact
 =====================================
