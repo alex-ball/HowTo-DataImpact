@@ -272,7 +272,8 @@ Social media links
 Perhaps the alternative metrics closest to references in journal articles
 are those that measure the topicality of the dataset on social media platforms.
 If people are moved to share or discuss a dataset with friends, colleagues and the wider world,
-there is a strong implication it has had an impact on them.
+there is an implication it has affected them in some way,
+though that might not translate into genuine impact.
 
 Twitter^[Twitter, URL: <http://twitter.com/>.] is a social networking tool that enables users to send short messages known as ‘tweets’ to their followers.
 As they are limited to 140 characters, tweets lend themselves to immediate reaction and brief sentiments.
