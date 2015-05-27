@@ -45,30 +45,30 @@ it considered how they might be used to assess both the quality of academic rese
 
 There are many reasons underlying this emphasis on impact.
 For one, it provides tangible evidence of benefit to weigh against the costs of research.
-For another, the measures commonly used as proxy indicators of impact
-provide an engaging way of comparing peer research programmes across the globe
+For another, it provides an engaging way of comparing peer research programmes across the globe,
+albeit through the lens of proxy indicators,
 when undertaking strategic decision-making or benchmarking.
-It is not, perhaps, ideal for making comparisons across disciplines
+It is not, however, ideal for making comparisons across disciplines
 as each one has its own pattern of impact, operating over a different timescale.
-In order to accommodate these differences as far as possible, though,
+In order to accommodate these differences as far as possible,
 funders tend to take into account a wide variety of ways in which research can be influential.
 This means going beyond a traditional bibliometric analysis of academic outputs
 to consider how wider societal needs have been met by research efforts.
 Research can have impact by influencing practice or policy,
 generating wealth,
 driving industrial innovations,
-addressing pressing societal questions or problems,
+tackling pressing societal questions or problems,
 or
-taking account of community priorities during the planning stages of a project and successfully addressing them.
+meeting the needs of a particular community.
 
-It is in the interests of researchers and institutions, therefore, to track the impact of their research.
+It is therefore in the interests of researchers and institutions to track the impact of their research.
 An obvious place to start is with the impact of research outputs, including datasets.
 Admittedly, the prospect of using quantitative measures for this is not without controversy.
 Social and political concerns include the encroachment on academic freedom and creativity,
 and the effects on the well-being of researchers of working in a culture of measurement [@kansa2014ins].
 The limitations of what is being measured must also be recognised:
 awareness is needed of the specific types of impact being recorded,
-which may not be comprehensive especially given how broad the consideration of impact could be.  
+which may not be comprehensive especially given how broad the consideration of impact could be.
 The output from tools for tracking impact must also be carefully considered.
 As discussed below, due to the immaturity of the area some of the measurements may not be comparable.
 A note of caution must be sounded if using derived data for decision making:
@@ -85,12 +85,15 @@ and may identify communities who,
 even though they were not the original intended audience (e.g. the public),
 have an interest in the data.
 
-Information gathered from data usage monitoring can assist institutions when they come to
+Institutions can benefit from data usage monitoring when they come to
 
 * plan for and monitor the success of the infrastructure providing access to the data,
   in particular to gauge capacity requirements in storage, archival and network systems;
+
 * instigate promotional activities and celebrate data sharing and re-use successes by researchers at the institution;
+
 * create special collections around popular data sets;
+
 * meet funder requirements to safeguard data for the appropriate length of time since last use [@rdmf122014turd].
 
 As an example of the latter points,
@@ -105,7 +108,7 @@ document states it is ‘reasonable to use data citations,
 or any other metric based on reliable sources of evidence and widely accepted at the time,
 to evaluate if interest has been shown in a dataset’ (Expectation VII).]
 can inform decisions about data retention.
-In particular, EPSRC stated it did not expect a dataset to be retained if no interest has been shown in it for a period 10 years (Expectation VII).
+In particular, EPSRC stated it did not expect a dataset to be retained if no interest has been shown in it for a period of 10 years (Expectation VII).
 
 These considerations are all important in the wider movement to
 improve quality and transparency,
@@ -130,15 +133,16 @@ For example, citation counts are often used as a measure of the influence that a
 This already involves one level of inference,
 as papers may be cited for reasons other than acknowledging influence
 (e.g. as part of a refutation, or to acknowledge an unused line of enquiry).
-One may then infer from the impact of the paper something about the impact of each of the authors,
+Building on that, one may infer from the impact of the paper something about the impact of each of the authors,
 the institutions at which they are based,
 the project of which the paper is an output,
 and the body that funded the research;
 but the further removed one gets from the paper,
-the more one has to take that impact in aggregate in order to draw conclusions about the impact of the entity relative to its peers,
-and the more cautious one must be.
+the more cautious one must be.
 
-One measure that does this is the *h*-index, a measure of researcher impact and productivity derived from the citation counts of papers [@hirsch2005iqi].
+At these higher levels of inference, one is typically interested less in individual statistics
+and more in trends arising from aggregate data.
+The *h*-index, for example, is a measure of researcher impact and productivity derived from the citation counts of papers [@hirsch2005iqi].
 Researchers have an index *h* if exactly *h* of their published papers have been cited *h* or more times.
 This way of aggregating the citation counts means that researchers have to produce highly cited papers in quantity in order to score highly;
 a large quantity of poorly cited papers or a one-off influential paper are not enough.
@@ -194,12 +198,20 @@ checking its quality,
 ensuring it is fit for reuse,
 making it searchable and discoverable,
 and guaranteeing its long-term accessibility.
-The resulting dataset is given a stable citation
-so that it can be reliably referenced by other scholarly works.
+The resulting dataset is given stable bibliographic information
+so that it can be reliably cited by other scholarly outputs.
 Such citations can be counted in the usual manner to provide evidence of the impact of the dataset,
 subject to the limitation described above.
 
-While direct citation of datasets is far from widespread,
+The analogy can be taken further, as datasets can meaningfully make references as well as receive citations.
+One suggested formal mechanism for this is to package the data
+within a research object,^[Research Objects, URL: <http://www.researchobject.org>.] rich in metadata.
+If this idea gains traction, derived data products could then cite the source data, 
+with referencing between data products 
+(or research objects) providing a complementary citing network
+alongside that of publications.
+
+While direct citation of and between datasets is far from widespread,
 and may be considered an aspirational end goal,
 some disciplines are taking a transitional approach where citations are made instead to a *data paper*.
 This is a paper that describes the dataset and its collection
@@ -207,13 +219,6 @@ without drawing any scientific conclusions from it.
 Such papers may be published in a special section of a regular journal,
 or in a dedicated *data journal* such as the *Journal of Open Archaeology Data*.^[*Journal of Open Archaeology Data*, URL: <http://openarchaeologydata.metajnl.com/>.]
 Citations of data papers may be interpreted as citations of the underlying dataset for the purposes of assembling evidence of impact.
-
-One suggestion for going beyond citations in research publications is the idea of data being defined
-within a research object,^[Research Objects, URL: <http://www.researchobject.org>.] rich in metadata.  
-If this idea gains traction, derived data products could then cite the source data, 
-with referencing between data products 
-(or research objects) providing a complementary citing network
-alongside that of publications.
 
 In many disciplines, however, the dominant approach is the traditional one of citing the first paper to make use of the data,
 relying on that paper to indicate if and how the data has been shared.
@@ -235,7 +240,8 @@ One such scheme is the Digital Object Identifier (DOI),
 for which DataCite is the main Registration Agency for research datasets.
 Among the services it provides is DataCite Statistics,^[DataCite Statistics, URL: <http://stats.datacite.org/>.]
 which shows on a monthly basis the number of times the top ten DOIs for each prefix have been resolved to a URL.
-This gives an indication of how often references to the dataset have been followed.
+Account holders have access to resolution data for all the DOIs they manage.
+These statistics give an indication of how often references to the dataset have been followed.
 
 Page views
 ----------
@@ -739,16 +745,17 @@ Gaming the system
 Gaming of metrics can be described as
 ‘behaviour that is meant to unfairly manipulate those metrics, generally for one's benefit’
 [@niso2014ami].
-If tweets are considered evidence of impact,
-then setting up a hundred fake Twitter accounts to tweet about one's work
-would be an example of this [@haustein2015tii].
 An example from traditional bibliometrics is the citation ring,
 where a group of authors agree to cite each other extensively,
 regardless of the actual mutual impact of the papers [@ferguson.etal2014ppr].
-At the other extreme, self-citation and tweeting about one's own work are not considered unethical,
-but such practices need to be recognised and factored into calculations [@featherstone2014stm]
+If tweets are considered evidence of impact,
+then setting up a hundred fake Twitter accounts to tweet about one's work
+would be an example of gaming the system [@haustein2015tii].
+On the other hand, self-citation and tweeting about one's own work would not be considered unethical;
+neither would a repository setting up an account that automatically tweets about new deposits.
 The consensus is still emerging on where the line lies between these two extremes
-of acceptable promotion and cheating [@niso2014ami].
+of acceptable promotion and cheating,
+but even acceptable practices need to be recognised and factored into calculations [@featherstone2014stm].
 
 The effects of time
 -------------------
@@ -763,7 +770,7 @@ while traditional citations are more reliable for measuring longer-term impact.
 This is an easier argument to make for journal papers and monographs than data,
 as for the reasons outlined above datasets may not receive a representative number of citations.
 
-It should also be noted when taking a view of impact over long timescales
+It should be noted when taking a view of impact over long timescales
 that changes in the landscape will have a significant effect.
 Due to the growth in usage of services like Twitter and Facebook,
 the impact of resources measured in raw tweets and posts will naturally seem less
