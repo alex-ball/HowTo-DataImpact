@@ -351,7 +351,7 @@ Impact measurement services
 Thomson Reuters Data Citation Index
 ------------------------------------
 
-\marginbox\framed
+\marginbox[hbt]\framed
 \noindent{}**Data Citation Index at a glance**
 
 * *Summary:* counts formal and informal citations of datasets by papers
@@ -387,7 +387,7 @@ quality assurance procedures [@tr2012res].
 ImpactStory
 -----------
 
-\marginbox[ht]\framed
+\marginbox[hbt]\framed
 \noindent{}**ImpactStory at a glance**
 
 * *Summary:* collects altmetric statistics for a portfolio of scholarly outputs
@@ -429,7 +429,7 @@ and users can vote for the ideas they would like the developers to prioritise.
 PLoS Article-Level Metrics
 --------------------------
 
-\marginbox[ht]\framed
+\marginbox[hbt]\framed
 \noindent{}**Article-Level Metrics at a glance**
 
 * *Summary:* collects altmetric statistics for PLoS articles; other publishers/repositories may use the same software
@@ -466,7 +466,7 @@ the software itself is resource-type agnostic, so could be applied to datasets.
 PlumX
 -----
 
-\marginbox\framed
+\marginbox[hbt]\framed
 \noindent{}**PlumX at a glance**
 
 * *Summary:* collects altmetric statistics for an organisation's scholarly outputs
@@ -522,7 +522,7 @@ by linking their PlumX profiles to accounts they have in other systems
 Altmetric
 ---------
 
-\marginbox\framed
+\marginbox[hbt]\framed
 \noindent{}**Altmetric at a glance**
 
 * *Summary:* collects altmetric statistics for an organisation's scholarly outputs
@@ -571,10 +571,12 @@ The view may be configured using different time periods and subsets of articles.
 For each article it displays not only the altmetric badge
 but also a selection of comments harvested from social media.
 
+![Altmetric badge for supplementary data hosted by Figshare](altmetric-donut.png)
+
 ResearchGate Score
 ------------------
 
-\marginbox\framed
+\marginbox[hbt]\framed
 \noindent{}**ResearchGate at a glance**
 
 * *Summary:* counts citations for a portfolio of scholarly outputs, plus associated internal altmetrics
@@ -604,7 +606,7 @@ Users can also request reviews of papers.
 Google Scholar and Microsoft Academic Search
 --------------------------------------------
 
-\marginbox\framed
+\marginbox[hbt]\framed
 \noindent{}**Google Scholar at a glance**
 
 * *Summary:* counts citations of scholarly outputs by scholarly outputs
