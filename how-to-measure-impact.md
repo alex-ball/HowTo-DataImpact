@@ -89,11 +89,8 @@ Institutions can benefit from data usage monitoring when they come to
 
 * plan for and monitor the success of the infrastructure providing access to the data,
   in particular to gauge capacity requirements in storage, archival and network systems;
-
 * instigate promotional activities and celebrate data sharing and re-use successes by researchers at the institution;
-
 * create special collections around popular data sets;
-
 * meet funder requirements to safeguard data for the appropriate length of time since last use [@rdmf122014turd].
 
 As an example of the latter points,
@@ -185,6 +182,16 @@ that may be of greater long-term benefit to their field of study.
 For this reason, researchers and organisations have been exploring ways
 of measuring impact that go beyond counting citations between traditional
 journal papers.
+
+\marginbox\shaded\italicquotes
+
+> Traditionally, we have attempted to measure the impact of the journal in which that research was published
+> as a proxy for the impact of the research itself.
+> However, this method is becoming increasingly problematic as more research is 
+> created and disseminated digitally and in forms beyond the traditional journal article.
+> \quotefrom – Andy Wesolek [@wesolek2014mui]
+
+\endshaded\endmarginbox
 
 Citations of data
 -----------------
@@ -297,6 +304,14 @@ as these can indicate how far others agree with the sentiments of the original t
 It should be noted that there is a cultural dimension to tweets, for example in some
 communities it is not considered a professional activity for academics.
 
+\marginbox\shaded\italicquotes
+
+> Applying altmetrics to data could be even more useful than for papers;
+> data not well cited, but much interest in how they are used [#1amconf](https://twitter.com/hashtag/1amconf)
+> \quotefrom – Eleanor Beal (via Twitter) [@beal2014twitter]
+
+\endshaded\endmarginbox
+
 Social bookmarking and bibliographic services are not used quite so widely as Twitter,
 but are much less 'noisy' as a source of evidence of interest in scholarly outputs.
 Services such as Mendeley, CiteULike, BibSonomy and Delicious
@@ -351,13 +366,13 @@ Impact measurement services
 Thomson Reuters Data Citation Index
 ------------------------------------
 
-\marginbox[hbt]\framed
+\marginbox[h]\framed
 \noindent{}**Data Citation Index at a glance**
 
-* *Summary:* counts formal and informal citations of datasets by papers
+* Counts formal and informal citations of datasets by papers
 * *For:* researchers, librarians, funders
 * *Pricing:* institutional subscription, price on application
-* *URL:* <http://wokinfo.com/products_tools/multidisciplinary/dci/>
+* <http://wokinfo.com/products_tools/multidisciplinary/dci/>
 
 \endframed\endmarginbox
 
@@ -387,13 +402,13 @@ quality assurance procedures [@tr2012res].
 ImpactStory
 -----------
 
-\marginbox[hbt]\framed
+\marginbox[ht]\framed
 \noindent{}**ImpactStory at a glance**
 
-* *Summary:* collects altmetric statistics for a portfolio of scholarly outputs
+* Collects altmetric statistics for a portfolio of scholarly outputs
 * *For:* researchers
 * *Pricing:* US$60 per annum
-* *URL:* <https://impactstory.org/>
+* <https://impactstory.org/>
 
 \endframed\endmarginbox
 
@@ -429,13 +444,13 @@ and users can vote for the ideas they would like the developers to prioritise.
 PLoS Article-Level Metrics
 --------------------------
 
-\marginbox[hbt]\framed
+\marginbox[ht]\framed
 \noindent{}**Article-Level Metrics at a glance**
 
-* *Summary:* collects altmetric statistics for PLoS articles; other publishers/repositories may use the same software
+* Collects altmetric statistics for PLoS articles; other publishers/repositories may use the same software
 * *For:* researchers, institutions, funders
 * *Pricing:* Free
-* *URL:* <http://article-level-metrics.plos.org/alm-info/>
+* <http://article-level-metrics.plos.org/alm-info/>
 
 \endframed\endmarginbox
 
@@ -466,13 +481,13 @@ the software itself is resource-type agnostic, so could be applied to datasets.
 PlumX
 -----
 
-\marginbox[hbt]\framed
+\marginbox[ht]\framed
 \noindent{}**PlumX at a glance**
 
-* *Summary:* collects altmetric statistics for an organisation's scholarly outputs
+* Collects altmetric statistics for an organisation's scholarly outputs
 * *For:* institutions, funders, publishers
 * *Pricing:* institutional subscription, price on application
-* *URL:* <http://plu.mx/>
+* <http://plu.mx/>
 
 \endframed\endmarginbox
 
@@ -519,16 +534,31 @@ Researchers can help seed the information available
 by linking their PlumX profiles to accounts they have in other systems
 (e.g. Slideshare, GitHub) [@michalek2014plu].
 
+\marginbox[ht]\framed
+\noindent{}**Example**
+
+\smallskip
+\noindent{}When Jason Colditz wrote a blog post on Open Access publishing,
+he illustrated it with a flowchart of the publication process that he
+simultaneously deposited in figshare [@colditz2012ppo].
+His institution's PlumX profile tracks interest in the figure.^[
+PlumX profile for the figure 'Publication Process with OA', URL: <https://plu.mx/a/22ogwhQ4i9naHqqVVtbKuB8m1MoJ9sfe83lmONsd_u0>]
+
+\smallskip\centering
+![PlumX profile for the figure 'Publication Process with OA'](plumx-profile.png)
+
+\endframed\endmarginbox
+
 Altmetric
 ---------
 
-\marginbox[hbt]\framed
+\marginbox[ht]\framed
 \noindent{}**Altmetric at a glance**
 
-* *Summary:* collects altmetric statistics for an organisation's scholarly outputs
+* Collects altmetric statistics for an organisation's scholarly outputs
 * *For:* researchers, institutions, publishers
 * *Pricing:* free for researchers, price on application for commercial/institutional licenses
-* *URL:* <http://www.altmetric.com/>
+* <http://www.altmetric.com/>
 
 \endframed\endmarginbox
 
@@ -571,18 +601,31 @@ The view may be configured using different time periods and subsets of articles.
 For each article it displays not only the altmetric badge
 but also a selection of comments harvested from social media.
 
-![Altmetric badge for supplementary data hosted by Figshare](altmetric-donut.png)
+\marginbox[ht]\framed
+\noindent{}**Example**
+
+\smallskip
+\noindent{}3D PDF images of a gigantic dinosaur ‘Dreadoughtus schrani’ were deposited in figshare [@lacovara2014dsp].
+This was picked up by the media.
+The various mentions in blogs, tweets, news outlets and other sources were tracked with Altmetric,
+which ranked the item in the top 5% of all items scored by them.^[
+Altmetric page for Dreadnoughtus schrani 3D PDF images, URL: <http://www.altmetric.com/details/2653335#score>]
+
+\smallskip\centering
+![Altmetric badge for Dreadnoughtus schrani 3D PDF images](altmetric-donut.png)
+
+\endframed\endmarginbox
 
 ResearchGate Score
 ------------------
 
-\marginbox[hbt]\framed
+\marginbox[ht]\framed
 \noindent{}**ResearchGate at a glance**
 
-* *Summary:* counts citations for a portfolio of scholarly outputs, plus associated internal altmetrics
+* Counts citations for a portfolio of scholarly outputs, plus associated internal altmetrics
 * *For:* researchers
 * *Pricing:* free
-* *URL:* <https://www.researchgate.net/>
+* <https://www.researchgate.net/>
 
 \endframed\endmarginbox
 
@@ -606,13 +649,13 @@ Users can also request reviews of papers.
 Google Scholar and Microsoft Academic Search
 --------------------------------------------
 
-\marginbox[hbt]\framed
+\marginbox[ht]\framed
 \noindent{}**Google Scholar at a glance**
 
-* *Summary:* counts citations of scholarly outputs by scholarly outputs
+* Counts citations of scholarly outputs by scholarly outputs
 * *For:* researchers
 * *Pricing:* free
-* *URL:* <http://scholar.google.com/>
+* <http://scholar.google.com/>
 
 \endframed\endmarginbox
 
@@ -634,13 +677,13 @@ Users with profiles are able to improve the accuracy of the service by curating 
 (e.g. ensuring there are no duplicates or incorrectly merged entries, correcting bibliographic information)
 and adding others that Google may have missed.
 
-\marginbox[hbt]\framed
+\marginbox[ht]\framed
 \noindent{}**Microsoft Academic Search at a glance**
 
-* *Summary:* counts citations of scholarly outputs by scholarly outputs
+* Counts citations of scholarly outputs by scholarly outputs
 * *For:* researchers
 * *Pricing:* free
-* *URL:* <http://academic.research.microsoft.com/>
+* <http://academic.research.microsoft.com/>
 
 \endframed\endmarginbox
 
@@ -724,6 +767,16 @@ it is unlikely they will be relied upon too heavily when apportioning rewards to
 Even so, though currently available metrics may not be stable enough to judge relative impact,
 they can still be used on a case-by-case basis as evidence of impact in an absolute sense.
 
+\marginbox[ht]\shaded\italicquotes
+
+> Altmetrics data is out there right now, and it's building pictures – fuzzy though they may be – 
+> of impact that are richer, broader, and more nuanced than anything we've ever seen before.
+> Right now, today, altmetrics can mean the difference between a story and 'data-supported story',
+> and that's a pretty important difference.
+> \quotefrom – Jason Priem [@niso2012bpp]
+
+\endshaded\endmarginbox
+
 Impact versus quality
 ---------------------
 
@@ -740,6 +793,15 @@ do so because they object to the emphasis shifting away from quality towards imp
 While researchers have a great deal of control over the quality of their outputs,
 the level of impact they receive, especially as judged by a set of metrics,
 depends on many factors outside their influence.
+
+\marginbox[ht]\shaded\italicquotes
+
+> Nobody really knows exactly what it means, but what we're scoring is attention,
+> it's not quality... At this stage it's more about collecting the data and
+> seeing what's in there.
+> \quotefrom – Euan Adie, Altmetric [@laursen2012arm]
+
+\endshaded\endmarginbox
 
 Gaming the system
 -----------------
@@ -957,6 +1019,7 @@ Further information
 ===================
 
 \setlength{\parindent}{0pt}\nonzeroparskip\color{dccblue}\small
+Two other DCC guides are related to this topic:
 
   * ‘How to Cite Datasets and Link to Publications’ by Alex Ball and Monica Duke
 
