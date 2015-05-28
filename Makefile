@@ -27,7 +27,7 @@ html: tmp $(BIB).bib dcchowto-apa.csl dcchowto-template.html
 	perl -0777 -p -i -e 's@<sup>(\d+)</sup>@<sup>[\1]</sup>@ig' $(NAME).html
 dtp: $(NAME).md $(BIB).bib dcchowto-template.latex
 	pandoc -s -S --biblatex -V biblio-files=$(BIB).bib --template=dcchowto-template $(NAME).md -t latex -o $(NAME).tex
-	perl -0777 -p -i -e 's@,\sURL:@, \\smallcaps{URL}:@igms' $(NAME).tex
+	perl -0777 -p -i -e 's@,\s+URL:@, \\smallcaps{URL}:@igms' $(NAME).tex
 	perl -0777 -p -i -e 's@\\texttt\{\\textless\{\}\}@\$$\\langle\$$@ig' $(NAME).tex
 	perl -0777 -p -i -e 's@\\texttt\{\\textgreater\{\}\}@\$$\\rangle\$$@ig' $(NAME).tex
 	perl -0777 -p -i -e 's@\\fullcite\{([^}]+)\}\\autocite\{\1\}@\\fullcite{\1}@ig' $(NAME).tex
