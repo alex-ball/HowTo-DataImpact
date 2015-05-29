@@ -4,7 +4,7 @@ author:
 -   Alex Ball (DCC)
 -   Monica Duke (DCC)
 classoption:
--   mark=draft
+-   mark=rc
 ---
 
 > This guide will help you to track and measure the impact of research data,
