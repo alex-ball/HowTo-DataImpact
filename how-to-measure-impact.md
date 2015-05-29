@@ -183,7 +183,7 @@ For this reason, researchers and organisations have been exploring ways
 of measuring impact that go beyond counting citations between traditional
 journal papers.
 
-\marginbox\shaded\italicquotes
+\marginbox
 
 > Traditionally, we have attempted to measure the impact of the journal in which that research was published
 > as a proxy for the impact of the research itself.
@@ -191,7 +191,7 @@ journal papers.
 > created and disseminated digitally and in forms beyond the traditional journal article.
 > \quotefrom – Andy Wesolek [@wesolek2014mui]
 
-\endshaded\endmarginbox
+\endmarginbox
 
 Citations of data
 -----------------
@@ -304,13 +304,13 @@ as these can indicate how far others agree with the sentiments of the original t
 It should be noted that there is a cultural dimension to tweets, for example in some
 communities it is not considered a professional activity for academics.
 
-\marginbox\shaded\italicquotes
+\marginbox
 
 > Applying altmetrics to data could be even more useful than for papers;
 > data not well cited, but much interest in how they are used [#1amconf](https://twitter.com/hashtag/1amconf)
 > \quotefrom – Eleanor Beal (via Twitter) [@beal2014twitter]
 
-\endshaded\endmarginbox
+\endmarginbox
 
 Social bookmarking and bibliographic services are not used quite so widely as Twitter,
 but are much less 'noisy' as a source of evidence of interest in scholarly outputs.
@@ -782,7 +782,7 @@ it is unlikely they will be relied upon too heavily when apportioning rewards to
 Even so, though currently available metrics may not be stable enough to judge relative impact,
 they can still be used on a case-by-case basis as evidence of impact in an absolute sense.
 
-\marginbox[ht]\shaded\italicquotes
+\marginbox[ht]
 
 > Altmetrics data is out there right now, and it's building pictures – fuzzy though they may be – 
 > of impact that are richer, broader, and more nuanced than anything we've ever seen before.
@@ -790,8 +790,9 @@ they can still be used on a case-by-case basis as evidence of impact in an absol
 > and that's a pretty important difference.
 > \quotefrom – Jason Priem [@niso2012bpp]
 
-\endshaded\endmarginbox
+\endmarginbox
 
+\vspace{-1\baselineskip}
 Impact versus quality
 ---------------------
 
@@ -809,15 +810,16 @@ While researchers have a great deal of control over the quality of their outputs
 the level of impact they receive, especially as judged by a set of metrics,
 depends on many factors outside their influence.
 
-\marginbox[ht]\shaded\italicquotes
+\marginbox[ht]
 
 > Nobody really knows exactly what it means, but what we're scoring is attention,
-> it's not quality... At this stage it's more about collecting the data and
+> it's not quality. [...] At this stage it's more about collecting the data and
 > seeing what's in there.
 > \quotefrom – Euan Adie, Altmetric [@laursen2012arm]
 
-\endshaded\endmarginbox
+\endmarginbox
 
+\vspace{-1\baselineskip}
 Gaming the system
 -----------------
 
