@@ -1040,6 +1040,7 @@ Paolo Missier (Newcastle University),
 and
 Linda Naughton (Jisc)
 for helpful comments.
+\balance
 
 
 Further information
