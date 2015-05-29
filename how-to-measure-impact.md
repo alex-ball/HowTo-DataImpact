@@ -1,20 +1,22 @@
 ---
-title: How to Measure the Impact of Research Data
+title: How to Track the Impact of Research Data
 author:
 -   Alex Ball (DCC)
 -   Monica Duke (DCC)
 classoption:
--   mark=draft
+-   mark=rc
 ---
 
-> This guide will help you to measure the impact of research data,
+> This guide will help you to track and measure the impact of research data,
 > whether your own or that of your department/institution.
 > It provides an overview of the key impact measurement concepts
 > and the services and tools available for measuring impact.
 > After discussing some of the current issues and challenges,
 > it provides some tips on increasing the impact of your own data.
-> This guide should interest researchers and principal investigators working on data-led research,
-> and librarians and administrators working with research quality assessment submissions.
+> This guide should interest researchers and principal investigators working on 
+> data-led research, administrators working with research quality assessment 
+> submissions, librarians and others helping to track the impact of data
+> within institutions.
 
 Why measure the impact of research data?
 ========================================
@@ -33,7 +35,9 @@ In this part of their proposals,
 researchers are asked to consider how they might maximise the academic, societal and economic impact of their research.
 
 At the other end of the research lifecycle,
-the 2014 Research Excellence Framework (REF) in the UK included impact as an explicit element alongside outputs and environment [@ref2011dar].
+the 2014 Research Excellence Framework (REF) in the UK included impact as an explicit element alongside outputs and environment
+[@ref2011dar].
+Submissions were in the form of case studies of social, economic and cultural benefits and impacts arising from research activity.
 Furthermore, when the Higher Education Funding Council for England (HEFCE)
 – one of the agencies responsible for the REF –
 undertook a review of the role of metrics in research assessment in 2014-2015,
@@ -41,25 +45,39 @@ it considered how they might be used to assess both the quality of academic rese
 
 There are many reasons underlying this emphasis on impact.
 For one, it provides tangible evidence of benefit to weigh against the costs of research.
-For another, it is an intuitive indicator to use when comparing peer research programmes across the globe on the basis of importance or value for money.
-It is not, perhaps, ideal for making comparisons across disciplines
+For another, it provides an engaging way of comparing peer research programmes across the globe,
+albeit through the lens of proxy indicators,
+when undertaking strategic decision-making or benchmarking.
+It is not, however, ideal for making comparisons across disciplines
 as each one has its own pattern of impact, operating over a different timescale.
-In order to accommodate these differences as far as possible, though,
+In order to accommodate these differences as far as possible,
 funders tend to take into account a wide variety of ways in which research can be influential.
 This means going beyond a traditional bibliometric analysis of academic outputs
 to consider how wider societal needs have been met by research efforts.
-When research influences practice or policy,
-generates wealth,
-drives industrial innovations,
-addresses pressing societal questions or problems,
+Research can have impact by influencing practice or policy,
+generating wealth,
+driving industrial innovations,
+tackling pressing societal questions or problems,
 or
-responds to community priorities during planning stages
-(such as taking account of patients' views when designing medical studies),
-its impact has been broadened.
+meeting the needs of a particular community.
 
-It is in the interests of researchers, therefore, to track the impact of all their research outputs, including datasets.
-There are, however, particular benefits they can realise by analysing how and where their shared datasets are being used.
-By monitoring usage, researchers can get to know which forms of data preparation and data publication work best when sharing their datasets,
+It is therefore in the interests of researchers and institutions to track the impact of their research.
+An obvious place to start is with the impact of research outputs, including datasets.
+Admittedly, the prospect of using quantitative measures for this is not without controversy.
+Social and political concerns include the encroachment on academic freedom and creativity,
+and the effects on the well-being of researchers of working in a culture of measurement [@kansa2014ins].
+The limitations of what is being measured must also be recognised:
+awareness is needed of the specific types of impact being recorded,
+which may not be comprehensive especially given how broad the consideration of impact could be.
+The output from tools for tracking impact must also be carefully considered.
+As discussed below, due to the immaturity of the area some of the measurements may not be comparable.
+A note of caution must be sounded if using derived data for decision making:
+knowledge of the strengths and weaknesses of different metrics must be taken into account. 
+
+Researchers can however start to use some metrics as indicators of impact
+and follow them up as potential leads that could become the basis of demonstrating impact in a case study.
+Furthermore, by monitoring usage of their shared datasets,
+researchers can get to know which forms of data preparation and data publication work best,
 and adjust their practices accordingly.
 By tracking who is reusing their data,
 researchers may uncover opportunities for collaboration from among their peers,
@@ -67,11 +85,12 @@ and may identify communities who,
 even though they were not the original intended audience (e.g. the public),
 have an interest in the data.
 
-Institutions can employ data usage monitoring to
+Institutions can benefit from data usage monitoring when they come to
 
+* plan for and monitor the success of the infrastructure providing access to the data,
+  in particular to gauge capacity requirements in storage, archival and network systems;
 * instigate promotional activities and celebrate data sharing and re-use successes by researchers at the institution;
 * create special collections around popular data sets;
-* plan for and monitor the success of the infrastructure providing access to the data;
 * meet funder requirements to safeguard data for the appropriate length of time since last use [@rdmf122014turd].
 
 As an example of the latter points,
@@ -86,7 +105,7 @@ document states it is ‘reasonable to use data citations,
 or any other metric based on reliable sources of evidence and widely accepted at the time,
 to evaluate if interest has been shown in a dataset’ (Expectation VII).]
 can inform decisions about data retention.
-In particular, EPSRC stated it did not expect a dataset to be retained if no interest has been shown in it for a period 10 years (Expectation VII).
+In particular, EPSRC stated it did not expect a dataset to be retained if no interest has been shown in it for a period of 10 years (Expectation VII).
 
 These considerations are all important in the wider movement to
 improve quality and transparency,
@@ -100,18 +119,27 @@ Impact measurement concepts
 ===========================
 
 Impact is, in its figurative sense, the effect or influence that one agent, event or resource has on another.
-When measuring impact, it is therefore important to bear in mind whose impact is being measured,
-and the extent to which one may use that metric to infer the impact of another entity.
+It is distinct from, but related to, concepts such as
+*attention* (how many people know about the entity)
+and *dissemination* (how widely a resource has been distributed).
+When considering proposed metrics,
+it is therefore important to consider what exactly is being measured
+and how many steps of inference lie between it and the impact of the entity in which one is interested.
 
-For example, citation counts are one way of measuring the influence that a paper has on subsequent literature in a discipline.
-One may infer from the impact of the paper something about the impact of each of the authors,
+For example, citation counts are often used as a measure of the influence that a paper has on subsequent literature in a discipline.
+This already involves one level of inference,
+as papers may be cited for reasons other than acknowledging influence
+(e.g. as part of a refutation, or to acknowledge an unused line of enquiry).
+Building on that, one may infer from the impact of the paper something about the impact of each of the authors,
 the institutions at which they are based,
 the project of which the paper is an output,
 and the body that funded the research;
 but the further removed one gets from the paper,
-the more one has to take that impact in aggregate in order to draw conclusions about the impact of the entity relative to its peers.
+the more cautious one must be.
 
-One measure that does this is the *h*-index, a measure of researcher impact and productivity derived from the citation counts of papers [@hirsch2005iqi].
+At these higher levels of inference, one is typically interested less in individual statistics
+and more in trends arising from aggregate data.
+The *h*-index, for example, is a measure of researcher impact and productivity derived from the citation counts of papers [@hirsch2005iqi].
 Researchers have an index *h* if exactly *h* of their published papers have been cited *h* or more times.
 This way of aggregating the citation counts means that researchers have to produce highly cited papers in quantity in order to score highly;
 a large quantity of poorly cited papers or a one-off influential paper are not enough.
@@ -155,11 +183,21 @@ For this reason, researchers and organisations have been exploring ways
 of measuring impact that go beyond counting citations between traditional
 journal papers.
 
+\marginbox
+
+> Traditionally, we have attempted to measure the impact of the journal in which that research was published
+> as a proxy for the impact of the research itself.
+> However, this method is becoming increasingly problematic as more research is 
+> created and disseminated digitally and in forms beyond the traditional journal article.
+> \quotefrom – Andy Wesolek [@wesolek2014mui]
+
+\endmarginbox
+
 Citations of data
 -----------------
 
 The most mature emerging model for measuring the impact of data
-is one that is analogous to the publication and citation of literature [ke2013vrd].
+is one that is analogous to the publication and citation of literature [@ke2013vrd].
 Going beyond mere data sharing,
 where data is simply made available (e.g. as files on a website),
 data publication implies that the data has entered a framework for
@@ -167,18 +205,27 @@ checking its quality,
 ensuring it is fit for reuse,
 making it searchable and discoverable,
 and guaranteeing its long-term accessibility.
-The resulting dataset is given a stable citation
-so that it can be reliably referenced by other scholarly works.
-Such citations can be counted in the usual manner to provide evidence of the impact of the dataset.
+The resulting dataset is given stable bibliographic information
+so that it can be reliably cited by other scholarly outputs.
+Such citations can be counted in the usual manner to provide evidence of the impact of the dataset,
+subject to the limitation described above.
 
-While direct citation of datasets is far from widespread,
+The analogy can be taken further, as datasets can meaningfully make references as well as receive citations.
+One suggested formal mechanism for this is to package the data
+within a research object,^[Research Objects, URL: <http://www.researchobject.org>.] rich in metadata.
+If this idea gains traction, derived data products could then cite the source data, 
+with referencing between data products 
+(or research objects) providing a complementary citing network
+alongside that of publications.
+
+While direct citation of and between datasets is far from widespread,
 and may be considered an aspirational end goal,
 some disciplines are taking a transitional approach where citations are made instead to a *data paper*.
 This is a paper that describes the dataset and its collection
 without drawing any scientific conclusions from it.
 Such papers may be published in a special section of a regular journal,
 or in a dedicated *data journal* such as the *Journal of Open Archaeology Data*.^[*Journal of Open Archaeology Data*, URL: <http://openarchaeologydata.metajnl.com/>.]
-Citations of data papers can still be used straightforwardly to provide evidence of the impact of the corresponding dataset.
+Citations of data papers may be interpreted as citations of the underlying dataset for the purposes of assembling evidence of impact.
 
 In many disciplines, however, the dominant approach is the traditional one of citing the first paper to make use of the data,
 relying on that paper to indicate if and how the data has been shared.
@@ -187,7 +234,7 @@ to identify whether citations to such papers should count towards
 the impact of the argumentation and conclusions of the paper,
 the underlying dataset,
 or both.
-In such disciplines, therefore, citation counts are of little help as a metric of data impact, so alternative metrics must be found.
+In such disciplines, therefore, citation counts are of little help as an indicator of data impact, so alternative indicators must be found.
 
 Resolutions
 -----------
@@ -200,7 +247,8 @@ One such scheme is the Digital Object Identifier (DOI),
 for which DataCite is the main Registration Agency for research datasets.
 Among the services it provides is DataCite Statistics,^[DataCite Statistics, URL: <http://stats.datacite.org/>.]
 which shows on a monthly basis the number of times the top ten DOIs for each prefix have been resolved to a URL.
-This gives an indication of how often references to the dataset have been followed.
+Account holders have access to resolution data for all the DOIs they manage.
+These statistics give an indication of how often references to the dataset have been followed.
 
 Page views
 ----------
@@ -237,7 +285,8 @@ Social media links
 Perhaps the alternative metrics closest to references in journal articles
 are those that measure the topicality of the dataset on social media platforms.
 If people are moved to share or discuss a dataset with friends, colleagues and the wider world,
-there is a strong implication it has had an impact on them.
+there is an implication it has affected them in some way,
+though that might not translate into genuine impact.
 
 Twitter^[Twitter, URL: <http://twitter.com/>.] is a social networking tool that enables users to send short messages known as ‘tweets’ to their followers.
 As they are limited to 140 characters, tweets lend themselves to immediate reaction and brief sentiments.
@@ -252,6 +301,16 @@ just as it is when analysing traditional citations.
 It can also be informative to track any ensuing conversation –
 replies or forwards (‘retweets’) –
 as these can indicate how far others agree with the sentiments of the original tweet.
+It should be noted that there is a cultural dimension to tweets, for example in some
+communities it is not considered a professional activity for academics.
+
+\marginbox
+
+> Applying altmetrics to data could be even more useful than for papers;
+> data not well cited, but much interest in how they are used [#1amconf](https://twitter.com/hashtag/1amconf)
+> \quotefrom – Eleanor Beal (via Twitter) [@beal2014twitter]
+
+\endmarginbox
 
 Social bookmarking and bibliographic services are not used quite so widely as Twitter,
 but are much less 'noisy' as a source of evidence of interest in scholarly outputs.
@@ -298,7 +357,7 @@ to leave feedback on the dataset's landing page [@kratz2014fia].
 Not only would this provide a scalable source of peer review
 and insights into what makes data reusable,
 it would also provide confirmation that other researchers had attempted to use the data and,
-in the case of a positive review, that the data has made an impact.
+in the case of successful reuse, that the data has made an impact.
 
 
 Impact measurement services
@@ -307,7 +366,17 @@ Impact measurement services
 Thomson Reuters Data Citation Index
 ------------------------------------
 
-In October 2012, Thomson Reuters launched the Data Citation Index (DCI) as part of its Web of Knowledge service [@herther2012trt].
+\marginbox[h]\framed
+\noindent{}**Data Citation Index at a glance**
+
+* Counts formal and informal citations of datasets by papers
+* *For:* researchers, librarians, funders
+* *Pricing:* institutional subscription, price on application
+* <http://wokinfo.com/products_tools/multidisciplinary/dci/>
+
+\endframed\endmarginbox
+
+\noindent{}In October 2012, Thomson Reuters launched the Data Citation Index (DCI) as part of its Web of Knowledge service [@herther2012trt].
 It provides records at four levels of granularity:
 nanopublication,
 dataset,
@@ -333,7 +402,17 @@ quality assurance procedures [@tr2012res].
 ImpactStory
 -----------
 
-ImpactStory allows researchers to build a profile to showcase their various academic activities.^[ImpactStory, URL: <https://impactstory.org/>.]
+\marginbox[ht]\framed
+\noindent{}**ImpactStory at a glance**
+
+* Collects altmetric statistics for a portfolio of scholarly outputs
+* *For:* researchers
+* *Pricing:* US$60 per annum
+* <https://impactstory.org/>
+
+\endframed\endmarginbox
+
+\noindent{}ImpactStory allows researchers to build a profile to showcase their various academic activities.^[ImpactStory, URL: <https://impactstory.org/>.]
 After registration, users add to their profile their various scholarly outputs,
 such as articles, presentation slides, videos, data, or software.
 This can be done by quoting their respective URLs or identifiers including PubMed IDs and DOIs.
@@ -362,10 +441,35 @@ The code and governance of the service are also open.
 Ideas for further development of the service are invited through a feedback forum,
 and users can vote for the ideas they would like the developers to prioritise.
 
+\marginbox[ht]\framed
+\noindent{}**Example**
+
+\smallskip
+\noindent{}'Mousing over' elements of an ImpactStory profile reveals more information.
+The pop-up for Bik et al.'s 2012 dataset on benthic microbial eukaryote communities
+reveals it has received more Dryad views than 86% of the datasets from that year
+tracked by the service~.^[
+Holly Bik's ImpactStory profile – datasets, URL: <https://impactstory.org/HollyBik/products/datasets>]
+
+\smallskip\centering
+![Holly Bik's datasets as tracked by ImpactStory](impactstory-profile.png)
+
+\endframed\endmarginbox
+
 PLoS Article-Level Metrics
 --------------------------
 
-In 2009, the Public Library of Science (PLoS) launched its Article-Level Metrics (ALM) service.^[PLoS ALM website, URL: <http://article-level-metrics.plos.org/alm-info/>]
+\marginbox[ht]\framed
+\noindent{}**Article-Level Metrics at a glance**
+
+* Collects altmetric statistics for PLoS articles; other publishers/repositories may use the same software
+* *For:* researchers, institutions, funders
+* *Pricing:* Free
+* <http://article-level-metrics.plos.org/alm-info/>
+
+\endframed\endmarginbox
+
+\noindent{}In 2009, the Public Library of Science (PLoS) launched its Article-Level Metrics (ALM) service.^[PLoS ALM website, URL: <http://article-level-metrics.plos.org/alm-info/>]
 This compiles a set of impact indicators from PLoS's own systems and various other services,
 and makes them available in both a visual way and via an application programming interface (API).
 
@@ -378,7 +482,7 @@ The metrics compiled include
     on various blogging platforms, or on Wikipedia.
 
 The metrics are displayed on the landing pages for PLoS articles,
-and can also be compiled into custom reports.^[ALM Reports website, URL: <http://almreports.plos.org//>]
+and can also be compiled into custom reports.^[ALM Reports website, URL: <http://almreports.plos.org/>]
 
 PLoS released the source code for the ALM application in 2011.^[Lagotto (Article-Level Metrics) source code repository, URL: <https://github.com/mfenner/lagotto>]
 It was used as the basis of the (now discontinued) ScienceCard service,
@@ -392,7 +496,17 @@ the software itself is resource-type agnostic, so could be applied to datasets.
 PlumX
 -----
 
-PlumX is the main product of Plum Analytics,^[PlumX website, URL: <http://plu.mx/>.]
+\marginbox[ht]\framed
+\noindent{}**PlumX at a glance**
+
+* Collects altmetric statistics for an organisation's scholarly outputs
+* *For:* institutions, funders, publishers
+* *Pricing:* institutional subscription, price on application
+* <http://plu.mx/>
+
+\endframed\endmarginbox
+
+\noindent{}PlumX is the main product of Plum Analytics,^[PlumX website, URL: <http://plu.mx/>.]
 a company formed in 2011 and acquired by EBSCO at the start of 2014 [@harris2014acq].
 It aims to provide a more comprehensive picture of research impact than citations alone,
 and in particular to give insight into the impact that resources have
@@ -435,10 +549,35 @@ Researchers can help seed the information available
 by linking their PlumX profiles to accounts they have in other systems
 (e.g. Slideshare, GitHub) [@michalek2014plu].
 
+\marginbox[ht]\framed
+\noindent{}**Example**
+
+\smallskip
+\noindent{}When Jason Colditz wrote a blog post on Open Access publishing,
+he illustrated it with a flowchart of the publication process that he
+had deposited in figshare [@colditz2012ppo].
+His institution's PlumX profile tracks interest in the figure.^[
+PlumX profile for the figure 'Publication Process with OA', URL: <https://plu.mx/a/22ogwhQ4i9naHqqVVtbKuB8m1MoJ9sfe83lmONsd_u0>]
+
+\smallskip\centering
+![PlumX profile for the figure 'Publication Process with OA'](plumx-profile.png)
+
+\endframed\endmarginbox
+
 Altmetric
 ---------
 
-Altmetric is an article-centred service which monitors various sources for mentions of scholarly articles.
+\marginbox[ht]\framed
+\noindent{}**Altmetric at a glance**
+
+* Collects altmetric statistics for an organisation's scholarly outputs
+* *For:* researchers, institutions, publishers
+* *Pricing:* free for researchers, price on application for commercial/institutional licenses
+* <http://www.altmetric.com/>
+
+\endframed\endmarginbox
+
+\noindent{}Altmetric is an article-centred service which monitors various sources for mentions of scholarly articles.
 These sources used include Twitter, Facebook, blogs, newspaper sites and government policy documents.
 On the basis of this information,
 it computes a score intended to indicate the quality and the quantity of the attention received.
@@ -477,10 +616,35 @@ The view may be configured using different time periods and subsets of articles.
 For each article it displays not only the altmetric badge
 but also a selection of comments harvested from social media.
 
+\marginbox[ht]\framed
+\noindent{}**Example**
+
+\smallskip
+\noindent{}3D PDF images of a gigantic dinosaur ‘Dreadoughtus schrani’ were deposited in figshare [@lacovara2014dsp].
+This was picked up by the media.
+The various mentions in blogs, tweets, news outlets and other sources were tracked with Altmetric,
+which ranked the item in the top 5% of all items scored by them.^[
+Altmetric page for Dreadnoughtus schrani 3D PDF images, URL: <http://www.altmetric.com/details/2653335#score>]
+
+\smallskip\centering
+![Altmetric badge for Dreadnoughtus schrani 3D PDF images](altmetric-donut.png)
+
+\endframed\endmarginbox
+
 ResearchGate Score
 ------------------
 
-ResearchGate is a social networking site for researchers.^[ResearchGate, URL: <https://www.researchgate.net/>.]
+\marginbox[ht]\framed
+\noindent{}**ResearchGate at a glance**
+
+* Counts citations for a portfolio of scholarly outputs, plus associated internal altmetrics
+* *For:* researchers
+* *Pricing:* free
+* <https://www.researchgate.net/>
+
+\endframed\endmarginbox
+
+\noindent{}ResearchGate is a social networking site for researchers.^[ResearchGate, URL: <https://www.researchgate.net/>.]
 Users are encouraged to add their publications to their profile
 and the site generates statistics about views, downloads and citations.
 These statistics are presented to the user in a 'dashboard' display in their profile area on the website
@@ -500,7 +664,17 @@ Users can also request reviews of papers.
 Google Scholar and Microsoft Academic Search
 --------------------------------------------
 
-Google Scholar is a version of the Google search engine focused on scholarly works.^[Google Scholar, URL: <http://scholar.google.com/>.]
+\marginbox[ht]\framed
+\noindent{}**Google Scholar at a glance**
+
+* Counts citations of scholarly outputs by scholarly outputs
+* *For:* researchers
+* *Pricing:* free
+* <http://scholar.google.com/>
+
+\endframed\endmarginbox
+
+\noindent{}Google Scholar is a version of the Google search engine focused on scholarly works.^[Google Scholar, URL: <http://scholar.google.com/>.]
 Among the facilities it provides is an enumeration of the citations each work has received from the others in the database.
 While the automatically generated results can be somewhat approximate,
 researchers can get extra value from the service by setting up a profile and 'claiming' their scholarly works.
@@ -517,6 +691,16 @@ A bar chart of annual citation counts is provided.
 Users with profiles are able to improve the accuracy of the service by curating the entries they have claimed
 (e.g. ensuring there are no duplicates or incorrectly merged entries, correcting bibliographic information)
 and adding others that Google may have missed.
+
+\marginbox[ht]\framed
+\noindent{}**Microsoft Academic Search at a glance**
+
+* Counts citations of scholarly outputs by scholarly outputs
+* *For:* researchers
+* *Pricing:* free
+* <http://academic.research.microsoft.com/>
+
+\endframed\endmarginbox
 
 Microsoft Research provides a similar service called Microsoft Academic Search.^[Microsoft Academic Search, URL: <http://academic.research.microsoft.com/>.]
 It too provides citation counts for the works in its database
@@ -598,6 +782,17 @@ it is unlikely they will be relied upon too heavily when apportioning rewards to
 Even so, though currently available metrics may not be stable enough to judge relative impact,
 they can still be used on a case-by-case basis as evidence of impact in an absolute sense.
 
+\marginbox[ht]
+
+> Altmetrics data is out there right now, and it's building pictures – fuzzy though they may be – 
+> of impact that are richer, broader, and more nuanced than anything we've ever seen before.
+> Right now, today, altmetrics can mean the difference between a story and 'data-supported story',
+> and that's a pretty important difference.
+> \quotefrom – Jason Priem [@niso2012bpp]
+
+\endmarginbox
+
+\vspace{-1\baselineskip}
 Impact versus quality
 ---------------------
 
@@ -610,26 +805,38 @@ David Colquhoun, for example, points out that papers whose titles and abstracts 
 [@colquhoun2014sub].
 Indeed, many of the academics who voice objections to the use of metrics, alternative and traditional,
 do so because they object to the emphasis shifting away from quality towards impact
-[@burrows2013lwn; @colquhoun2014wos];
-while impact is easier to measure,
-it is less within a researcher's control than the intrinsic quality of their outputs.
+[@burrows2013lwn; @colquhoun2014wos].
+While researchers have a great deal of control over the quality of their outputs,
+the level of impact they receive, especially as judged by a set of metrics,
+depends on many factors outside their influence.
 
+\marginbox[ht]
+
+> Nobody really knows exactly what it means, but what we're scoring is attention,
+> it's not quality. [...] At this stage it's more about collecting the data and
+> seeing what's in there.
+> \quotefrom – Euan Adie, Altmetric [@laursen2012arm]
+
+\endmarginbox
+
+\vspace{-1\baselineskip}
 Gaming the system
 -----------------
 
 Gaming of metrics can be described as
 ‘behaviour that is meant to unfairly manipulate those metrics, generally for one's benefit’
 [@niso2014ami].
-If tweets are considered evidence of impact,
-then setting up a hundred fake Twitter accounts to tweet about one's work
-would be an example of this.
 An example from traditional bibliometrics is the citation ring,
 where a group of authors agree to cite each other extensively,
 regardless of the actual mutual impact of the papers [@ferguson.etal2014ppr].
-At the other extreme, self-citation and tweeting about one's own work are not considered unethical,
-but such practices need to be recognised and factored into calculations [@featherstone2014stm]
+If tweets are considered evidence of impact,
+then setting up a hundred fake Twitter accounts to tweet about one's work
+would be an example of gaming the system [@haustein2015tii].
+On the other hand, self-citation and tweeting about one's own work would not be considered unethical;
+neither would a repository setting up an account that automatically tweets about new deposits.
 The consensus is still emerging on where the line lies between these two extremes
-of acceptable promotion and cheating [@niso2014ami].
+of acceptable promotion and cheating,
+but even acceptable practices need to be recognised and factored into calculations [@featherstone2014stm].
 
 The effects of time
 -------------------
@@ -644,22 +851,22 @@ while traditional citations are more reliable for measuring longer-term impact.
 This is an easier argument to make for journal papers and monographs than data,
 as for the reasons outlined above datasets may not receive a representative number of citations.
 
-It should also be noted when taking a view of impact over long timescales
+It should be noted when taking a view of impact over long timescales
 that changes in the landscape will have a significant effect.
 Due to the growth in usage of services like Twitter and Facebook,
 the impact of resources measured in raw tweets and posts will naturally seem less
 the further back in time one goes, simply because there were fewer users.
 Similarly, as data citations become more commonplace, what we might consider a
 significantly high citation count today may seem, in raw numbers,
-to be relatively low in future.
+to be relatively low in future [@thelwall2013daw].
 
+Over such long timescales, changes in understanding can also play a part,
+with some works being ignored for many years before becoming highly influential.
+In such circumstances, impact metrics may give an underestimate of the importance of a work,
+due to it having to 'catch up' with the impact accrued by other works published at the same time.
 
 Tips for raising research data impact
 =====================================
-
-(Need to search literature for evidence, examples and case studies.)
-(possible examples of how altmetrics help monitor use perhaps in Cameron PLOS Opens Blog post
-Altmetrics: What are they good for?)
 
 Although a complete and seamless infrastructure of services and tools for the monitoring and measurement of the impact of data is not yet available,
 there are measures that can be taken now using existing facilities and elements of the infrastructure.
@@ -680,7 +887,8 @@ When choosing a repository, there are several questions to ask:
     Some journals specify that data underlying submissions should be deposited in a particular data repository,
     perhaps to take advantage of prearranged, coordinated workflows.
     Some funders require data to be deposited in an archive they manage,
-    or one that can guarantee to keep data for a minimum term.
+    or one that can guarantee to keep data for a minimum term;
+    the SHERPA/JULIET service can be use to check for such requirements.^[SHERPA/JULIET, URL: <http://www.sherpa.ac.uk/juliet/>.]
 
   * *Is the repository already well used by my peers?*
     Datasets are more likely to be seen, reused, and have impact
@@ -707,6 +915,9 @@ When choosing a repository, there are several questions to ask:
     World Data System certification,
     the nestor Seal for Trustworthy Digital Archives,
     and ISO 16363 certification.
+    Among the issues considered by these schemes
+    are the long-term security, integrity and usability of the holdings,
+    and the sustainability of the repository.
     While the achievement of one of these certifications is a positive sign,
     the lack thereof should not (yet) be a cause for concern
     as the schemes are relatively new at the time of writing.
@@ -716,6 +927,18 @@ When choosing a repository, there are several questions to ask:
     but helps to ensure that the archived data is easy to reuse.
     It may also attract more prestige for the data
     and inspire more confidence among potential reusers.
+
+\marginbox\framed
+\noindent{}**ORCID**
+
+\smallskip
+\noindent{}Though still in its early stages,
+ORCID (Open Researcher and Contributor Identifer) is gaining traction as a way of
+identifying researchers across many different systems.
+By claiming an ORCID ID and associating it with your outputs wherever possible,
+you can prepare for future impact-tracking services that will be able to read your profile
+and search for uses of your ID online.
+\endframed\endmarginbox
 
 Provide appropriate metadata
 ----------------------------
@@ -812,14 +1035,21 @@ Acknowledgements
 ================
 
 Thank you to
-(reviewer names)
+Robin Burgess (Glasgow School of Art),
+Eric Kansa (Open Context),
+David Kernohan (Jisc),
+Paolo Missier (Newcastle University),
+and
+Linda Naughton (Jisc)
 for helpful comments.
+\balance
 
 
 Further information
 ===================
 
 \setlength{\parindent}{0pt}\nonzeroparskip\color{dccblue}\small
+Two other DCC guides are related to this topic:
 
   * ‘How to Cite Datasets and Link to Publications’ by Alex Ball and Monica Duke
 
@@ -847,3 +1077,5 @@ The following may also be of interest.
   * \fullcite{strasser2013uci}[@strasser2013uci]
 
   * \fullcite{tattersall.beecroft2014aas}[@tattersall.beecroft2014aas]
+  
+  * \fullcite{utrecht2015riv}[@utrecht2015riv]
