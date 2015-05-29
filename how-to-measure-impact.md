@@ -441,6 +441,21 @@ The code and governance of the service are also open.
 Ideas for further development of the service are invited through a feedback forum,
 and users can vote for the ideas they would like the developers to prioritise.
 
+\marginbox[ht]\framed
+\noindent{}**Example**
+
+\smallskip
+\noindent{}'Mousing over' elements of an ImpactStory profile reveals more information.
+The pop-up for Bik et al.'s 2012 dataset on benthic microbial eukaryote communities
+reveals it has received more Dryad views than 86% of the datasets from that year
+tracked by the service~.^[
+Holly Bik's ImpactStory profile – datasets, URL: <https://impactstory.org/HollyBik/products/datasets>]
+
+\smallskip\centering
+![Holly Bik's datasets as tracked by ImpactStory](impactstory-profile.png)
+
+\endframed\endmarginbox
+
 PLoS Article-Level Metrics
 --------------------------
 
@@ -540,7 +555,7 @@ by linking their PlumX profiles to accounts they have in other systems
 \smallskip
 \noindent{}When Jason Colditz wrote a blog post on Open Access publishing,
 he illustrated it with a flowchart of the publication process that he
-simultaneously deposited in figshare [@colditz2012ppo].
+had deposited in figshare [@colditz2012ppo].
 His institution's PlumX profile tracks interest in the figure.^[
 PlumX profile for the figure 'Publication Process with OA', URL: <https://plu.mx/a/22ogwhQ4i9naHqqVVtbKuB8m1MoJ9sfe83lmONsd_u0>]
 
