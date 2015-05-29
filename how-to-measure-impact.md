@@ -926,6 +926,18 @@ When choosing a repository, there are several questions to ask:
     It may also attract more prestige for the data
     and inspire more confidence among potential reusers.
 
+\marginbox\framed
+\noindent{}**ORCID**
+
+\smallskip
+\noindent{}Though still in its early stages,
+ORCID (Open Researcher and Contributor Identifer) is gaining traction as a way of
+identifying researchers across many different systems.
+By claiming an ORCID ID and associating it with your outputs wherever possible,
+you can prepare for future impact-tracking services that will be able to read your profile
+and search for uses of your ID online.
+\endframed\endmarginbox
+
 Provide appropriate metadata
 ----------------------------
 
