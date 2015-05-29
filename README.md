@@ -29,19 +29,19 @@ Compiling the document
 If you have Pandoc and pandoc-citeproc installed you can generate more presentable versions of the document. For HTML:
 
 ~~~~
-pandoc -s -S --biblio impact.bib --csl apa.csl how-to-measure-impact.md -o how-to-measure-impact.html
+pandoc -s -S --biblio impact.bib --csl dcchowto-apa.csl how-to-measure-impact.md -o how-to-measure-impact.html
 ~~~~
 
 For MS Office:
 
 ~~~~
-pandoc -S --biblio impact.bib --csl apa.csl how-to-measure-impact.md -o how-to-measure-impact.docx
+pandoc -S --biblio impact.bib --csl dcchowto-apa.csl how-to-measure-impact.md -o how-to-measure-impact.docx
 ~~~~
 
 For PDF, you will need to have a TeX distribution installed. The command to pass will be different depending on your exact set up; here's an example that uses LuaLaTeX as the engine, and Charis SIL and DejaVu Sans Mono as the fonts:
 
 ~~~~
-pandoc -s -S --latex-engine=lualatex --biblio impact.bib --csl apa.csl -V fontsize=11pt -V papersize=a4paper -V lang=british -V geometry:hmargin=3cm -V geometry:vmargin=2.5cm -V mainfont="Charis SIL" -V monofont="DejaVu Sans Mono" how-to-measure-impact.md -o how-to-measure-impact-preview.pdf
+pandoc -s -S --latex-engine=lualatex --biblio impact.bib --csl dcchowto-apa.csl -N -V fontsize=11pt -V papersize=a4paper -V lang=british -V geometry:hmargin=3cm -V geometry:vmargin=2.5cm -V mainfont=Charis\ SIL -V monofont=DejaVu\ Sans\ Mono -V documentclass=memoir -V classoption="article,oneside" -V header-includes="\usepackage{footmisc}\usepackage[svgnames]{xcolor}\colorlet{dccblue}{Blue}\colorlet{shadecolor}{AntiqueWhite}\newfloat{marginbox}{lom}{Box}\let\nonzeroparskip\relax\let\quotefrom\relax\let\balance\relax\let\fullcite\textbf" how-to-measure-impact.md -o how-to-measure-impact-preview.pdf
 ~~~~
 
 If you also have the following installed, you can take advantage of the Makefile:
