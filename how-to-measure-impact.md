@@ -676,7 +676,7 @@ Google Scholar and Microsoft Academic Search
 
 \noindent{}Google Scholar is a version of the Google search engine focused on scholarly works.^[Google Scholar, URL: <http://scholar.google.com/>.]
 Among the facilities it provides is an enumeration of the citations each work has received from the others in the database.
-While the automatically generated results can be somewhat approximate,
+This information is automatically generated and therefore somewhat approximate, but
 researchers can get extra value from the service by setting up a profile and 'claiming' their scholarly works.
 Having done so, a profile page is created that lists the works alongside their respective citation counts;
 in addition, it provides three aggregate statistics:
