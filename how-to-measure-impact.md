@@ -171,6 +171,9 @@ their impact may also be demonstrated through, for example,
   * adoption of their ideas by industry or government;
   * invitations to speak to the media.
 
+![The variety of impact recognised by the BBSRC Policy on Maximising the Impact
+of Research](bbsrc-bubbles.png)
+
 This is a particular concern as,
 if researchers only get recognition and reward for their journal papers,
 they will be disincentivised against spending time on other activities
