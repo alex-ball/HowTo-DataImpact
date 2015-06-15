@@ -928,6 +928,9 @@ When choosing a repository, there are several questions to ask:
     It may also attract more prestige for the data
     and inspire more confidence among potential reusers.
 
+For more information on choosing a repository, please see the DCC guide
+‘Where to Keep your Data: Key Considerations’ [@whyte2015wtk].
+
 \marginbox\framed
 \noindent{}**ORCID**
 
@@ -1051,9 +1054,16 @@ Further information
 \setlength{\parindent}{0pt}\nonzeroparskip\color{dccblue}\small
 Two other DCC guides are related to this topic:
 
-  * ‘How to Cite Datasets and Link to Publications’ by Alex Ball and Monica Duke
+  * **Working level:** ‘[How to Cite Datasets and Link to
+    Publications](http://www.dcc.ac.uk/resources/how-guides/cite-datasets)’
+    by Alex Ball and Monica Duke
 
-  * ‘How to License Research Data’ by Alex Ball
+  * **Working level:** ‘[How to License Research
+    Data](http://www.dcc.ac.uk/resources/how-guides/license-research-data)’
+    by Alex Ball
+
+  * **Working level:** ‘[Where to Keep your Data: Key
+    Considerations](http://bit.ly/where2keep)’ by Angus Whyte
 
 \normalcolor
 The following may also be of interest.
