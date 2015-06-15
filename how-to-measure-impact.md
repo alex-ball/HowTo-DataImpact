@@ -928,7 +928,7 @@ When choosing a repository, there are several questions to ask:
     It may also attract more prestige for the data
     and inspire more confidence among potential reusers.
 
-For more information on choosing a repository, please see the DCC guide
+For more guidance on choosing a repository, please see the DCC checklist
 ‘Where to Keep your Data: Key Considerations’ [@whyte2015wtk].
 
 \marginbox\framed
