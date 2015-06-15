@@ -124,21 +124,17 @@ It is distinct from, but related to, concepts such as
 and *dissemination* (how widely a resource has been distributed).
 When considering proposed metrics,
 it is therefore important to consider what exactly is being measured
-and how many steps of inference lie between it and the impact of the entity in which one is interested [@hicks.etal2015blm].
+and the strength of the evidence it provides for the impact of the entity in which one is interested [@hicks.etal2015blm].
 
 For example, citation counts are often used as a measure of the influence that a paper has on subsequent literature in a discipline.
-This already involves one level of inference,
+They are not a true measure,
 as papers may be cited for reasons other than acknowledging influence
-(e.g. as part of a refutation, or to acknowledge an unused line of enquiry).
-Building on that, one may infer from the impact of the paper something about the impact of each of the authors,
-the institutions at which they are based,
-the project of which the paper is an output,
-and the body that funded the research;
-but the further removed one gets from the paper,
-the more cautious one must be.
+(e.g. as part of a refutation, or to acknowledge an unused line of enquiry),
+but serve as a useful proxy measure.
+In aggregrate, citation counts can be used as a proxy measure for the impact of other entities –
+the authors, the funding body, and so on –
+but at a weaker level of inference.
 
-At these higher levels of inference, one is typically interested less in individual statistics
-and more in trends arising from aggregate data.
 The *h*-index, for example, is a measure of researcher impact and productivity derived from the citation counts of papers [@hirsch2005iqi].
 Researchers have an index *h* if exactly *h* of their published papers have been cited *h* or more times.
 This way of aggregating the citation counts means that researchers have to produce highly cited papers in quantity in order to score highly;
