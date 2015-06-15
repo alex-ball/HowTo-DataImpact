@@ -1,5 +1,5 @@
 ---
-title: How to Track the Impact of Research Data
+title: How to Track the Impact of Research Data with Metrics
 author:
 -   Alex Ball (DCC)
 -   Monica Duke (DCC)
