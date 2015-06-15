@@ -124,7 +124,7 @@ It is distinct from, but related to, concepts such as
 and *dissemination* (how widely a resource has been distributed).
 When considering proposed metrics,
 it is therefore important to consider what exactly is being measured
-and how many steps of inference lie between it and the impact of the entity in which one is interested.
+and how many steps of inference lie between it and the impact of the entity in which one is interested [@hicks.etal2015blm].
 
 For example, citation counts are often used as a measure of the influence that a paper has on subsequent literature in a discipline.
 This already involves one level of inference,
