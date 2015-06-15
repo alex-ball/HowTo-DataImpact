@@ -13,8 +13,8 @@ classoption:
 > and the services and tools available for measuring impact.
 > After discussing some of the current issues and challenges,
 > it provides some tips on increasing the impact of your own data.
-> This guide should interest researchers and principal investigators working on 
-> data-led research, administrators working with research quality assessment 
+> This guide should interest researchers and principal investigators working on
+> data-led research, administrators working with research quality assessment
 > submissions, librarians and others helping to track the impact of data
 > within institutions.
 
@@ -72,7 +72,7 @@ which may not be comprehensive especially given how broad the consideration of i
 The output from tools for tracking impact must also be carefully considered.
 As discussed below, due to the immaturity of the area some of the measurements may not be comparable.
 A note of caution must be sounded if using derived data for decision making:
-knowledge of the strengths and weaknesses of different metrics must be taken into account. 
+knowledge of the strengths and weaknesses of different metrics must be taken into account.
 
 Researchers can however start to use some metrics as indicators of impact
 and follow them up as potential leads that could become the basis of demonstrating impact in a case study.
@@ -187,7 +187,7 @@ journal papers.
 
 > Traditionally, we have attempted to measure the impact of the journal in which that research was published
 > as a proxy for the impact of the research itself.
-> However, this method is becoming increasingly problematic as more research is 
+> However, this method is becoming increasingly problematic as more research is
 > created and disseminated digitally and in forms beyond the traditional journal article.
 > \quotefrom – Andy Wesolek [@wesolek2014mui]
 
@@ -213,8 +213,8 @@ subject to the limitation described above.
 The analogy can be taken further, as datasets can meaningfully make references as well as receive citations.
 One suggested formal mechanism for this is to package the data
 within a research object,^[Research Objects, URL: <http://www.researchobject.org>.] rich in metadata.
-If this idea gains traction, derived data products could then cite the source data, 
-with referencing between data products 
+If this idea gains traction, derived data products could then cite the source data,
+with referencing between data products
 (or research objects) providing a complementary citing network
 alongside that of publications.
 
@@ -784,7 +784,7 @@ they can still be used on a case-by-case basis as evidence of impact in an absol
 
 \marginbox[ht]
 
-> Altmetrics data is out there right now, and it's building pictures – fuzzy though they may be – 
+> Altmetrics data is out there right now, and it's building pictures – fuzzy though they may be –
 > of impact that are richer, broader, and more nuanced than anything we've ever seen before.
 > Right now, today, altmetrics can mean the difference between a story and 'data-supported story',
 > and that's a pretty important difference.
@@ -1060,6 +1060,8 @@ The following may also be of interest.
 
   * \fullcite{dean.etal2013sei}[@dean.etal2013sei]
 
+  * \fullcite{konkiel.etal2015aad}[@konkiel.etal2015aad]
+
   * \fullcite{macgillivray2012mri}[@macgillivray2012mri]
 
   * \fullcite{neylon2014awa}[@neylon2014awa]
@@ -1077,5 +1079,5 @@ The following may also be of interest.
   * \fullcite{strasser2013uci}[@strasser2013uci]
 
   * \fullcite{tattersall.beecroft2014aas}[@tattersall.beecroft2014aas]
-  
+
   * \fullcite{utrecht2015riv}[@utrecht2015riv]
