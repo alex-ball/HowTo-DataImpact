@@ -284,8 +284,8 @@ Social media links
 Perhaps the alternative metrics closest to references in journal articles
 are those that measure the topicality of the dataset on social media platforms.
 If people are moved to share or discuss a dataset with friends, colleagues and the wider world,
-there is an implication it has affected them in some way,
-though that might not translate into genuine impact.
+there is a likelihood it has affected them in some way,
+meaning it is worth looking closer for evidence of impact.
 
 Twitter^[Twitter, URL: <http://twitter.com/>.] is a social networking tool that enables users to send short messages known as ‘tweets’ to their followers.
 As they are limited to 140 characters, tweets lend themselves to immediate reaction and brief sentiments.
@@ -300,8 +300,8 @@ just as it is when analysing traditional citations.
 It can also be informative to track any ensuing conversation –
 replies or forwards (‘retweets’) –
 as these can indicate how far others agree with the sentiments of the original tweet.
-It should be noted that there is a cultural dimension to tweets, for example in some
-communities it is not considered a professional activity for academics.
+It should be noted that there is a cultural dimension to tweeting;
+for example in some communities it is not considered a professional activity for academics.
 
 \marginbox
 
