@@ -1004,8 +1004,9 @@ Robin Burgess (Glasgow School of Art),
 Eric Kansa (Open Context),
 David Kernohan (Jisc),
 Paolo Missier (Newcastle University),
+Linda Naughton (Jisc),
 and
-Linda Naughton (Jisc)
+Angus Whyte (DCC)
 for helpful comments.
 \balance
 
@@ -1014,7 +1015,7 @@ Further information
 ===================
 
 \setlength{\parindent}{0pt}\nonzeroparskip\color{dccblue}\small
-Two other DCC guides are related to this topic:
+Three other DCC guides are related to this topic:
 
   * **Working level:** ‘[How to Cite Datasets and Link to
     Publications](http://www.dcc.ac.uk/resources/how-guides/cite-datasets)’
