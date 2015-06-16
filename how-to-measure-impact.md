@@ -133,7 +133,7 @@ as papers may be cited for reasons other than acknowledging influence
 but serve as a useful proxy measure.
 In aggregrate, citation counts can be used as a proxy measure for the impact of other entities –
 the authors, the funding body, and so on –
-but at a weaker level of inference.
+but at a weaker level of confidence.
 
 The *h*-index, for example, is a measure of researcher impact and productivity derived from the citation counts of papers [@hirsch2005iqi].
 Researchers have an index *h* if exactly *h* of their published papers have been cited *h* or more times.
@@ -161,26 +161,26 @@ to apply metrics to articles and authors on an individual basis.
 Furthermore, measuring the impact of an entity through indirect means,
 as happens with both the JIF and the *h*-factor,
 provides only an incomplete picture.
-Researchers can have a positive impact on their discipline and the wider world
-by means other than attracting citations to their journal papers:
-their impact may also be demonstrated through, for example,
+This is one reason why funding bodies have so far been reluctant to use metrics directly,
+preferring narrative case studies that can explore the full range of possible impact.
+For example, [Figure 1](#fig:bbsrc-impact) shows the types of impact recognised by BBSRC in its
+*Policy on Maximising the Impact of Research* [@bbsrc2012pmi].
+Specifically data-related impact researchers can have include
 
-  * widespread use of software they have written;
-  * reuse of data they have shared;
-  * appearance of their monographs in course reading lists;
-  * adoption of their ideas by industry or government;
-  * invitations to speak to the media.
+  * reuse of data they have shared to derive new knowledge;
+  * incorporation of their data into larger datasets or data products;
+  * widespread use of software or workflows they have written.
 
-![The variety of impact recognised by the BBSRC Policy on Maximising the Impact
-of Research](bbsrc-bubbles.png)
+<div id="fig:bbsrc-impact" class="div_highlight" style="border-radius:8px;">
+![The variety of impact recognised by the UK Biotechnology and Biological Sciences Research Council\label{fig:bbsrc-impact}](bbsrc-bubbles.png)
 
-This is a particular concern as,
-if researchers only get recognition and reward for their journal papers,
-they will be disincentivised against spending time on other activities
-that may be of greater long-term benefit to their field of study.
-For this reason, researchers and organisations have been exploring ways
-of measuring impact that go beyond counting citations between traditional
-journal papers.
+</div>
+
+No one metric can hope to represent fairly all these possibilities,
+so it is worth exploring the variety of metrics that can be used.
+As noted above, there are risks and concerns about reading too much into any given statistic,
+but metrics do provide an accessible way of uncovering evidence that might be
+suitable for use in an impact case study.
 
 \marginbox
 
