@@ -879,53 +879,16 @@ The most effective and straightforward way of achieving this stability
 is to deposit data in an appropriate custodial environment
 where it will be preserved and visible for the foreseeable future.
 
-When choosing a repository, there are several questions to ask:
+When choosing a repository with impact in mind, there are many different issues to consider:
 
-  * *Does the repository satisfy the requirements of my journal, institution,
-    and funding body?*
-    Some journals specify that data underlying submissions should be deposited in a particular data repository,
-    perhaps to take advantage of prearranged, coordinated workflows.
-    Some funders require data to be deposited in an archive they manage,
-    or one that can guarantee to keep data for a minimum term;
-    the SHERPA/JULIET service can be use to check for such requirements.^[SHERPA/JULIET, URL: <http://www.sherpa.ac.uk/juliet/>.]
-
-  * *Is the repository already well used by my peers?*
-    Datasets are more likely to be seen, reused, and have impact
-    if they can be found where potential reusers are likely to look.
-    If you are unsure where that might be,
-    the Registry of Research Data Repositories (re3data.org) provides a list of repositories
-    organised by subject, content type and country.^[Re3data.org, URL: <http://www.re3data.org/>.]
-    If using a generic, institutional data repository,
-    it might be worth asking if their holdings data is aggregated by a
-    national or international discovery service.
-
-  * *Will the repository provide a persistent, unique identifier (PUID) for my data?*
-    PUIDs are highly effective for making data easy to cite,
-    and for making mentions of the data easy to track.
-    If the PUIDs can be translated into locations,
-    as is the case for DOIs, Handles and ARKs [@hilse.kothe2006ipi],
-    it makes accessing the data from such citations and mentions more transparent.
-
-  * *Has the repository been certified as trustworthy?*
-    There are several certification schemes in operation in which repositories can participate
-    to demonstrate their trustworthiness.
-    In approximate ascending order of stringency, there is
-    the Data Seal of Approval,
-    World Data System certification,
-    the nestor Seal for Trustworthy Digital Archives,
-    and ISO 16363 certification.
-    Among the issues considered by these schemes
-    are the long-term security, integrity and usability of the holdings,
-    and the sustainability of the repository.
-    While the achievement of one of these certifications is a positive sign,
-    the lack thereof should not (yet) be a cause for concern
-    as the schemes are relatively new at the time of writing.
-
-  * *Does the repository impose quality standards on submitted data?*
-    Depositing data in a repository with stricter quality standards may be more time consuming,
-    but helps to ensure that the archived data is easy to reuse.
-    It may also attract more prestige for the data
-    and inspire more confidence among potential reusers.
+  * Is the repository reputable? Has it been certified as trustworthy?
+    Is it recommended or required by my journal, institution or funder?
+  * Is the repository already well used by my peers?
+    Will they be able to discover my data there?
+  * Will the repository review the data for quality?
+  * Will the repository provide a persistent, unique identifier (PUID) for my data?
+  * Will the repository collect usage statistics?
+    Is it indexed or monitored by external services such as the Data Citation Index or ImpactStory?
 
 For more guidance on choosing a repository, please see the DCC checklist
 ‘Where to Keep your Data: Key Considerations’ [@whyte2015wtk].
