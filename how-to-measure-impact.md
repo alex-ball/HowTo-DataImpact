@@ -63,7 +63,7 @@ meeting the needs of a particular community.
 
 It is therefore in the interests of researchers and institutions to track the impact of their research.
 An obvious place to start is with the impact of research outputs, including datasets.
-Admittedly, the prospect of using quantitative measures for this is not without controversy.
+Admittedly, the prospect of using quantitative measures for assessing impact is not without controversy.
 Social and political concerns include the encroachment on academic freedom and creativity,
 and the effects on the well-being of researchers of working in a culture of measurement [@kansa2014ins].
 The limitations of what is being measured must also be recognised:
