@@ -74,7 +74,7 @@ As discussed below, due to the immaturity of the area some of the measurements m
 A note of caution must be sounded if using derived data for decision making:
 knowledge of the strengths and weaknesses of different metrics must be taken into account.
 
-Researchers can however start to use some metrics as indicators of impact
+Researchers can, however, start to use some metrics as indicators of impact
 and follow them up as potential leads that could become the basis of demonstrating impact in a case study.
 Furthermore, by monitoring usage of their shared datasets,
 researchers can get to know which forms of data preparation and data publication work best,
@@ -90,7 +90,7 @@ Institutions can benefit from data usage monitoring when they come to
 * plan for and monitor the success of the infrastructure providing access to the data,
   in particular to gauge capacity requirements in storage, archival and network systems;
 * instigate promotional activities and celebrate data sharing and re-use successes by researchers at the institution;
-* create special collections around popular data sets;
+* create special collections around popular datasets;
 * meet funder requirements to safeguard data for the appropriate length of time since last use [@rdmf122014turd].
 
 As an example of the latter points,
@@ -159,13 +159,13 @@ There are compelling arguments against using the JIF in so simplistic a manner.
 It is no longer the case that it is prohibitively time consuming
 to apply metrics to articles and authors on an individual basis.
 Furthermore, measuring the impact of an entity through indirect means,
-as happens with both the JIF and the *h*-factor,
+as happens with both the JIF and the *h*-index,
 provides only an incomplete picture.
 This is one reason why funding bodies have so far been reluctant to use metrics directly,
 preferring narrative case studies that can explore the full range of possible impact.
 For example, [Figure 1](#fig:bbsrc-impact) shows the types of impact recognised by BBSRC in its
 *Policy on Maximising the Impact of Research* [@bbsrc2012pmi].
-Specifically data-related impact researchers can have include
+Specifically data-related impact researchers can have includes
 
   * reuse of data they have shared to derive new knowledge;
   * incorporation of their data into larger datasets or data products;
@@ -211,7 +211,7 @@ subject to the limitation described above.
 
 The analogy can be taken further, as datasets can meaningfully make references as well as receive citations.
 One suggested formal mechanism for this is to package the data
-within a research object,^[Research Objects, URL: <http://www.researchobject.org>.] rich in metadata.
+within a research object rich in metadata.^[Research Objects, URL: <http://www.researchobject.org>.]
 If this idea gains traction, derived data products could then cite the source data,
 with referencing between data products
 (or research objects) providing a complementary citing network
@@ -268,8 +268,8 @@ The number of times the dataset catalogue page has been viewed gives an indicati
 Downloads
 ---------
 
-Web server logs can also be used to count the number of times that a data file has been downloaded.
-This indicates a stronger level of interest in the data than does the count of catalogue page views,
+Web server logs can also be used to count the number of times a data file has been downloaded.
+This indicates a stronger level of interest in the data than can be inferred from a count of catalogue page views,
 since it implies a desire to look at the actual data,
 but the statistic alone does not reveal the use to which the downloaded data might be put.
 
@@ -301,7 +301,7 @@ It can also be informative to track any ensuing conversation –
 replies or forwards (‘retweets’) –
 as these can indicate how far others agree with the sentiments of the original tweet.
 It should be noted that there is a cultural dimension to tweeting;
-for example in some communities it is not considered a professional activity for academics.
+for example, in some communities it is not considered a professional activity for academics.
 
 \marginbox
 
@@ -379,18 +379,18 @@ Thomson Reuters Data Citation Index
 It provides records at four levels of granularity:
 nanopublication,
 dataset,
-data study (a research activity producing one or more data sets) and
+data study (a research activity producing one or more datasets) and
 repository.
 The records can be searched and filtered in various ways, in the same way as (and indeed in combination with) the other indices in Web of Knowledge.
-The records are linked so that, for example, from a repository record one can view records for the data studies and data sets held by that repository.
+The records are linked so that, for example, from a repository record one can view records for the data studies and datasets held by that repository.
 Sample citations are also provided.
 
 On each record, the DCI displays the number of times the entity has been cited in Web of Knowledge.
-Recognising the variety of ways in which data sets and repositories can be cited,
+Recognising the variety of ways in which datasets and repositories can be cited,
 the DCI counts not only entries in the reference list but also less formal citations that occur elsewhere in scholarly papers
 (for example, in the abstract or acknowledgements).
 
-Selection for inclusion in the DCI is at the level of whole repositories rather than individual data sets or studies.
+Selection for inclusion in the DCI is at the level of whole repositories rather than individual datasets or studies.
 The criteria used for selecting repositories include
 longevity,
 sustainability,
@@ -447,7 +447,7 @@ and users can vote for the ideas they would like the developers to prioritise.
 \noindent{}'Mousing over' elements of an ImpactStory profile reveals more information.
 The pop-up for Bik et al.'s 2012 dataset on benthic microbial eukaryote communities
 reveals it has received more Dryad views than 86% of the datasets from that year
-tracked by the service~.^[
+tracked by the service.^[
 Holly Bik's ImpactStory profile – datasets, URL: <https://impactstory.org/HollyBik/products/datasets>]
 
 \smallskip\centering
@@ -534,7 +534,7 @@ The metrics are grouped into five categories:
 
 The totals for these metrics are displayed in a dashboard;
 bar charts or sunburst diagrams supplement a tabular view,
-and not only is data available at the level of individual resources
+and data is not only available at the level of individual resources,
 but also aggregated for individual researchers,
 resource types,
 and various levels of organisational unit (programmes, departments, whole organisations).^[Example
@@ -577,8 +577,8 @@ Altmetric
 \endframed\endmarginbox
 
 \noindent{}Altmetric is an article-centred service which monitors various sources for mentions of scholarly articles.
-These sources used include Twitter, Facebook, blogs, newspaper sites and government policy documents.
-On the basis of this information,
+These sources include Twitter, Facebook, blogs, newspaper sites and government policy documents.
+On the basis of this information
 it computes a score intended to indicate the quality and the quantity of the attention received.
 The score is calculated from the volume of mentions,
 with each mention weighted according to its source
@@ -677,8 +677,8 @@ Google Scholar and Microsoft Academic Search
 Among the facilities it provides is an enumeration of the citations each work has received from the others in the database.
 This information is automatically generated and therefore somewhat approximate, but
 researchers can get extra value from the service by setting up a profile and 'claiming' their scholarly works.
-Having done so, a profile page is created that lists the works alongside their respective citation counts;
-in addition, it provides three aggregate statistics:
+Having done so, a profile page is created that lists the works alongside their respective citation counts.
+In addition, the page provides three aggregate statistics:
 the total count of citations the works have received,
 an *h*-index, and an i10-index,
 the latter being the number of works receiving at least 10 citations.
@@ -971,7 +971,7 @@ For more information about licensing data, please see the DCC guide
 Raise awareness
 ---------------
 
-Depositing a dataset in well-used repository,
+Depositing a dataset in a well used repository,
 or having it indexed in a popular discovery service,
 is a great first step to ensuring it is visible.
 To take things further, there are more direct ways to draw the attention of potential reusers to the dataset.
