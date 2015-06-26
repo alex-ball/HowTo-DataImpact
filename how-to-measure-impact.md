@@ -458,7 +458,7 @@ Holly Bik's ImpactStory profile – datasets, URL: <https://impactstory.org/Holl
 PLoS Article-Level Metrics
 --------------------------
 
-\marginbox[ht]\framed
+\marginbox[h!]\framed
 \noindent{}**Article-Level Metrics at a glance**
 
 * Collects altmetric statistics for PLoS articles; other publishers/repositories may use the same software
@@ -893,18 +893,6 @@ When choosing a repository with impact in mind, there are many different issues 
 For more guidance on choosing a repository, please see the DCC checklist
 ‘Where to Keep your Data: Key Considerations’ [@whyte2015wtk].
 
-\marginbox\framed
-\noindent{}**ORCID**
-
-\smallskip
-\noindent{}Though still in its early stages,
-ORCID (Open Researcher and Contributor Identifer) is gaining traction as a way of
-identifying researchers across many different systems.
-By claiming an ORCID ID and associating it with your outputs wherever possible,
-you can prepare for future impact-tracking services that will be able to read your profile
-and search for uses of your ID online.
-\endframed\endmarginbox
-
 Provide appropriate metadata
 ----------------------------
 
@@ -939,6 +927,18 @@ BioSharing,^[BioSharing, URL: <https://www.biosharing.org/>.]
 the Global Earth Observation System of Systems (GEOSS) Standards and Interoperability Registry (SIR),^[GEOSS SIR, URL: <http://seabass.ieee.org/groups/geoss/>.]
 and
 the Marine Metadata Interoperability (MMI) project's Content Standard References.^[MMI Content Standard References, URL: <https://marinemetadata.org/conventions/content-standards>.]
+
+\marginbox\framed
+\noindent{}**ORCID**
+
+\smallskip
+\noindent{}Though still in its early stages,
+ORCID (Open Researcher and Contributor Identifer) is gaining traction as a way of
+identifying researchers across many different systems.
+By claiming an ORCID ID and associating it with your outputs wherever possible,
+you can prepare for future impact-tracking services that will be able to read your profile
+and search for uses of your ID online.
+\endframed\endmarginbox
 
 Enable open access
 ------------------
@@ -993,7 +993,7 @@ if there is a compelling story surrounding it,
 this can help propagate the message through the normal sharing mechanisms.
 In all such cases, it is important to include the dataset identifier
 as this makes it much easier for impact measurement tools to track
-how interest in the dataset spreads through social media [@featherstone2014stm; @niso2014ami].
+how interest in the dataset spreads through social media.[@featherstone2014stm][@niso2014ami]
 
 
 Acknowledgements
@@ -1009,7 +1009,6 @@ and
 Angus Whyte (DCC)
 for helpful comments.
 \balance
-
 
 Further information
 ===================
