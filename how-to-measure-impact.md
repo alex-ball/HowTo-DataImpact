@@ -170,7 +170,7 @@ Specifically data-related impact researchers can have includes
   * incorporation of their data into larger datasets or data products;
   * widespread use of software or workflows they have written.
 
-<div id="fig:bbsrc-impact" class="div_highlight" style="border-radius:8px;">
+<div id="fig:bbsrc-impact" class="div_highlight" style="border-radius:8px;text-align:center;">
 ![The variety of impact recognised by the UK Biotechnology and Biological Sciences Research Council\label{fig:bbsrc-impact}](bbsrc-bubbles.png)
 
 </div>
