@@ -75,8 +75,6 @@ $endfor$
 \printbibliography[category=notcited]
 $endif$
 
-\textbf{Please cite as:} \DCCHowtoAuthorAPA\ (\the\year). ‘\thetitle’. \emph{DCC How-to Guides}. Edinburgh: Digital Curation Centre. Available online: \url{http://www.dcc.ac.uk/resources/how-guides}
-
 \vspace{2\baselineskip plus 2\baselineskip minus 2\baselineskip}
 \noindent\begingroup\color{dccblue}
 The Digital Curation Centre (DCC) is a consortium of the Universities of Edinburgh, Glasgow and Bath,
